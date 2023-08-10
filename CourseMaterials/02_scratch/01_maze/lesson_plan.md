@@ -14,7 +14,7 @@ Scratch Intro
 
 ### Actual Lesson
 
-> NOTE: Have them minimize scratch whenever working as a group
+> NOTE: Have them minimize scratch whenever need attention
 
 - Reflection:
     - What did we talk about last lesson?
@@ -71,8 +71,18 @@ Scratch Intro
     - Make look like cat's running when moving
     - "q" quits the game
     - Multiple Levels
-    - Timer
-    - Lives
+    - NPC wandering around randomly to hit us
+- Reflection:
+    - How do we get the impression of motion?
+    - If we wanted to simulate this as humans, what would we have to do?
+    - How is this similar to the laser game and how is it different?
+    - Give me an example of an `if` statement from your life?
+    - Give me an example of a `while` statement from your life?
+    - What would we need to do to make this a professional video game?
+    - What could we do if we wanted to play this game on opposite day?
+    - What other types of input could we use?
 
 ### Homework
-    - shapes.docx
+
+- shapes.docx
+    - https://www.youtube.com/watch?v=PWjzE513xd0
