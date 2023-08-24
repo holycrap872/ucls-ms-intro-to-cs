@@ -71,6 +71,7 @@ the same basic logic and how they can be manipulated to do many cool things.
     - Q: Why is speed important for these loops?
     - Q: Could a human "be a computer" and do a video game with paper?
     - Q: How is your daily life like a game loop?
-- Homework
-    - Log into scratch and email me a screen shot
+
+## Homework
+ - Log into scratch and email me a screen shot
 

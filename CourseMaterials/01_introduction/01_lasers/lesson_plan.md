@@ -48,6 +48,7 @@ of understanding/executing the program.
     - Q: How is this different from programming computers?
     - Q: Why are we using a restricted set of words?
 - Conditionals
+    - Q: What would happen if a guard came in?
     - Q: Who remembers words like "if", "else", "repeat" from last year
         - Q: What do they mean?
     - Q: Why didn't we have to use them here?
@@ -59,8 +60,9 @@ of understanding/executing the program.
 
 ## Homework Assignment
 
-Identify three instances on your computer/program that uses conditionals.
-For example
-    if clicked open this
-    if clicked do this
+- Identify three instances on your computer/program that uses conditionals.
+    - For example
+        - if clicked open this
+        - if clicked do this
+- Maybe `control_statements_worksheet.docx`?
     
