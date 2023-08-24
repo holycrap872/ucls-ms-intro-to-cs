@@ -1,0 +1,74 @@
+Part 4
+
+Review:
+	Variables
+		What are ones that come with Scratch?
+		Set vs. Change
+		Why variables good?
+	Opening Problem
+		Create calculator
+		Asks user for 2 numbers and operation (+-*/)
+		Then says the solution of that operation performed on those 2 numbers
+		Once everyone done, pick someone and go over answer on board
+	Go over homework
+	Motion
+		Up to this point constant motion
+		If your car was like this, it would be tough to get to school
+			Would probably get thrown through windshield when stopping outside since going 30 right before that
+		Realistic motion slow down speed up
+	Activity
+		Need 3 volunteers
+			Warn this demonstration is terrible unless people are into it
+			Pick excited people
+			They're racers
+		Need 3 more
+			They're "pit crew" (start at 3, change by 0) (start at 0, change by 1) (start at -4, change by 2)
+		Explain how it works
+			Every time I say next time through the game loop...
+				Racer turns around and asks pit crew how many steps to take
+				Pit crew tells them
+				Pit crew changes by their change number
+				In that order
+				Steps can be as big or small as you want
+			Will keep going through the game loop until someone wins
+		Do example
+			Pick a pit crew person and ask what value they will tell their racer when asked first, then second...
+		Do it
+			Take down to gym
+			Start on baseline
+			First one to go out, touch opposite baseline, then come back wins
+			Teacher acts as "loop" letting everyone go once before going on to next loop
+			Do it twice
+	Discuss
+		What is a better name for the pit crew
+			Variables
+		What type of motion is this?
+			Acceleration
+	Do it in scratch
+		Use "pick random sprite" in scratch; normally funny
+		Name variables instead of speed people who were variables
+			From experience, if the person increased by 2, make it .2 in scratch
+		"Racer starts at starting line"-> go to statement before entering loop
+			Build narrative
+		What would be a better name for this variable?
+		Show each person individually as build them, then simulate entire race
+		Do example where someone starts at like 10 and slows down
+		Do pseudo code of car on straight line on baord (Max speed)
+	Racecar Game
+		Pair up
+		Pseudo code together
+			1. Draw race track and car
+			2. Get car moving
+			3. Get car accelerating
+			4. Get car decelerating
+			5. Have car slow down when hits grass
+		Once done psuedo coding, hand out sheet
+			Follow directions exactly on sheet and will run into answer
+	Analyze
+		Speed v. time graph
+			constant and accelerating
+		Distance v. time graph
+			constant and accelerating
+
+Homework:
+	Worksheet

@@ -21,6 +21,11 @@ Scratch Intro
     - What is a loop?
     - How does the game loop work?
     - What is a conditional?
+        - Act out if/else
+            - `if light is on, stand up, else, sit down`
+            - `if light changes give me money`
+        - Act out loop
+            - `while light on, keep jumping`
     - What is an example of a conditional in a game?
     - What is an example of a conditional in your life?
 - Scratch initialization
@@ -72,6 +77,7 @@ Scratch Intro
     - "q" quits the game
     - Multiple Levels
     - NPC wandering around randomly to hit us
+    - https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
 - Reflection:
     - How do we get the impression of motion?
     - If we wanted to simulate this as humans, what would we have to do?

@@ -1,0 +1,48 @@
+Lesson plan:
+
+What are variables?
+	Things that Can change
+Maybe have them do excel example
+	I haven't done this more than once or twice
+	Good for classes that need slower pace
+Human example
+	Matt remember 3, Nick remember 5, matt + nick
+	Variables can basically do three things
+		set, change, read
+		Demonstrate all of them using people
+Why are variables useful?
+	Allow more general programs
+	Don't have to write program that multiplies every possible number together
+	Instead, just 1 where plug in variables
+Show variables in scratch
+	Scratch already comes built in with a lot of variables
+	Can you find them? (What are the things you can change)
+		Click through each tab and have them find them
+	make own
+		Name them nick and matt or whatever they were named before
+		Replicate actions did in human example
+	See `AddVariables` example in accompanying scratch program
+Show movement example where changes along x
+	set outside loop
+	change inside loop
+	have a starting point and then advance from there
+	General pattern just like games we've been making
+	See `XCoordinateChange` example in accompanying scratch program
+Create a fader
+	set outside loop
+	change inside loop
+	Ask them what they think will happen
+	See `MeowFade` example in the accompanying scratch program
+Ask someone to walk through how to create a song that plays faster and faster
+	Change Temp
+Have make own band
+	Need 3 "Band Members": Sprites
+	Need at least six sets and six changes
+	Warning: I've never heard a good one, given the time constraints
+	Have everyone play their song before end of class
+
+Homework:
+None
+
+	
+

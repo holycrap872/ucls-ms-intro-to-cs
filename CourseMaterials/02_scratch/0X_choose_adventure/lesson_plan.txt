@@ -1,0 +1,6 @@
+Choose our own adventure
+
+- https://www.youtube.com/watch?v=vQt4EhX0Bbo
+- Have create a decision tree to lay out story
+- Requirements
+    - One scene with three options (buttons)

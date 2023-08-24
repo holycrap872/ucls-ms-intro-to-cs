@@ -1,0 +1,38 @@
+Essential Questions:
+	Why is splitting data in half a good idea?
+	Speed of different algorithms.
+
+Lesson Plan:
+
+Review
+	Moonlander
+		Why need variable named yspeed instead of just speed?
+			change occurs in very specific direction
+		How did we handle hitting the ground?
+			How is this similar to real life? How different?
+	Questions on the homework?
+Binary Search
+	Going to do a magic trick
+	Guess a number
+		Someone in the class write down number between 1 and 1024
+		Takes 10 guesses until I can write the number down on the board and circle it.
+	How is it done?
+	Have them try in pairs
+	What is bad way to do it?
+		Guess every single number starting at 1
+	Explain why useful
+		iTunes
+		Google
+		EzPass
+	Why 1024?
+	How many numbers can find out with 1 guess? With 2 guesses?...
+		Should lead to 2^n
+	How many for to pick a number out of 1 million?
+	How many for to pick a number out of 1 billion?
+	Hard problem so good to plan before coding
+		help them with the fact need 2 variables
+		"important to come up with good names for variables"...
+	Create it
+
+Homework:
+	Binary Worksheet (Not created yet)

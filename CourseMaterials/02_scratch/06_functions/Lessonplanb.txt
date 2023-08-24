@@ -1,0 +1,129 @@
+Functions
+
+EQ's:
+	What is abstraction?
+	Why is abstraction useful?	
+	What is a function?
+	How to exploit functions effectively.
+
+
+Lesson Plan:
+
+Day 1
+Abstraction Article discussion
+Then what?
+
+Day 2
+What are functions
+	Inputs and outputs
+	Contract
+Why functions?
+	Makes hard stuff easier
+	Abstraction
+Types of functions
+	Command (it's not like command does nothing, it just changes the property of something which is represented in ways other than a return. ie move))
+	Reporter (Like everything in math)
+	Predicate
+Give examples in BYOB
+	Give example by double clicking on blocks
+	>, touching, key pressed
+	go to, play sound, pen down
+	distance to, join word, round
+Flow of execution
+Examples
+	A person is baking a cake.		What is the function doing?		What type of function is this?		What is/are the inputs(s)?		What is/are the outputs(s)?		Represent what this block might look like in scratch.
+	A magician asks a participant to pick a card, any card
+		What is the function doing?		What type of function is this?		What is/are the inputs(s)?		What is/are the outputs(s)?		Represent what this block might look like in scratch.
+
+In BYOB
+	Double clicking on blocks shows their value
+	Return values use plugins
+	T/F for control blocks (Actual blocks in operators screen)
+Make a block
+	Show how to make a block
+	which is greater x y
+Real Life Functions worksheet
+
+
+
+
+Part 2
+Review Functions
+	Everything is scratch is a function
+
+
+Example situation:
+	You go to a bank to withdraw money.
+		What is the function doing?		What type of function is this?		What is/are the inputs(s)?		What is/are the outputs(s)?		Represent what this block might look like in scratch.
+Together:
+	Make a block that makes a star of size
+	Make block that says something 3 times
+	Make a block that adds 5 to something
+	What blocks could we make out of other blocks?
+		go to x y
+		change by
+		distance to
+	If can make these, then why does scratch give them to us?
+
+How to use functions
+	Break down problems into smaller ones
+	RPS
+		Break it down
+
+Homework:
+	Functions Worksheet1
+
+
+
+Next Class:
+
+Review functions
+Go over Worksheet1
+Opening Problem:
+	Make block that finds distance to origin
+		What information do you need?
+	Use so only draws when sprite within 100 of origin
+	User Example.ypr as example
+Discuss
+Tic Tac Toe exercise
+
+Homework:
+	None
+
+Next Class:
+
+Review Functions
+Brick Exercise
+
+Homework:
+	Finish Worksheet
+
+
+
+
+
+
+draw shape block (size and num sides)
+tic tac toe
+brick exercise
+
+
+
+
+Make a block that tells whether you're old enough to drive
+
+
+
+Functions to make in BYOB
+distance to x, y
+change pen by
+play intro sound (theme song for sprite)
+go to x y
+
+Others:
+floor (round down)
+
+
+Thoughts:
+	Don't do too much too soon.
+	Go 

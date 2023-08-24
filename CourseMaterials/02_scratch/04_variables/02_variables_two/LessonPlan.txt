@@ -1,0 +1,50 @@
+Lesson Plan
+
+Review
+	Variables
+		Set, change, read
+	Why are variables useful
+	Set outside loop, change inside
+	Variables that come build in
+	Band
+Call on someone to make fading sound
+	Review what's going on behind scenes with tempo change
+Sometimes going to have to use our own variables
+	For example, no change note
+	How could we deal with this so can hear every note
+		Could have a 120 line program but that would be annoying
+		make own variable
+		What's good name for this variable
+			note!
+			often times finding a good variable name is the most important part
+			helps you know how to use it
+		Create it and listen to it
+		at end of program "Now every dog in the neighborhood is barking"
+		See `EveryNote` example in accompanying scratch program
+	Do same thing for listening to every instrument
+                See `EveryInstrument` example in accompanying scratch program
+Today going to use this ability to make a lot of different types of programs
+	These are classic intro course problems
+	Create variable "name"
+	Set "name" to name of someone in class
+	Create program (say (join("hello")(name))) and run it
+		This is cool we have now made a program that can say hello to anyone in the world
+	Introduce Ask block
+		special ask variable
+		What user says gets moved into ask variable
+	Add onto above program to ask for name to say hello to
+		See `GreetPerson` example in accompanying scratch program
+	Further examples
+		Password program
+			See `Password` example in accompanying scratch program
+		Count number of times you've said something
+		Multiply by 2 program
+			Ask for number and say number multiplied by 2
+		Program that adds 2 numbers
+			Let break and ask what went wrong
+			Need holder variables
+			introduce concept that variables can only remember 1 thing
+	Variables 1 worksheet
+
+Homework:
+	Finish Worksheet

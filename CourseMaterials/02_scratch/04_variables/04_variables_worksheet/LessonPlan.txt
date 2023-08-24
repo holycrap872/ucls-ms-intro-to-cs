@@ -1,0 +1,22 @@
+Lesson Plan:
+
+Review
+	Variables
+		Set vs. Change
+		Why variables good?
+		Basic pattern in all games
+Racer from last class
+	What was new type of motion we saw
+		Have someone explain how it implemented
+		Make real world connections with cars
+			Speedometer is like speed variable going up
+			Distance is dependent on speed
+		What about slowing down?
+	Go over someone's program
+		Pay particular attention to how dealt with coming to rest
+	Go over homework
+		Graph on board and discuss
+	Hand out worksheet
+
+Homework:
+	Worksheet
