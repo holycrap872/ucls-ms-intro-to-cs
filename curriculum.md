@@ -13,20 +13,11 @@ confidence when approaching new technology.
     - How long would this take to do for a robot?
 - Day 2: Video Game intro
     - Game loops
-- Day 3 - 20: Scratch Video Games and Art
+- Day 3 - 14: Scratch Video Games and Art
     - What is programming
         - Getting computers to do stuff
         - Good programming is minimizing the effort to get computer to do stuff
             - "Folding" to effeciently represent stuff
-    - Recursive Art
-        - Sketch a tree
-        - Draw a tree before and after learn about recursion
-    - Watch Mandelbrot stuff
-    - Compare old and new movies
-    - Simulations
-        - Balls bouncing
-            - Conservation of momentum
-            - leave behind paint for cool picture effects
     - Choose your own adventure story
         - if/else at decisions
         - Make "days" a function
@@ -34,11 +25,39 @@ confidence when approaching new technology.
         - Do a calendary loop
             - 5 "weekdays" then 2 "weekends"
         - Groundhog day (Andy Sandberg's movie)
-
-- Day 21:
+    - Variables
+    - Functions
+        - Exponential growth and FIRE
+            - bonus points if can account for inflation
+        - Prisoners dilema
+- Day 15:
     - Abstraction discussion
     - How do computers abstract things
     - Where else do we see abstraction
+- Day 16-21:
+    - Serpinski Triangles
+        - Ask whether a particular shape is self repeating
+            - cube -> yes (8 smaller cubes)
+            - pyramid -> yes (4 triangles)
+            - 
+    - Recursive Art
+        - Sketch a tree
+        - Draw a tree before and after learn about recursion
+            - https://onlinefractaltools.com/draw-canopy-fractal
+            - https://csdt.org/culture/africanfractals/simulator.html
+        - Romanesco brocolli
+    - Watch Mandelbrot stuff
+    - Compare old and new movies
+    - Look at my mountain generation code
+        - https://qiao.github.io/fractal-terrain-generator/demo/
+    - Godel Esher Bach
+        - Esher in particular in this case
+        - Funny house maze
+            - When you stand between two mirrors
+        - One of the dialogues
+    - First chapter of “Italo Calvino” -> “If upon a winters night”
+    - For the motivated kids:
+        - https://youtu.be/gB9n2gHsHN4
 - Day 22 - 23: Shell
     - Resources
         - https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation
