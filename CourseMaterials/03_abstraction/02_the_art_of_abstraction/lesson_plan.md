@@ -16,6 +16,9 @@
     - Why did art get weird in the late 1800s?
         - Previously about capturing all possible details (as lifelike as possible)
         - Once camera invented, needed to go in a new direction
+        - One direction was abstract art
+        - Painters tried to capture the essence of an idea
+        - Let everything else fall away
 - Image Showcase: Show progression of images that go from realistic to very abstract
     - See `abstract_art.pptx`
         - Abstract People
@@ -55,4 +58,5 @@
 ## Thoughts
 
 - We could make this a pictionary type game where you can do a single line
-  or cirlce at a time. Keep going until someone guesses.
+  or circle at a time. Keep going until someone guesses.
+- 
