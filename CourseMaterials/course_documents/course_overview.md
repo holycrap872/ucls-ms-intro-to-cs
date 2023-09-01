@@ -76,7 +76,7 @@
 - In-class discussion
 - In-class projects
 
-## Unit 4 - What's Your Function?
+## Unit 3 - What's Your Function?
 
 #### Objectives:
 
@@ -100,7 +100,7 @@
 - Programming problem sets
 - In-class projects
 
-## Unit 5 - Oh My Zsh
+## Unit 4 - Oh My Zsh
 
 #### Objectives:
 
@@ -122,7 +122,7 @@
 
 - In-class projects
 
-## Unit 6 - Just a Bit of Color
+## Unit 5 - Just a Bit of Color
 
 #### Objectives:
 
@@ -144,7 +144,7 @@
 - In-class projects
 - Programming projects
 
-## Unit 7 - IN the Computer!?
+## Unit 6 - IN the Computer!?
 
 #### Objectives:
 
@@ -167,7 +167,7 @@
 
 - In-class projects
 
-## Unit 8 - The Power of Abstraction
+## Unit 7 - The Power of Abstraction
 
 #### Objectives
 
