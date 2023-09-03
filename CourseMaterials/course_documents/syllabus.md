@@ -11,7 +11,7 @@ and exposes them to big ideas in computer science. It is intended to demystify
 the computer and give students the confidence to look "inside" the various
 abstractions that give computers their power.
 
-In the first half of the course, students will be exposed the basics of
+In the first half of the course, students will be exposed to the basics of
 programming. The goal will be to understand the fundamentals of computational
 thinking and to identify opportunities to utilize automation. In the second
 half, they will utilize this knowledge to understand different “levels” of
@@ -30,7 +30,7 @@ tradeoffs inherent in the decision to utilize automation.
 
 - How can we utilize common programming paradigms to automate boring or
   repetitive work?
-- What are strategies that can use to decompose a problem in order to make it
+- What are strategies that we can use to decompose a problem in order to make it
   simpler to understand?
 - What is abstraction and how does it relate to our ability to reason
   effectively?
@@ -43,7 +43,7 @@ tradeoffs inherent in the decision to utilize automation.
 - Use prior knowledge to logically approach unfamiliar problems.
 - Work individually beyond situations presented in class.
 - Collaborate effectively with peers.
-- Understand the theory behind devices they use in their everyday lives.
+- Understand the theory behind devices used in everyday life.
 - Apply programming and engineering concepts to real world problems.
 - Have the ability to translate ideas to a computer.
 - Represent and interpret data in a meaningful way.
@@ -66,7 +66,7 @@ are some specific guidelines that will help you to meet these expectations:
   assignments due for that day’s class.
 - Remain open-minded and sensitive during class discussions.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
-  also wonderful distractions. Your laptop should be charging for the class, but
+  also wonderful distractions. Your laptop should be charged for the class, but
   it should only be open when instructed. Place your cell phones in your
   backpack. If you need to use it during course, quietly raise your hand and
   explain the situation when I come over to talk to you.
@@ -88,7 +88,7 @@ received in revising assignments and preparing future work.
 Assignments for this course can be broken up into different types which will
 typically involve:
 
-- Classwork (during class): This will involve programming challenges which
+- Classwork (during class): This will involve programming challenges that
   you will complete individually or with partners to practice the concepts
   that are presented. Usually, you will be able to finish these assignments
   during class. Regular parts that aren’t completed during class time will
