@@ -55,7 +55,7 @@
 
 #### Objectives:
 
-- Discuss how technology and magic can seem very similar to the uninitiated.
+- Discuss how technology and magic can appear very similar to the uninitiated.
 - Appreciate how different disciplines utilize abstraction.
 - Describe daily activities at different levels of abstraction.
 - Identify what elements of a problem need to be represented and which ones
@@ -81,12 +81,12 @@
 #### Objectives:
 
 - Create a series of functions in order to simplify programs.
-- Use recursive function calls to create interesting artwork.
+- Use recursive calls to create complex artwork from simple functions.
 - Identify recursive structures in the real-world.
 
 #### Essential Questions:
 
-- What is function in computer science?
+- What is a function in computer science?
 - How can we use functions to abstract away complexity?
 - What is recursion and where do we see examples of it?
 
@@ -106,7 +106,7 @@
 
 - Learn how to access the terminal and some simple commands.
 - Identify when using the terminal might be preferable to a GUI.
-- Articulate different periods in the way humans interact with a computer.
+- Articulate important historical changes in the way humans interacted with a computer.
 
 #### Essential Questions:
 
@@ -174,7 +174,7 @@
 - Download a picture from the internet and identify different functions
   accomplished by different levels of abstraction during the process.
 - Learn about the *Right to Repair* movement.
-- Discuss to pros and cons of relying on abstraction.
+- Discuss the pros and cons of relying on abstraction.
 
 #### Essential Questions
 
