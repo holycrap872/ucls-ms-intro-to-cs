@@ -66,10 +66,10 @@ are some specific guidelines that will help you to meet these expectations:
   assignments due for that day’s class.
 - Remain open-minded and sensitive during class discussions.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
-  also wonderful distractions. Your laptop should be charged for the class, but
-  it should only be open when instructed. Place your cell phones in your
-  backpack. If you need to use it during course, quietly raise your hand and
-  explain the situation when I come over to talk to you.
+  also wonderful distractions. Your laptop should be charged for class, but
+  it should only be open when instructed. **Place your cell phones in your
+  backpack. If you need to use it during class, quietly raise your hand and
+  explain the situation when I come over to talk to you.**
 - I expect each of you to make a solid, good-faith effort to do your best in
   this class (and I expect the same from myself). I know, however, that this
   class is just one of many aspects of your life, so please talk to me if you
@@ -88,12 +88,12 @@ received in revising assignments and preparing future work.
 Assignments for this course can be broken up into different types which will
 typically involve:
 
-- Classwork (during class): This will involve programming challenges that
-  you will complete individually or with partners to practice the concepts
-  that are presented. Usually, you will be able to finish these assignments
-  during class. Regular parts that aren’t completed during class time will
-  usually need to be finished outside of class time before the next class
-  period. **Late classwork will not receive credit.**
+- Classwork (during class): This will involve programming challenges and other
+  types of projects that you will complete individually or with partners to
+  practice the concepts that are presented. Usually, you will be able to finish
+  these assignments during class. Regular parts that aren’t completed during
+  class time will usually need to be finished outside of class time before the
+  next class period. **Late classwork will not receive credit.**
 - Homework (after class): Short assignments (done individually) to practice
   and develop mastery of the material covered in class.
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
