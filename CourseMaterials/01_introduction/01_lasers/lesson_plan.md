@@ -23,9 +23,15 @@ of understanding/executing the program.
 
 ### Actual Lesson
 
+- Reflection
+    - Demystification
+    - Point of this class
+- What is a program?
+    - Define program, computer, programming language
 - Introduction:
     - Today we're going to write a program to get a blind folded person through
       a laser maze!
+        - This is going to be a lot, so need to know you will focus when I ask for attention
     - To get you excited here's Ocean's 12: http://www.youtube.com/watch?v=kUPQfzAyVeI
     - Explanation
         - Rooms downstairs with yarn across ceiling and floor
