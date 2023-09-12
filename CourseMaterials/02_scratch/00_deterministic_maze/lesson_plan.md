@@ -1,7 +1,6 @@
 ## Essential Questions
 
-- How can loops help reduce the amount of code we have to write?
-- How can loops be used to give the impression of movement?
+- How is programming a computer similar/different from programming a human?
 
 ## Lesson Plan
 
@@ -13,7 +12,8 @@
     - Log in
         - Login format: `2023-09-05-sec5-ab`
     - Program a maze together
-        - Show were to program sprite and background
+        - Create a simple maze in background
+        - Show where to program sprite and background
         - Show pen
         - Stress initialization
     - Show videos
@@ -21,7 +21,6 @@
             https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
         - Can use algorithms to create a maze
             - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
-
 - Have them go and do a maze of their own
 
 ## Homework
