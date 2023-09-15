@@ -6,7 +6,7 @@
 
 ### Setup
 
-None
+Have one student's maze from a previous example selected as an example.
 
 ### Actual Lesson
 
@@ -20,10 +20,12 @@ None
     - Do some examples together
         - Stress initialization
         - Square
+            - Show "backpack" in scratch
         - Circle
 - Going to work in pairs
     - Every ten minutes going to switch
     - Worksheet on Schoology
+    - Mid-way through, we're going to take a "thinking walk"
     - Go!
 
 ### Homework
