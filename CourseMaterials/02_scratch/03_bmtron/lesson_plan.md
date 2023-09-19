@@ -2,7 +2,8 @@ BMTron
 
 ## Essential Questions
 
-- 
+- How is a computer game like a puzzle?
+- What different movement systems can the game loop reproduce?
 
 ## Lesson Plan
 
@@ -19,18 +20,22 @@ Have bmtron.sb3 loaded up with the code hidden
 
 - Reflection:
     - What did we do last class?
-    - Look at homework
-        - Pick some ones cool shape
-        - Create a cool shape as a class
-    - What is the difference between the drawing and the games?
-        - infinite loop
-        - No user input
+        - What is the game loop?
+        - What are the parts of the game loop?
+        - What is the difference between the drawing and the games?
+            - infinite loop
+            - No user input
+- Let's make a quick game together
+    - Make drawing game
 - Today going to do another video game
     - https://youtu.be/hMT8tRrEMC4?t=106
     - Show game and play with two people as an example
 - Talk about similarities/differences between previous game
     - Always moving!
-    - Show an OR block
+- Show new blocks
+    - OR block
+    - touching wall block
+- This is a puzzle to see if you can figure it out on your own
 - Start!
 
 - Extensions:
