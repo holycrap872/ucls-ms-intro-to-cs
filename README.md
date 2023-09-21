@@ -18,7 +18,7 @@ To understand the course, there are three places to look:
 
 - The [Course Syllabus](./CourseMaterials/course_documents/syllabus.md) document for 
   the general expectations of the course handed out at the beginning of the class.
-- The [AI Course Overview](./CourseMaterials/course_documents/course_overview.md)
+- The [Course Overview](./CourseMaterials/course_documents/course_overview.md)
   document for and understanding of the units of covered in during the class.
 - The [Course Documents](./CourseMaterial/) folder for the full set of lesson plans
   and activities.
