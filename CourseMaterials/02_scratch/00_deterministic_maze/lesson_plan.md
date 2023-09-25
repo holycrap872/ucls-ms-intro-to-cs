@@ -9,7 +9,14 @@
     - What's a computer?
     - What's a programming language?
 - Today going to start to use scratch
-    - Log in
+    - Walk through logging in/logging out of a computer
+        - Things to hit:
+            - Logging in, naming project, saving
+        - Watch me:
+            - What do you notice?
+        - Watch someone else:
+            - What do you notice?
+    - Everyone Log in
         - Login format: `2023-09-05-sec5-ab`
     - Program a maze together
         - Create a simple maze in background

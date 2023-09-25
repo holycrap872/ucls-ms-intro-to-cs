@@ -26,6 +26,10 @@ None
         - Go through AWS console to emphasize certain things
     - Things understand
     - Things don't understand
+- Practice getting everyone's attention
+    - "Class class class" and face away from nearest computer
+        - https://www.youtube.com/watch?v=r2A0ANPXTNY
+        - "face away from nearest computer"? -> because can't be typing
 - Have fill out class questionaire
     - Should take ~10m to fill out
 - Reflection

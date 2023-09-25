@@ -11,6 +11,7 @@ Have one student's maze from a previous example selected as an example.
 ### Actual Lesson
 
 - Review
+    - How to login/log out
     - Show a few mazes from previous class
     - How did we get the sprite to move more slowly?
         - show them!
@@ -23,8 +24,13 @@ Have one student's maze from a previous example selected as an example.
             - Show "backpack" in scratch
         - Circle
 - Going to work in pairs
+    - Model good pair programming
+        - Watch me:
+            - What do you notice?
+        - Watch someone else:
+            - What do you notice?
     - Every ten minutes going to switch
-    - Worksheet on Schoology
+- Worksheet on Schoology
     - Mid-way through, we're going to take a "thinking walk"
     - Go!
 
