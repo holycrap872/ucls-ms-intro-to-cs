@@ -26,7 +26,8 @@ Have bmtron.sb3 loaded up with the code hidden
             - infinite loop
             - No user input
 - Let's make a quick game together
-    - Make drawing game
+    - Make drawing game where 4 sprites "follow mouse"
+        - if/else for pen down
 - Today going to do another video game
     - https://youtu.be/hMT8tRrEMC4?t=106
     - Show game and play with two people as an example
