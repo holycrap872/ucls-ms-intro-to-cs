@@ -8,6 +8,8 @@
 - Reflect
     - What did we talk about last class?
     - What is the difference between magic and technology?
+    - Share quote:
+        - "Any sufficiently advanced technology is indistinguishable from magic."
     - How do we hide the way something works and make it seem like magic?
     - When is this good and when is this bad?
     - What is abstraction?
