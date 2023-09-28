@@ -19,8 +19,9 @@ to hide important details from us.
 
 ### Setup
 
-- Large poster board sized paper
-- Markers
+- Venn diagrams on pieces of paper
+- Catesian planes on pieces of paper
+- Pencils
 
 ### Actual Lesson
 
@@ -36,10 +37,10 @@ to hide important details from us.
             - Switch and discuss with a new partner
     - Come back and discuss
         - Put key words on board under "technology/magic"
-- Break into groups of three and do a venn diagram of magic vs. tech
+- Break into groups of two (last partner) and do a venn diagram of magic vs. tech
     - Have them put the words captured on board in venn diagram
     - Do some examples together
-    - THey should have 3-4 in each section
+    - They should have 3-4 in each section
 - Class wide discussion
 - Questions:
     - What are things you interact with today that might be considered magic centuries ago?
