@@ -5,7 +5,7 @@
 
 ## Lesson Plan
 
-This introduces to the concept of sorting. It has groups interively improve
+This introduces to the concept of sorting. It has groups iteratively improve
 their algorithm over time.
 
 Length of lesson: 20-30 minutes.
@@ -23,7 +23,7 @@ Length of lesson: 20-30 minutes.
 - Explain goals
     - In groups of 3-4 you're going to race to sort a deck of cards
 - Stress rules
-    - No yelling
+    - Quiet -> too loud and you're disqualified
     - No bending the cards
 - Count off from one to six to divide up into groups
     - Give 3-5 minutes to come up with a strategy
