@@ -22,7 +22,7 @@
         - Painters tried to capture the essence of an idea
         - Let everything else fall away
 - Image Showcase: Show progression of images that go from realistic to very abstract
-    - See `abstract_art.pptx`
+    - docs.google.com/presentation/d/139aHtSzFNC00aAQ20kY1ukGvkAGRFY7DagPizKYPoN8
         - Abstract People
             - Self-Portrait with a Harp by Rose-Adélaïde Ducreux
             - Lydia Leaning on Her Arms by Mary Cassatt
@@ -52,6 +52,9 @@
     - What were some cool things we saw?
     - Do you like abstract art?
     - Abstract thinking is part of development. What does this mean?
+- Clean up
+    - Have students sign their favorite
+    - Put away pencils
 
 ## Resources
 

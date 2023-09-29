@@ -54,7 +54,13 @@ to hide important details from us.
     - Technology vs. Magic
     - Both are about making things easier
     - Technology is something we can control
-- Break up into small groups and give them a big piece of paper and a marker
+- Today going to do another discussion about magic
+    - Compare what seems like magic to modern people and ancient people
+    - Draw grid on board
+        - Explain
+        - Pick a few random points and ask what means then ask for examples
+- Break up into small groups start giving them objects
+    - Ask them to label
     - Two dimensions: magic then, magic now
         - Possible objects:
             - Fire
