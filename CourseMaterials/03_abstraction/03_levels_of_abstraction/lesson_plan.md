@@ -7,29 +7,44 @@
 
 ### Setup
 
-- Large poster board sized paper
-- Markers
+- Paper and pencils
 
 ### Actual Lesson
 
 - Reflection:
-    - What is abstraction?
     - What does abstraction look like in art?
-    - How does abstraction relate to magic?
+    - What is abstraction?
+        - Hiding unnecessary details
 - Discussion about the similarities between abstraction in art and CS
     - In both, we:
         - Simplify complex ideas or systems.
         - Focus on the essential components.
         - Hide intricate details.
-- Have student describe what they did yesterday in a few sentences
+- Have student describe process to go to bathroom
     - Write each sentence up on board
-    - Fake horror when they don't include brushing their teeth
-    - "Break out" their "get ready for school" sentence into a subpiece
+        1. walk to bathroom
+        2. go into stall
+        3. XXXX
+        4. flush
+        5. go back to class
+    - Who knows how flushing works?
+        - Show video: https://www.youtube.com/watch?v=vqcYXeJ02U8
+    - Break out `flush` step into its own 
         - Sideways tree structure
 - Group Activity:
     - Have students write a step-by-step program (pseudocode) for their day
         - Break out to three levels
-
-Discussion: Discuss the advantages and disadvantages of abstraction. For instance, while abstraction simplifies and makes tasks more manageable, it can also lead to loss of detail or specificity.
-
-### Homework
+    - Have one group work on the board
+    - Possible topics:
+        - Making a car
+        - Building a house
+        - Baking a cake
+        - Painting a landscape
+        - Build a computer
+        - Record a song
+        - Get ready for school
+- Go!
+- Discussion:
+    - How is this like abstract art?
+    - How many levels deep could you go?
+    - How is this like scratch?
