@@ -45,6 +45,8 @@
         - Get ready for school
 - Go!
 - Discussion:
+    - Put up two figures, one with a tree like structure and one with just a list of 0-100
+        - Which one is more abstract and why?
     - How is this like abstract art?
     - How many levels deep could you go?
     - How is this like scratch?

@@ -18,6 +18,10 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
     - Abstraction in Art
     - Abstraction in CS
 - Today going to play some logic puzzles
+    - Show robozzle and explain how the program works
+    - Walk through a one or two levels
+- Explain process
+    - Go down sheet puzzle by puzzle
     - Can play in pairs or by yourself
     - Need to get to 10th level
 - Go!
