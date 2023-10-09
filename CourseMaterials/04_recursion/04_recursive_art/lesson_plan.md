@@ -15,7 +15,9 @@ Rulers
 ### Lesson Plan
 
 - Reflection
-    - 
+    - Functions
+    - Functions in scratch
+    - Simplify code in `tic_tac_toe.docx` together
 - Show a picture of a tree
     - Have them draw their best verison of it
         - Give ~5m
