@@ -12,7 +12,11 @@ None
 ### Actual Lesson
 
 - Review
-    - ...
+    - Robozzle
+    - Do http://www.robozzle.com/beta/index.html?puzzle=16169 together
+        - What are functions?
+        - What would be good names for the functions?
+- Going to start back up with scratch
 - What are variables?
     - Things that can change
 - Human example
@@ -29,21 +33,19 @@ None
         - Name them nick and matt or whatever they were named before
         - Replicate actions did in human example
     - See `AddVariables` function in accompanying scratch program
-- Create a fader
+- Create a tempo increaser to play snare drum
     - Set outside loop
+        - Set ~10
     - Change inside loop
+        - Change ~5
     - Ask them what they think will happen
-    - See `MeowFade` example in the accompanying scratch program
 - Review variables
     - Set
     - Change
     - Store
 - Hand out `variables_1_worksheet.docx`
-    - Have make own band
-        - Need 3 "Band Members": Sprites
-        - Need at least six sets and six changes
-    - Warning: I've never heard a good one, given the time constraints
-    - Have everyone play their song before end of class
+    - Give 3m to read through it then summarize as class
+    - Go!
 
 ### Homework
 
