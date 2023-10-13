@@ -100,29 +100,7 @@
 - Programming problem sets
 - In-class projects
 
-## Unit 4 - Oh My Zsh
-
-#### Objectives:
-
-- Learn how to access the terminal and some simple commands.
-- Identify when using the terminal might be preferable to a GUI.
-- Articulate important historical changes in the way humans interacted with a computer.
-
-#### Essential Questions:
-
-- How has the way humans interact with computers been abstracted over time?
-- What things can be done on a terminal that can't easily be done in a GUI?
-
-#### Formative Assessments:
-
-- In-glass group work
-- In-class discussion
-
-#### Summative Assessments:
-
-- In-class projects
-
-## Unit 5 - Just a Bit of Color
+## Unit 4 - Just a Bit of Color
 
 #### Objectives:
 
@@ -143,6 +121,28 @@
 
 - In-class projects
 - Programming projects
+
+## Unit 5 - Oh My Zsh
+
+#### Objectives:
+
+- Learn how to access the terminal and some simple commands.
+- Identify when using the terminal might be preferable to a GUI.
+- Articulate important historical changes in the way humans interacted with a computer.
+
+#### Essential Questions:
+
+- How has the way humans interact with computers been abstracted over time?
+- What things can be done on a terminal that can't easily be done in a GUI?
+
+#### Formative Assessments:
+
+- In-glass group work
+- In-class discussion
+
+#### Summative Assessments:
+
+- In-class projects
 
 ## Unit 6 - IN the Computer!?
 
