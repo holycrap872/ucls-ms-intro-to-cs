@@ -4,7 +4,7 @@
 - Why are functions useful?
 - How do we create and use functions in scratch?
 
-## Lessonvariables_1_worksheet Plan
+## Lesson Plan
 
 ### Setup
 
