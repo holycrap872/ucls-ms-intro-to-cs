@@ -25,7 +25,8 @@
         - Stress initialization
     - Show videos
         - Can solve maze fast with a program!
-            https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
+            - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
+            - https://www.tiktok.com/t/ZT8hhPnte/
         - Can use algorithms to create a maze
             - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
 - Have them go and do a maze of their own
