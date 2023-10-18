@@ -12,12 +12,14 @@ The morse code machines that are in the CS office
 ### Lesson Plan
 
 - Reflection
-    - Shell
     - 
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
-- How could we send information?
-    - https://www.youtube.com/watch?v=i6LGJ7evrAg
+- How could we send information
+    - https://www.youtube.com/watch?v=lJazkW8i--Q&t=1s
+        - How are the American's sending message?
+        - What message are the Russians sending with one bit?
+
 - Morse code works by sending dits and dahs
     - How could we come up with a system to send words?
 - Discussion
@@ -28,3 +30,6 @@ The morse code machines that are in the CS office
     - How is it different?
     - Compression
     -
+
+### Resources
+    - https://morse.withgoogle.com/learn/#
