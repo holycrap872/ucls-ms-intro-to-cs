@@ -10,6 +10,7 @@
 
 ### Actual Lesson
 
+- Reminder to turn in homework
 - Review
     - Variables
     - Why useful
@@ -20,13 +21,16 @@
 - Where have we seen functions?
     - Math
     - Robozzle/LightBot
+        - http://www.robozzle.com/beta/index.html?puzzle=16166
 - Why functions?
     - Abstraction
 - Do an example together:
     - Length of time to cook turkey function
-        - Input: pounds
+        - Input: pounds, stuffed or not
+            - 15m per pound stuffed
+            - 13m per pound stuffed
         - Output: cook time
-    - Circles with an input of size
+    - Hexagon together as a class
 - Explain/talk through worksheet
     - Work in pairs
 - Go!
