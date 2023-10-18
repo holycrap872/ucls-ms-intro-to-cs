@@ -5,28 +5,28 @@
 
 ## Lesson Plan
 
+### Setup
+
+https://scratch.mit.edu/projects/908713802/
+
 ### Actual Lesson
 
 - Reflection
     - What are functions?
     - How do we create them in Scratch?
     - What is easy and what is hard?
-- Real world functions.
-    - Do an example together
-    - Have six remainder on board. Divide them up amongst the groups
-    - Discuss
-- Activity where I have pre-created blocks
-    - Hang man?
-    - Wall tiles?
-    - Mulsim tiles?
-    - Encryption and decrytion?
-    - Prisoners dilemma?
-    - Fishy?
-    - RGB printer?
-    - Racer game?
-        - accelerate block
-        - decelerate block
-        - decelerate grass block
-        - crazy explosion block
-    - Moonlander?
+    - Class demo
+        - Do an example polygon function together
+        - Show that can be put in loop for cool effect
+    - Activity with pre-created blocks
+        - Show functioning version of the racer game
+        - Review game loop
+            - What would happen at various parts
+        - Show skeleton
+            - Talk through functions they have
+            - Works like magic!
 - Go!
+- Extensions
+    - Second racer
+    - Explosions if hits wall
+    - Ask at the beginning how big an engine the user wants
