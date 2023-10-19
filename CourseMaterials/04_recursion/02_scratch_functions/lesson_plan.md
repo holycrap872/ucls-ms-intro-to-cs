@@ -34,3 +34,8 @@
 - Explain/talk through worksheet
     - Work in pairs
 - Go!
+
+### Extensions
+
+Slot machine that draws a bunch of different shapes at random and "pays out"
+when they match
