@@ -16,6 +16,13 @@
         - Robozzle/Lightbot
 - Draw a series of circles together
     - `def circle(size) -> repeat 90(turn 4, move size)`
+        - How many recursive calls?
+- Show trippy stuff
+    - trippy.sb3
+- Talk through worksheet
+    - Have read
+    - Show program
+    - Discuss how fractals are functions that needs to be called
 - Do recursion worksheet
     - Stairs (from robozzle)
     - Alter given tree code
