@@ -8,8 +8,9 @@
 ## Lesson Plan
 
 - Reflection
-    - Shell
-    - 
+    - How do computers store information?
+    - How does that become letters and numbers?
+    - https://www.youtube.com/watch?v=pRuRE-Bwk1U
 - Today going to talk about pictures
     - What do people know about how pictures are stored on a computer?
 - Only thing computers understand: 1's and 0's
@@ -33,21 +34,19 @@
         - Missing rows are:
             - two 1's, one 0, seven 1's, one 0, one 1
             - three 1's, seven 0's, two 1's
-- Pixels can be anything
-    - What are some examples?
-        - Legos
-            - https://9to5toys.com/wp-content/uploads/sites/5/2020/08/LEGO-Art-Marvel-Iron-Man-8.jpg?quality=82&strip=all
-        - Paintballs
-            - https://youtu.be/fKK933KK6Gg?t=84
 - Now going to make our own art
     - Going to make your own black and white design on this paper
     - Encode it and trade it with someone
     - Share to see if you came up with the right thing
 - After the bring everyone back together
 - What did we learn?
+- Pixels can be anything
+    - What are some examples?
+        - Legos
+            - https://9to5toys.com/wp-content/uploads/sites/5/2020/08/LEGO-Art-Marvel-Iron-Man-8.jpg?quality=82&strip=all
+        - Paintballs
+            - https://youtu.be/fKK933KK6Gg?t=84
 - What is different between what we did and real pictures?
-- Show real pictures in vim mode
-    - `:%!xxd -b`
 
 ## Bonus lesson
 
