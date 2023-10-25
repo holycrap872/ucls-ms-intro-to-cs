@@ -55,34 +55,6 @@ No texts are required. All instructional materials will be posted on Schoology.
 No specific computing resources are required. Students will be given access to
 the necessary tools/materials within the classroom.
 
-## Expectations
-
-Generally, I expect you to be invested in the class and to be an active and
-positive member of our classroom community. In addition, I expect you to take
-your development seriously as a reader, writer, and programmer. The following
-are some specific guidelines that will help you to meet these expectations:
-
-- Come to class prepared. This means you should have completed all of the
-  assignments due for that day’s class.
-- Remain open-minded and sensitive during class discussions.
-- Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
-  also wonderful distractions. Your laptop should be charged for class, but
-  it should only be open when instructed. **Place your cell phones in your
-  backpack. If you need to use it during class, quietly raise your hand and
-  explain the situation when I come over to talk to you.**
-- I expect each of you to make a solid, good-faith effort to do your best in
-  this class (and I expect the same from myself). I know, however, that this
-  class is just one of many aspects of your life, so please talk to me if you
-  need help doing your best work.
-- If you have questions or concerns, please ask me anytime. Also, please ask
-  if you don’t know why we’re doing something or if you have a better idea.
-
-In addition to the above expectations, you should complete all assignments and
-readings to the best of your abilities, setting and achieving high standards for
-your work. This desired work ethic includes demonstrating a willingness to seek
-guidance, to take suggestions with open-mindedness, and to act on the feedback
-received in revising assignments and preparing future work.
-
 ## Coursework
 
 Assignments for this course can be broken up into different types which will
@@ -164,3 +136,32 @@ after 7am.
 If you miss a class, you should review the materials on Schoology and follow up
 with me if there’s anything there that you don’t understand.
 
+## Expectations
+
+Generally, I expect you to be invested in the class and to be an active and
+positive member of our classroom community. In addition, I expect you to take
+your development seriously as a reader, writer, and programmer. The following
+are some specific guidelines that will help you to meet these expectations:
+
+- Come to class prepared. This means you should have completed all of the
+  assignments due for that day’s class.
+- Remain open-minded and sensitive during class discussions.
+- Treat the equipment that you use during class with respect. Clean up after
+  yourself and leave the room in a better state than you found it.
+- Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
+  also wonderful distractions. Your laptop should be charged for class, but
+  it should only be open when instructed. **Place your cell phones in your
+  backpack. If you need to use it during class, quietly raise your hand and
+  explain the situation when I come over to talk to you.**
+- I expect each of you to make a solid, good-faith effort to do your best in
+  this class (and I expect the same from myself). I know, however, that this
+  class is just one of many aspects of your life, so please talk to me if you
+  need help doing your best work.
+- If you have questions or concerns, please ask me anytime. Also, please ask
+  if you don’t know why we’re doing something or if you have a better idea.
+
+In addition to the above expectations, you should complete all assignments and
+readings to the best of your abilities, setting and achieving high standards for
+your work. This desired work ethic includes demonstrating a willingness to seek
+guidance, to take suggestions with open-mindedness, and to act on the feedback
+received in revising assignments and preparing future work.
