@@ -32,6 +32,7 @@ The morse code "flashers" that are in the CS office
 - Send various messages
     - Send SOS via lights
     - Have them do example problems in slide show
+    - Play a clip where joke encoded in morse code (setup: sound, punchline: blinks)
     - Have students encode their own message and send it to a student across the room
     - Then switch and send it the other way
 - Discussion
@@ -42,6 +43,10 @@ The morse code "flashers" that are in the CS office
     - How is it different?
     - Compression
         - Show picture of "morse code tree"
+
+### Potential Extension
+
+- As a class, encode in scratch a morse code encoder that uses the tree (nested if/else)
 
 ### Resources
     - https://morse.withgoogle.com/learn/#
