@@ -22,8 +22,12 @@ None
         - Show AWS console
         - Explain what I did
 - Goals of the course
-    - Talk through syllabus
+    - Talk through class overview
         - Go through AWS console to emphasize certain things
+    - Talk through syllabus
+        - Emphasize only occasional homework if work hard in class
+        - Emphasize video games
+        - Emphasize if need help, come find me
     - Things understand
     - Things don't understand
 - Rules of the class (just as important as content)

@@ -4,8 +4,8 @@
 
 #### Objectives:
 
-- Write a deterministic program to reach a goal.
-- Understand how programming instructions can be interpreted by different “computers”.
+- Write a deterministic program to reach a desired outcome.
+- Understand how programming instructions can be interpreted by different "computers".
 - Consider how common language can lead to ambiguity.
 - Identify common programming paradigms in everyday life.
 

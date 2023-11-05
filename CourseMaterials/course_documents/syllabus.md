@@ -11,16 +11,16 @@ and exposes them to big ideas in computer science. It is intended to demystify
 the computer and give students the confidence to look "inside" the various
 abstractions that give computers their power.
 
-In the first half of the course, students will be exposed to the basics of
+In the first part of the course, students will be exposed to the basics of
 programming. The goal will be to understand the fundamentals of computational
 thinking and to identify opportunities to utilize automation. In the second
-half, they will utilize this knowledge to understand different “levels” of
+part, they will utilize this knowledge to understand different “levels” of
 abstraction within the computer. This will include seeing how 1's and 0's can be
 used to represent all manners of data including pictures and text. It will also
 include understanding how the parts of computers work together to provide a
-single unified experience.
+single, unified experience.
 
-The theme of the course will be "it's not magic.” Students will learn to assess
+The theme of the course will be "it's not magic." Students will learn to assess
 the power that abstraction provides to its users. They will also learn how
 abstraction can be used to take power away from users. The aim will be to
 instill confidence when approaching new technologies and to understand the
@@ -65,7 +65,7 @@ typically involve:
   practice the concepts that are presented. Usually, you will be able to finish
   these assignments during class. Regular parts that aren’t completed during
   class time will usually need to be finished outside of class time before the
-  next class period. **Late classwork will not receive credit.**
+  next class period. **Late classwork will receive a letter grade deduction.**
 - Homework (after class): Short assignments (done individually) to practice
   and develop mastery of the material covered in class.
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
@@ -82,18 +82,17 @@ Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
 - Classwork: 85%
-- Homework: 5%
-- Quizzes: 10%
+- Homework: 10%
+- Quizzes: 5%
 
-Grades for assignments will be posted on Schoology. You can expect to get a
-progress report at the end of each unit.
+Grades for assignments will be posted on Schoology.
 
 ## Time Expectations
 
-If you are diligent during the time provided in class, you will rarely have
-homework. Even when there is homework, you should not expect anything more than
-5-10 minutes of homework per class period. All homework assignments will be
-posted on Schoology.
+If you are diligent during the time provided in class, you will only
+occasionally have homework. Even when there is homework, you should not expect
+anything more than 10-15 minutes of homework per class period. All homework
+assignments will be posted on Schoology.
 
 ## Academic Integrity Policy
 
@@ -146,6 +145,8 @@ are some specific guidelines that will help you to meet these expectations:
 - Come to class prepared. This means you should have completed all of the
   assignments due for that day’s class.
 - Remain open-minded and sensitive during class discussions.
+- Remain focused on the topic being covered for the day. This means **not
+  switching to some other homework or game** unless given explicity permission.
 - Treat the equipment that you use during class with respect. Clean up after
   yourself and leave the room in a better state than you found it.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
