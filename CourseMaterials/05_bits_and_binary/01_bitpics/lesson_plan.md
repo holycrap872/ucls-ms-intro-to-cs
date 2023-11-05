@@ -48,6 +48,10 @@
             - https://youtu.be/fKK933KK6Gg?t=84
 - What is different between what we did and real pictures?
 
+### Potential Extensions
+
+- As a class, encode a BitEmoji encoder with just black and white pixels in scratch
+
 ## Bonus lesson
 
 - How do we do colors?
