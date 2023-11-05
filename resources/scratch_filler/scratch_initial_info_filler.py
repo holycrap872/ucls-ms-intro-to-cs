@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
+import argparse
 import time
+import typing
 from playwright.sync_api import Playwright, sync_playwright, expect
+
+
+class LoginInfo(typing.NamedTuple):
+    username: str
+    password: str
 
 
 # Whenever you create an account for a student is scratch, it asks them to fill
@@ -9,7 +16,7 @@ from playwright.sync_api import Playwright, sync_playwright, expect
 # so the students can "get right to it".
 
 
-def run(playwright: Playwright, name: str, password: str) -> None:
+def fill_in_form(playwright: Playwright, name: str, password: str) -> None:
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
@@ -41,11 +48,26 @@ def run(playwright: Playwright, name: str, password: str) -> None:
     browser.close()
 
 
-with sync_playwright() as playwright:
-    names = [
-        ("example_user", "example_pw"),
-    ]
-    for count, (name, password) in enumerate(names):
-        print(count, name)
-        run(playwright, name, password)
 
+def scratch_initial_info_filler(csv_path: str) -> None:
+
+    login_infos = []
+    with open(csv_path, "r") as csv_fp:
+        for line in csv_fp:
+            line = line.strip()
+            s = line.split(",")
+            assert len(s) == 2
+            login_infos.append(LoginInfo(username=s[0], password=s[1]))
+
+    with sync_playwright() as playwright:
+        for count, login_info in enumerate(login_infos):
+            print(count, login_info)
+            fill_in_form(playwright, login_info.username, login_info.password)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--path", help="Path to .csv file", type=str, required=True)
+    args = parser.parse_args()
+
+    scratch_initial_info_filler(args.path)
