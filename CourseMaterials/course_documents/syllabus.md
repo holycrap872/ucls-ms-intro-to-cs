@@ -146,7 +146,7 @@ are some specific guidelines that will help you to meet these expectations:
   assignments due for that day’s class.
 - Remain open-minded and sensitive during class discussions.
 - Remain focused on the topic being covered for the day. This means **not
-  switching to some other homework or game** unless given explicity permission.
+  switching to some other homework or game** unless explicitly given permission.
 - Treat the equipment that you use during class with respect. Clean up after
   yourself and leave the room in a better state than you found it.
 - Laptops, Cell Phones, Ipads, and other electronic devices are useful tools but
