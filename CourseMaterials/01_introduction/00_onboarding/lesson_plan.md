@@ -2,15 +2,15 @@ Welcome to `MS Intro to CS`!
 
 ## EQ's
 
+- What are the topics covered by the course?
 - What are the expectations of the class?
-- What will we go over in the class?
 - How do students learn and how do you get the most out of the class?
 
 ## Lesson Plan
 
 ### Setup
 
-None
+Have `initial_questionnaire.docx` printed out
 
 ### Actual Lesson
 
@@ -18,15 +18,16 @@ None
     - Everyone's name
     - About me!
         - Worked at AWS
-        - Who know AWS
+        - Who's heard of AWS
         - Show AWS console
         - Explain what I did
+            - Bug bounty program
 - Goals of the course
-    - Talk through class overview
-        - Go through AWS console to emphasize certain things
     - Talk through syllabus
+        - Emphasize quotes in the beginning
+            - What do they mean?
+        - Emphasize first paragraph of introduction
         - Emphasize only occasional homework if work hard in class
-        - Emphasize video games
         - Emphasize if need help, come find me
     - Things understand
     - Things don't understand
@@ -38,24 +39,23 @@ None
         - Don’t touch anyone else
         - No unapproved video games
     - Any suggestions on what we should add/change?
-    - Have everyone sign
+    - Have everyone sign/big nod to agree
 - Discipline ladder
     - Verbal warning
-    - Name on board
-    - Underline name -> B in classroom participation for day
-    - Circle name -> C in classroom participation for day
-    - Circle name second time -> Email to parents
-    - Circle name third time -> Trip to office
-- Moment of silence before class starts
-    - Explain (ask Brandon how he introduces it)
-    - Practice
+    - Verbal warning
+    - Letter grade drop in participation for week
+    - Letter grade drop in participation for week
+    - Email to parents
+    - Trip to office
+- Field trip to CS office
+    - Practice pushing in chairs and cleaning up before leaving
 - Have fill out class questionaire
     - Should take ~10m to fill out
-- Reflection
-    - What was some stuff you remember from previous computer class
-    - What are computers good at
-    - Why is understanding computers important
-- Practice leaving
+        - What was some stuff you remember from previous computer class
+        - What are computers good at
+        - Why is understanding computers important
+- Time to leave
+    - Once more, remember how to "leave well"
 
 ### Possible Extensions
 
