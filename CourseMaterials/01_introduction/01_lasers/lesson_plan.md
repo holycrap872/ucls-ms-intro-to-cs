@@ -26,19 +26,24 @@ programming vs. the difficulties of understanding/executing the program.
 - Reflection
     - Demystification
     - Point of this class
-    - Rules of class
 - What is a program?
-    - Define program, computer, programming language
+    - Define computer
+        - Follows instructions
+    - Define program
+        - Recipe
+        - Scratch
+    - Define programming language
 - Introduction:
     - Today we're going to make and solve mazes in a variety of ways
         - Mazes were some of the first demonstrations of the capability of computers
         - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
+            - 0:00 - 1:40
     - Rules
-        - Break up into 2
+        - Break up into groups of 2
         - Make a maze
         - Switch
         - Write a program to solve the maze
-        - switch
+        - Switch
         - One person closes their eyes and sees if they can get through to the
           end based on the program
         - Maze Rules
@@ -66,4 +71,3 @@ programming vs. the difficulties of understanding/executing the program.
 - Log on
 - Create a Maze
 - Only using the `move 1`, repeat X, and turn blocks solve the maze
-

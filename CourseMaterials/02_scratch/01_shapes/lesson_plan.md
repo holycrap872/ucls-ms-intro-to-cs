@@ -29,10 +29,14 @@ Have one student's maze from a previous example selected as an example.
             - What do you notice?
         - Watch someone else:
             - What do you notice?
+        - Pair programming theater
     - Every ten minutes going to switch
 - Worksheet on Schoology
     - Mid-way through, we're going to take a "thinking walk"
     - Go!
+- Class participation rubric
+    - Walk through it
+    - Have self-assess
 
 ### Homework
 
