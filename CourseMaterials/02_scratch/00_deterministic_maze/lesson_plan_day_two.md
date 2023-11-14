@@ -22,6 +22,7 @@ None
     - Continue with assignment
         - See `make_a_maze.docx`
         - Available in Schoology
+        - If finish early, plan a video game
     - Discuss rubric
     - Get going!
     - Assignments due before next class
