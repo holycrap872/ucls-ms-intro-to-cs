@@ -4,6 +4,7 @@ BMTron
 
 - How is a computer game like a puzzle?
 - What different movement systems can the game loop reproduce?
+- What are ways we can reduce the amount of repeated code?
 
 ## Lesson Plan
 
@@ -11,10 +12,13 @@ In this lesson, we increase the "fun" from the previous maze game and start
 to investigate different types of motion. Really, however, this is just about
 taking the principles of the previous lesson and applying them again. The overall
 goal is to have them create the program with minimal hints and then appreciate
+how engaging it can be.
 
 ### Setup
 
-Have bmtron.sb3 loaded up with the code hidden
+Have `drawing_game_skeleton.sb3` loaded up with the code hidden
+Have `bmtron.sb3` loaded up with the code hidden
+Have YouTube clip from tron up and loaded
 
 ### Actual Lesson
 
@@ -25,12 +29,14 @@ Have bmtron.sb3 loaded up with the code hidden
         - What is the difference between the drawing and the games?
             - infinite loop
             - No user input
-- Let's make a quick game together
-    - Make drawing game where 4 sprites "follow mouse"
+- Let's see if you can figure out how one of my simple "games" works
+    - Show `drawing_game_skeleton.sb3` and see if can figure out each part of gameloop
         - if/else for pen down
+        - Change color constantly
+    - Quickly turn it into four sprite drawing game by altering x, y multipliers
 - Today going to do another video game
-    - https://youtu.be/hMT8tRrEMC4?t=106
-    - Show game and play with two people as an example
+    - https://youtu.be/hMT8tRrEMC4?t=84s
+    - Show my version of tron game and play with two people as an example
 - Talk about similarities/differences between previous game
     - Always moving!
 - Show new blocks
