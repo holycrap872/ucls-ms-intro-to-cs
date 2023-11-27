@@ -55,13 +55,14 @@ Game loop intro
             - Movement
             - Collsions
             - NPCs?
+    - Hand out worksheet
+        - Read through it
+            - Note that it's like a driving game b/c 7th graders
+            - Right arrow -> turn right
+            - Left arrow -> turn left
+            - Space -> Move forward
+        - Partner up (same as with shapes)
         - Go!
-- Extensions:
-    - Make look like cat's running when moving
-    - "q" quits the game
-    - Multiple Levels
-    - NPC wandering around randomly to hit us
-
 - Reflection:
     - How do we get the impression of motion?
     - If we wanted to simulate this as humans, what would we have to do?
