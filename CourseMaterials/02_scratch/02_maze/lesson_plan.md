@@ -9,7 +9,7 @@ Game loop intro
 
 ### Setup
 
-- None
+- `maze_final.sb3` loaded up for demonstration's purposes
 
 ### Actual Lesson
 
@@ -18,9 +18,9 @@ Game loop intro
 - Reflection:
     - What did we talk about last lesson?
     - What is a loop?
-        - How are loops useful?
+        - Why are loops useful?
         - Do a shape together
-            - Circle
+            - Triangle with triangles at the edges
 - What is a conditional?
     - Act out if/else
         - `if light is on, stand up, else, sit down`
@@ -35,7 +35,7 @@ Game loop intro
     - Frame rate
 - Scratch initialization
     - Basic Exercises
-        - Move Cat (Together)
+        - Move Cat (together)
             - Cat starts on left and moves to right side of screen when green flag clicked
         - Only moves when spacebar pressed
         - Drive Cat (together)
@@ -48,16 +48,16 @@ Game loop intro
     - Maze game
         - Show game that I made
             - Show how to make own background
-            - Show if touching color block command
+            - Show if `touching color` block command
         - Come up with steps to work on together:
-            - Duplicate maze
+            - Delete old "deterministic" maze code
             - Get initialization working
             - Movement
-            - Collsions
-            - NPCs?
+            - Collisions
     - Hand out worksheet
         - Read through it
-            - Note that it's like a driving game b/c 7th graders
+            - Note that it's like a driving game
+                - Avoid concept of `change x` and `change y` for now
             - Right arrow -> turn right
             - Left arrow -> turn left
             - Space -> Move forward
