@@ -22,6 +22,8 @@ Have YouTube clip from tron up and loaded
 
 ### Actual Lesson
 
+#### Day 1
+
 - Reflection:
     - What did we do last class?
         - What is the game loop?
@@ -62,6 +64,27 @@ Have YouTube clip from tron up and loaded
     - What did you remember from last time?
     - What did you forget from last time?
 
-### Homework
+##### Homework
 
 - None
+
+#### Day 2
+
+- Reflection
+    - Game loop
+    - Conditionals
+    - BMTron
+- Going to get back to game, but first: real life conditionals
+    - Conditionals don't just have to be in computer programs
+    - Can think of your life as a program
+    - Some examples:
+        - If hungry, then eat
+        - repeat until not thirst: drink
+    - What are a few you can thing of
+        - if, if/else, repeat
+    - Hand out worksheet
+        - either `conditionals_worksheet_long.docx` or `conditionals_worksheet_short.docx`
+        - Work next to elbow parter for ~10m
+    - Reconvene and discuss
+- Review BMTron
+    - Get started again
