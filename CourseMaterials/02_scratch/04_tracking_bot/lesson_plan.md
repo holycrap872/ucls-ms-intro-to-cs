@@ -17,35 +17,24 @@
     - What were new blocks?
         - `or`
 - New game today! But first...
-    - Talk about feedback
+    - Talk about sensors and feedback
+        - What are sensors?
         - What is feedback?
-        - When and why is feedback important?
+        - When and why is using sensors to get feedback important?
 - Very proud of this game
 - I'm considering making an app and if anyone steals it I won't hesitate to talk to a lawyer
-    - Show how game works
-        - Explain rules
-            - Starts when person presses spacebar.
-            - Draws line when person holds mouse down.
-            - Stops drawing when person lets go.
-            - Bot can't go on orange.
-            - Mouse can't draw on green.
-- Game is called Tracking Bot and it's mechanics are very simple
-    - Can anyone figure it out?
-    - Have discuss for a while but shouldn't take long
+    - Play game a few times asking them to pay close attention
+        - Win once, lose in various ways
+    - As a class, come up with conditionals that they see
         - Put up answer on board
-        - Make sure to emphasize what it does if no black line under it (It just moves forward)
-    - Have go to shared documents folder and move TrackingBotSkeleton to desktop
-        - In pairs, have them program bot so it can follow line to end of course
-- Once everyone is done call back together
-- Have them come up with goals to complete
-    - Get Pen Moving and working
-    - Get Bot Moving
-    - Get Collisions working
-    - Get second level working
 - Show blocks going to need
     - `wait until` block
+- Emphasize various check points
+    - Start with drawing sprite
+    - Move to tracking bot sprite
 - Go!
-    - https://scratch.mit.edu/projects/896826066/
+    - Have go to Schoology and remix it
+        - https://scratch.mit.edu/projects/896826066/
     - Do in pairs!
 
 ## Homework

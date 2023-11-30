@@ -46,17 +46,6 @@ Have YouTube clip from tron up and loaded
     - touching wall block
 - This is a puzzle to see if you can figure it out on your own
 - Start!
-
-- Extensions:
-    - Speed Boost when holding key (if/else)
-    - Invisibility when holding a key
-    - Death Animation when hit line
-    - Random NPC in the background
-    - Cool start screen
-    - Lives
-    - Timer
-    - Score
-    - Reset
 - Reflection:
     - What is a game that this reminds you of?
     - What was easy?
@@ -88,3 +77,11 @@ Have YouTube clip from tron up and loaded
     - Reconvene and discuss
 - Review BMTron
     - Get started again
+- When finished, have rotate so can play other people's games
+    - Allow to play 2 or 3 other games
+- Reflection
+    - What was good about other people's games
+    - What could be improved
+    - Important to accept feedback and improve
+        - Helps find bugs
+        - Helps improve products
