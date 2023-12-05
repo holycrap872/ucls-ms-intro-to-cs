@@ -36,6 +36,10 @@
     - Have go to Schoology and remix it
         - https://scratch.mit.edu/projects/896826066/
     - Do in pairs!
+- Have do second level if need to stretch time
+    - Explain how proud I am of my level because requires difficult movements
+    - Come up with your own that mimics mine
+    - Show "broadcast" and "when I recieve"
 
 ## Homework
 
