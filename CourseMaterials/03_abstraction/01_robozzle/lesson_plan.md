@@ -14,12 +14,24 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
 ### Actual Lesson
 
 - Reflection
-    - Abstraction in Magic
-    - Abstraction in Art
-    - Abstraction in CS
+    - What are functions?
+    - Functions in race car
+    - What are real life examples of functions?
+- Starting a new unit on abstractio
+    - Define abstraction
+    - Where do we see abstraction?
+    - How are functions like abstraction?
 - Today going to play some logic puzzles
     - Show robozzle and explain how the program works
-    - Walk through a one or two levels
+    - Walk through a two levels
+        - http://www.robozzle.com/beta/index.html?puzzle=-1
+            - Explain how game works
+            - Explain how interface works
+            - Make sure to explain have to click through "intro" code
+        - http://www.robozzle.com/beta/index.html?puzzle=-2
+            - Explain how f1 runs first
+            - Can call f2 from f1
+            - How is this like functions?
 - Explain process
     - Go down sheet puzzle by puzzle
     - Can play in pairs or by yourself
@@ -33,7 +45,7 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
     - Why are they useful
         - Save space
         - Repeat patterns
-        - Programming is folding!
+        - Programming is like oragami: folding!
 
 - Levels:
     - Introduction
