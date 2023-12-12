@@ -24,6 +24,9 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
     - Go down sheet puzzle by puzzle
     - Can play in pairs or by yourself
     - Need to get to 10th level
+- Have create account so I "can track you"
+    - User name same as Scratch
+    - Password "ChangeMe" since not a secure website/no interesting data
 - Go!
 - Before end of class
     - What are "functions"

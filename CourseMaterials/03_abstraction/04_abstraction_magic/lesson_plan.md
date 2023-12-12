@@ -1,5 +1,6 @@
 ## Essential Questions
 
+- What is the difference between magic and technology?
 - How do multiple layers of abstraction affect understandability?
 - What does too much abstraction do to a user?
 

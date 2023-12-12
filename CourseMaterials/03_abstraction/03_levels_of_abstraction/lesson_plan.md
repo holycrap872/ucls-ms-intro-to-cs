@@ -50,3 +50,6 @@
     - How is this like abstract art?
     - How many levels deep could you go?
     - How is this like scratch?
+
+- For next class: How is this like being a good leader?
+    - Call back to sorting game
