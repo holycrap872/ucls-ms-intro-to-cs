@@ -7,7 +7,7 @@
 
 ### Setup
 
-The morse code "flashers" that are in the CS office
+- The morse code "flashers" that are in the CS office
 
 ### Lesson Plan
 
@@ -21,7 +21,7 @@ The morse code "flashers" that are in the CS office
 - Computers don't just store 1's and 0's, we have an internet
     - How could we send 1's and 0's (information) over long distances
         - Set up movie clip by explaining what's going on: sub-sub communication
-            - https://www.youtube.com/watch?v=lJazkW8i--Q&t=1s
+            - https://www.youtube.com/watch?v=lJazkW8i--Q
             - How are the American's sending message?
             - What message are the Russians sending with one bit?
 - How could we come up with a system to send words?
@@ -33,7 +33,9 @@ The morse code "flashers" that are in the CS office
     - Send SOS via lights
     - Have them do example problems in slide show
     - Play a clip where joke encoded in morse code (setup: sound, punchline: blinks)
-    - Have students encode their own message and send it to a student across the room
+        - https://morsecode.world/international/translator.html
+- Have students encode their own message and send it to a student across the room
+    - Use "Morse Code Signal Set" from usgamesinc.com
     - Then switch and send it the other way
 - Discussion
     - Why not dits, dahs, dems, and doops?
@@ -43,6 +45,7 @@ The morse code "flashers" that are in the CS office
     - How is it different?
     - Compression
         - Show picture of "morse code tree"
+- Closing worksheet
 
 ### Potential Extension
 
