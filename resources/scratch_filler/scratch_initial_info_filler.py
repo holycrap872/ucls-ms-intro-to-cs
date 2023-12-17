@@ -4,6 +4,12 @@ import time
 import typing
 from playwright.sync_api import Playwright, sync_playwright, expect
 
+"""
+Installing playwright:
+1. pip3 install playwright
+2. python3 -m playwright install
+"""
+
 
 class LoginInfo(typing.NamedTuple):
     username: str
