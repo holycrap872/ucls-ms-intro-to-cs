@@ -31,3 +31,7 @@
 - What does it take to make a good fractal
     - Find the pattern
     - That's all it takes for programming!
+
+### Resources
+
+- https://www.youtube.com/watch?v=I5nqMjHssFA
