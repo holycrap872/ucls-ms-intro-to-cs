@@ -35,6 +35,10 @@
     - Work in pairs
 - Go!
 
+#### Homework
+
+- `real_life_functions.docx` worksheet
+
 ### Extensions
 
 Slot machine that draws a bunch of different shapes at random and "pays out"
