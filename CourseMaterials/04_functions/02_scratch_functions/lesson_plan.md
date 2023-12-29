@@ -8,9 +8,10 @@
 
 ### Setup
 
+- `real_life_functions.docx` printed out and ready to go
+
 ### Actual Lesson
 
-- Reminder to turn in homework
 - Review
     - Variables
     - Why useful
@@ -20,10 +21,12 @@
     - Input/output
 - Where have we seen functions?
     - Math
-    - Robozzle/LightBot
-        - http://www.robozzle.com/beta/index.html?puzzle=16166
+    - Robozzle
+    - Race car game
 - Why functions?
     - Abstraction
+    - Easier to reason
+    - Decompose a problem into pieces
 - Do an example together:
     - Length of time to cook turkey function
         - Input: pounds, stuffed or not

@@ -7,7 +7,8 @@
 
 ### Setup
 
-Preprogrammed scratch program that plays all the notes
+- Preprogrammed scratch program that plays every instrument
+- `variables_2_worksheet.docx` printed out and ready to go
 
 ### Actual Lesson
 
@@ -16,35 +17,33 @@ Preprogrammed scratch program that plays all the notes
         - Set, change, store
     - Why are variables useful?
     - Why set outside loop, change inside
-- Have program waiting that plays all the notes
+- Have program waiting that plays all the instruments
+    - See `Instruments` function in accompanying scratch program
     - Ask them to try and figure out what it does with their elbow partner
     - Review what's going on behind scenes with note change
     - Discuss
         - Could have a 120 line program but that would be annoying
         - What's a good name for this variable
         - Create it and listen to it
-        - At end of program "Now every dog in the neighborhood is barking"
-        - See `EveryNote` example in accompanying scratch program
 - Today going to use this ability to make a lot of different types of programs
-    - These are classic intro course problems
+    - These are classic intro course problems you'll see in 9th grade
 - Storing strings
     - Create variable named after student (e.g., `eric`)
     - Ask them to think about something
     - Create program `say(join("Eric is thinking about ", eric))` and run it
+        - See `ThinkingAbout` function in accompanying scratch program
 - Introduce `ask and wait` block
     - special `ask` variable
     - What user says gets moved into `ask` variable
     - Add onto above program to ask person what they are thinking about
-- Further examples (if necessary/if have attention)
-    - Password program
-        - See `Password` example in accompanying scratch program
-    - Count number of times you've said something
-    - Multiply by 2 program
-        - Ask for number and say number multiplied by 2
-    - Program that adds 2 numbers
-        - Let break and ask what went wrong
-        - Need holder variables
-        - introduce concept that variables can only remember 1 thing
+        - See `AskThinkingAbout` function in accompanying scratch program
+- Further examples
+    - Pounds to kgs
+        - See `PoundsToKgs` function in accompanying scratch program
+    - Password program (if necessary/have attention)
+        - See `Password` function in accompanying scratch program
+- Why is `ask and wait` useful?
+    - Interaction with user
 - Start `variables_2_worksheet.docx`
     - Give 3m to read through it then summarize as class
     - Go!
