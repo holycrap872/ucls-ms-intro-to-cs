@@ -15,8 +15,8 @@
 - Review
     - Variables
     - Why useful
-    - Create review program that goes through every instrument in scratch
     - Create a loop in a loop to play a bunch of notes from each instrument
+    - Create a program that draws a "square spiral"
 - What is a function?
     - Input/output
 - Where have we seen functions?
