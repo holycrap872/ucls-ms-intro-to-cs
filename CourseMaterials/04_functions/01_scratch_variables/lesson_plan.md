@@ -17,29 +17,32 @@
         - Set, change, store
     - Why are variables useful?
     - Why set outside loop, change inside
-- Have program waiting that plays all the instruments
+- Have program waiting that plays all the instruments (PRIMM)
     - See `Instruments` function in accompanying scratch program
     - Ask them to try and figure out what it does with their elbow partner
     - Review what's going on behind scenes with note change
     - Discuss
         - Could have a 120 line program but that would be annoying
-        - What's a good name for this variable
-        - Create it and listen to it
+        - Run it and listen to it
+        - What's a better name for the `my variable` variable
 - Today going to use this ability to make a lot of different types of programs
     - These are classic intro course problems you'll see in 9th grade
 - Storing strings
-    - Create variable named after student (e.g., `eric`)
-    - Ask them to think about something
+    - Ask for volunteer
+    - Create variable named after volunteer (e.g., `eric`)
+    - Ask volunteer to think about something
     - Create program `say(join("Eric is thinking about ", eric))` and run it
         - See `ThinkingAbout` function in accompanying scratch program
 - Introduce `ask and wait` block
-    - special `ask` variable
+    - Special `ask` variable
     - What user says gets moved into `ask` variable
     - Add onto above program to ask person what they are thinking about
         - See `AskThinkingAbout` function in accompanying scratch program
 - Further examples
     - Pounds to kgs
-        - See `PoundsToKgs` function in accompanying scratch program
+        - Program it together
+            - Give them hint that 2.2 lbs per kg
+            - See `PoundsToKgs` function in accompanying scratch program
     - Password program (if necessary/have attention)
         - See `Password` function in accompanying scratch program
 - Why is `ask and wait` useful?
