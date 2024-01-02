@@ -53,7 +53,9 @@
     - Store
 - Hand out `variables_1_worksheet.docx`
     - Give 3m to read through it then summarize as class
+    - Stress importance of headphones
     - Go!
+        - For 40m block, they should get through the first two sections
 
 ### Homework
 
