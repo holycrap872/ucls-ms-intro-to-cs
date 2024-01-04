@@ -10,6 +10,11 @@
 
 - https://github.com/holycrap872/hp-learn-shell Docker image built and pushed
   to computers
+    - Enough docker images up and running
+    ```
+    docker pull erizzi/hp_terminal_tutorial
+    docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial /bin/zsh
+    ```
 - All clues hidden in proper locations
 - Terminals in "Pro mode" (need white text) with dimensions 120x50
 - Demo with Apple's terminal (for consistency)
