@@ -50,6 +50,9 @@
 - Start `variables_2_worksheet.docx`
     - Give 3m to read through it then summarize as class
     - Go!
+        - 7th graders get to ~question 6 in a 85m period
+        - 9th graders get to ~question 9 in a 85m period
+        - Both are starting to lose focus in last 15m (understandably)
 
 ### Homework
 
