@@ -47,6 +47,11 @@ Stick their drawings onto a white-board tree
     - Combine all the trees into one big class tree
         - Each of their trees is a branch on the big tree
 
+### Resources
+
+- https://mathigon.org/task/complete-the-fractal-puzzle
+- https://mathigon.org/course/fractals/introduction
+
 ### Worksheet for Movie
 
 - What is a fractal?

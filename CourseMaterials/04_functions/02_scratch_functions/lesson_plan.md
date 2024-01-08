@@ -31,8 +31,8 @@
     - Length of time to cook turkey function
         - Input: pounds, stuffed or not
             - 15m per pound stuffed
-            - 13m per pound stuffed
-        - Output: cook time
+            - 13m per pound not stuffed
+        - Output: say cook time
     - Hexagon together as a class
 - Explain/talk through worksheet
     - Work in pairs
