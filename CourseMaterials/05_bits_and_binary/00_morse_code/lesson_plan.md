@@ -7,7 +7,9 @@
 
 ### Setup
 
-- The morse code "flashers" that are in the CS office
+- Morse Code cheat sheets printed out
+- The Morse Code "flashers" that are in the CS office
+- Morse Code worksheets printed out
 
 ### Lesson Plan
 
@@ -18,6 +20,9 @@
         - Scenery generator: http://qiao.github.io/fractal-terrain-generator/demo/
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
+    - What types of data do computers represent?
+        - Pictures, text, video, audio
+        - Today going to talk about text
 - Computers don't just store 1's and 0's, we have an internet
     - How could we send 1's and 0's (information) over long distances
         - Set up movie clip by explaining what's going on: sub-sub communication
@@ -32,24 +37,44 @@
 - Send various messages
     - Send SOS via lights
     - Have them do example problems in slide show
-    - Play a clip where joke encoded in morse code (setup: sound, punchline: blinks)
-        - https://morsecode.world/international/translator.html
 - Have students encode their own message and send it to a student across the room
     - Use "Morse Code Signal Set" from usgamesinc.com
     - Then switch and send it the other way
+- Play a clip where punchline is audio
+    - "My friend’s bakery burned down last night. Now his business is" ... TOAST
+    - "German sausage jokes are just the:"
+    - https://morsecode.world/international/translator.html
 - Discussion
     - Why not dits, dahs, dems, and doops?
         - Too difficult to tell apart
     - How did morse code change the world?
     - How is morse code like the internet?
     - How is it different?
-    - Compression
-        - Show picture of "morse code tree"
+- Show picture of "morse code tree"
+    - Why is this better
+    - Do some examples
 - Closing worksheet
 
 ### Potential Extension
 
 - As a class, encode in scratch a morse code encoder that uses the tree (nested if/else)
+- Guess Who (given the "morse code tree")
+    - Guess Who is very hot right now
+        - Who's played Guess Who?
+        - https://www.youtube.com/watch?v=vl4dQrGaOcU
+            - 0:00 - 1:30
+    - Play a game of Guess Who
+        - Draw a decision tree as they go
+        - Ask winner:
+            - What was your strategy?
+            - What questions did you ask?
+    - Have them play two more times and continue to fill in their decision tree
+        - Root node/existing nodes should not change
+        - If change, shows asked a bad question to begin with
+    - What's going on here?
+        - What is everyone's first question?
+            - Who's is best and why?
+        - Goal is to split the search space in half
 
 ### Resources
     - https://morse.withgoogle.com/learn/#
