@@ -76,3 +76,8 @@ Game loop intro
 ### Homework
 
 - None
+
+### Resources
+
+- Robozzle-like block-based puzzles
+    - https://studio.code.org/s/express-2023/lessons/15/levels/3
