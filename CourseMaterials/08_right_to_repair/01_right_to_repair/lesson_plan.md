@@ -14,3 +14,9 @@
     - Genetically modified seeds and roundup
     - Fire
     - What is 
+
+#### Resources:
+
+- Updated captcha that uses your data (w/o you knowledge) for good
+    - https://www.youtube.com/watch?v=4UuvwY6CdLo
+    - Ethical ramifications?
