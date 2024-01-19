@@ -35,17 +35,20 @@
     - Terminal/shell is what he's typing in
 - What do people think when they see this thing?
     - Difficult, mysterious, powerful, magical?
-    - Today we're going to learn it?
+    - Today we're going to learn it
 - Give basic demonstration
     - Explore directory structure of computer
-        - Do it on desktop so you can see the changes
-        - `ls`
-        - `cd`
-        - `cd ..`
-        - `cat`
-        - `mkdir`
-        - `pwd`
-        - STESS SPACES!!!!
+        - Do various commands in terminal
+            - `ls`
+            - `cd`
+            - `cd ..`
+            - `cat`
+            - `pwd`
+            - STRESS SPACES!!!!
+        - At every step, do equivalent commands on the GUI
+            - `cd` -> double click
+            - `ls` -> reading file
+            - ...
     - Don't bother with absolute vs relative b/c will be covered in a clue
 - Today we're going to do a scavenger hunt
     - You're going to use the commands I just showed you and more
@@ -54,17 +57,25 @@
             - BitPics
         - Need to read carefully
         - On computer and within the 1st/2nd floor of the school
-    - Rules
-        - No running
-        - No yelling
-        - I have a worksheet if it gets too crazy
-        - If you get stuck, ask for help
     - Background
         - Harry Potter themed scavenger hunt
         - Use clues in the computer and the real world
         - You're going to "wake up" as Harry Potter
-        - Demonstrate up until actually viewing the initial clue
+    - Walk through commands in HP world
+        - `ls` -> lumos
+        - `cd` -> change door
+        - `cat` -> trusty cat
+    - Do `demo` with Dobby
     - Run an example together on my computer
         - Explore first few rooms and discuss
+    - Rules
+        - No running
+        - No yelling
+        - I have a worksheet if it gets too crazy
+        - Take the clue you find with you... everyone's is hidden in unique spot
+        - If you get stuck, ask for help
+    - Demonstrate the rules
+        - Show me an example of quietly finding a clue
+        - Show me an example of quietly walking through the halls
 - Partner up
 - Go!
