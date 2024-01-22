@@ -9,6 +9,8 @@
 
 - Computer parts: CPU, harddrive, memory
 - Various printouts
+- `tshark` CLI installed on a computer that you have root permissions to
+    - `brew install wireshark`
 
 ### Actual Lesson
 
@@ -22,6 +24,7 @@
 - Show my computer via terminal
     - Navigate from home into MS lesson plans
     - Talk about how you can see stuff
+        - List of all of the lessons we've done so far
     - Why is my computer ordered this way (folder in folders?)
         - Organization
 - History of OS
@@ -33,7 +36,7 @@
             - Use of `ls`
             - `cd`
             - Folder hierarchy
-- Show picture of linux folder structure
+- Show picture of Linux folder structure
     - Root at the top
     - Everything nicely organized underneath
     - Point out `/bin` folder
@@ -46,6 +49,11 @@
     - Show good desktop
     - Show bad desktop
         - Search "messy desktop"
+- Wireshark from command-line
+    - `sudo tshark -i en0 -c 1000 -w out.pcap`
+    - Go to a random website
+    - `sudo tshark -r out.pcap > ex.txt`
+    - Search for random website to show can snoop
 - Today going to talk about computers and how they work
     - What are some words you know about computers?
 - Show each computer part
