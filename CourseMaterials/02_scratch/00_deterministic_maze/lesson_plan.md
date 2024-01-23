@@ -38,4 +38,7 @@
 
 ## Homework
 
-- None
+- Make a program that spells out our initials
+    - Take a screen shot of the code
+    - Take a screen shot of the picture
+    - Submit via GoogleDocs
