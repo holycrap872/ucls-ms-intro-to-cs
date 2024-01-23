@@ -2,10 +2,18 @@
 - Understand how computers store and represent certain types of information
 
 ## Learning Objective:
+
 - Understand how bits can represent color
 - Be able to encode and decode simple bitmaps
 
 ## Lesson Plan
+
+### Setup
+
+- 4 grids from `blank_grid.docx` (2 papers front/back) per student
+- Pencils
+
+### Actual Lesson
 
 - Reflection
     - How do computers store information?
@@ -18,6 +26,7 @@
     - Show in preview
     - Zoom in
     - Just a bunch of small rectangles stuck together
+    - Pixel: "Picture element"
 - Start easy
     - How represent black and white?
         - 0 represent black (turn lights off)
@@ -34,11 +43,12 @@
         - Missing rows are:
             - two 1's, one 0, seven 1's, one 0, one 1
             - three 1's, seven 0's, two 1's
+- Encode a 4x4 checkerboard as a class
 - Now going to make our own art
     - Going to make your own black and white design on this paper
     - Encode it and trade it with someone
     - Share to see if you came up with the right thing
-- After the bring everyone back together
+- After that, bring everyone back together
 - What did we learn?
 - Pixels can be anything
     - What are some examples?
