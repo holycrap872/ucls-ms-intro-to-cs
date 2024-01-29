@@ -10,7 +10,8 @@ Welcome to `MS Intro to CS`!
 
 ### Setup
 
-Have `initial_questionnaire.docx` printed out
+- `initial_questionnaire.docx` printed out
+- Log into `console.aws.amazon.com`
 
 ### Actual Lesson
 
@@ -20,6 +21,8 @@ Have `initial_questionnaire.docx` printed out
         - Worked at AWS
         - Who's heard of AWS
         - Show AWS console
+            - Show lambda
+            - Show EC2
         - Explain what I did
             - Bug bounty program
 - Goals of the course
@@ -27,7 +30,9 @@ Have `initial_questionnaire.docx` printed out
         - Emphasize quotes in the beginning
             - What do they mean?
         - Emphasize first paragraph of introduction
-        - Emphasize only occasional homework if work hard in class
+            - Have student read out "demystify" sentence
+            - Draw diagram with 1's and 0's at the bottom and AI at the top
+                - Understand every layer of computers
         - Emphasize if need help, come find me
     - Things understand
     - Things don't understand
@@ -36,20 +41,20 @@ Have `initial_questionnaire.docx` printed out
         - Clean up space before you leave
         - Push in chairs before you leave
         - Raise hand before speaking
-        - Don’t touch anyone else
+        - Don't touch anyone else
         - No unapproved video games
     - Any suggestions on what we should add/change?
     - Have everyone sign/big nod to agree
 - Discipline ladder
-    - Verbal warning
-    - Verbal warning
+    - Name on board
+    - Name underlined on board
     - Letter grade drop in participation for week
     - Letter grade drop in participation for week
     - Email to parents
     - Trip to office
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
-- Have fill out class questionaire
+- Have fill out class questionnaire
     - Should take ~10m to fill out
         - What was some stuff you remember from previous computer class
         - What are computers good at
