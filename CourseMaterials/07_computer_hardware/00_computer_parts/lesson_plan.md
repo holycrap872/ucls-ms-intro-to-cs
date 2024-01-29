@@ -36,6 +36,8 @@
             - Use of `ls`
             - `cd`
             - Folder hierarchy
+    - All websites model unix
+        - `/` at every page
 - Show picture of Linux folder structure
     - Root at the top
     - Everything nicely organized underneath
