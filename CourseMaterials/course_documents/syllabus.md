@@ -14,7 +14,7 @@ abstractions that give computers their power.
 In the first part of the course, students will be exposed to the basics of
 programming. The goal will be to understand the fundamentals of computational
 thinking and to identify opportunities to utilize automation. In the second
-part, they will utilize this knowledge to understand different “levels” of
+part, they will utilize this knowledge to understand different "levels" of
 abstraction within the computer. This will include seeing how 1's and 0's can be
 used to represent all manners of data including pictures and text. It will also
 include understanding how the parts of computers work together to provide a
@@ -63,11 +63,12 @@ typically involve:
 - Classwork (during class): This will involve programming challenges and other
   types of projects that you will complete individually or with partners to
   practice the concepts that are presented. Usually, you will be able to finish
-  these assignments during class. Regular parts that aren’t completed during
+  these assignments during class. Regular parts that aren't completed during
   class time will usually need to be finished outside of class time before the
   next class period. **Late classwork will receive a letter grade deduction.**
 - Homework (after class): Short assignments (done individually) to practice
-  and develop mastery of the material covered in class.
+  and develop mastery of the material covered in class. **Late homework will
+  receive a letter grade deduction.**
 - Quizzes: Straightforward programming and multiple-choice questions to ensure
   your understanding of the terminology and the application of the concepts of
   the course.
@@ -89,8 +90,8 @@ Grades for assignments will be posted on Schoology.
 
 ## Time Expectations
 
-If you are diligent during the time provided in class, you will only
-occasionally have homework. Even when there is homework, you should not expect
+If you are diligent during the time provided in class, you will only have
+homework about half the time. When there is homework, you should not expect
 anything more than 10-15 minutes of homework per class period. All homework
 assignments will be posted on Schoology.
 
