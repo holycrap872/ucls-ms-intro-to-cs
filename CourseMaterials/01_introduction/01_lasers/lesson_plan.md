@@ -27,9 +27,13 @@ programming vs. the difficulties of understanding/executing the program.
     - Demystification
     - Point of this class
 - What is a program?
-    - Define computer
-        - Follows instructions
-    - Define program
+    - Ask them to come up with their own definition of computer
+        - They'll say stuff like phone
+        - Guide them towards "something that follows instructions"
+        - Origin of the word is that it was a human job
+            - Just like doctor or lawyer: I'm a computer!
+        - Show picture of logarithms tables... this is what computers calculated
+    - Ask them to come up with their definition of a program
         - Recipe
         - Scratch
     - Define programming language
@@ -49,25 +53,20 @@ programming vs. the difficulties of understanding/executing the program.
         - Maze Rules
             - Closest of one inch between two lines
     - Example of what going to do on the board
+        - I do the example
+        - Use ruler to really drive home the point
     - Split in pairs
         - Have one group work on the board
         - Go
 - Debrief
     - What was easy and what was hard?
-    - Q: What was the hardest part
-    - Q: What was unexpectedly easy?
-    - Q: How is this similar to programming computers?
-    - Q: How is this different from programming computers?
-    - Q: Why are we using a restricted set of words?
+    - Discuss problems with getting units wrong.
+        - Mars Rover
+    - Discuss why humans with eyes closed is similar to computer (can't react smartly)
 - Show maze generation algorithms
     - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
     - How is this like the program's you wrote. How are they different?
 
-#### Switch to Scratch
+#### Homework
 
-- What do we remember about Scratch?
-    - Loops
-    - If / Else
-- Log on
-- Create a Maze
-- Only using the `move 1`, repeat X, and turn blocks solve the maze
+- Simple assessment just to set the expectation of homework
