@@ -40,4 +40,3 @@ Length of lesson: 20-30 minutes.
 - Discussion topics
     - Sorting for census in 1890
     - Parallel algorithms
-

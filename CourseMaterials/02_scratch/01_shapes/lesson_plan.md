@@ -14,13 +14,15 @@ Have one student's maze from a previous example selected as an example.
     - How to login/log out
     - Show a few mazes from previous class
     - How did we get the sprite to move more slowly?
-        - show them!
+        - Show them
         - Called frame rate... will be useful when we start to do video games
 - Today we're going to talk about loops
     - Why would you use a loop?
+    - PRIMM of square code
     - Do some examples together
         - Stress initialization
-        - Square
+        - Triangle
+            - Internal vs. external angle
             - Show "backpack" in scratch
         - Circle
 - Going to work in pairs
