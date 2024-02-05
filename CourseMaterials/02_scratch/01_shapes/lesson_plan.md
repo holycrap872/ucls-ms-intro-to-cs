@@ -6,18 +6,22 @@
 
 ### Setup
 
-Have one student's maze from a previous example selected as an example.
+- Have one student's maze from a previous example selected as an example.
+- Have PRIMM square example up and ready to run in Scratch
 
 ### Actual Lesson
 
 - Review
     - How to login/log out
-    - Show a few mazes from previous class
+    - Show a a maze from previous class
     - How did we get the sprite to move more slowly?
         - Show them
         - Called frame rate... will be useful when we start to do video games
 - Today we're going to talk about loops
     - Why would you use a loop?
+        - Have them come up with a few real-life examples
+            - Breathing
+            - Going to school
     - PRIMM of square code
     - Do some examples together
         - Stress initialization
@@ -26,15 +30,10 @@ Have one student's maze from a previous example selected as an example.
             - Show "backpack" in scratch
         - Circle
 - Going to work in pairs
-    - Model good pair programming
-        - Watch me:
-            - What do you notice?
-        - Watch someone else:
-            - What do you notice?
-        - Pair programming theater
-    - Every ten minutes going to switch
+    - Explain expectations of navigator and driver
+    - Pair programming theater
+    - Every time finish problem, switch
 - Worksheet on Schoology
-    - Mid-way through, we're going to take a "thinking walk"
     - Go!
 - Class participation rubric
     - Walk through it
