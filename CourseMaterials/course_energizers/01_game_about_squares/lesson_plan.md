@@ -16,10 +16,12 @@
     - Practice problem solving
     - Practice communication
 - Play square game
-    http://gameaboutsquares.com/
+    - http://gameaboutsquares.com/
+    - Person farthest along gets candy next class
 - Debrief
+    - I like to play logic games... helps with math and programming
     - What was easy
     - What was hard
+- Program in scratch together
     - How would we program this with a game loop?
-        - How many sprites
-        - How many what would game loop look like for level 1?
+    - How many sprites

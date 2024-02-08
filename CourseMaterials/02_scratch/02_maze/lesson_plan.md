@@ -10,6 +10,7 @@ Game loop intro
 ### Setup
 
 - `maze_final.sb3` loaded up for demonstration's purposes
+- Maze worksheet published in Schoology
 
 ### Actual Lesson
 
@@ -22,6 +23,10 @@ Game loop intro
         - Do a shape together
             - Triangle with triangles at the edges
 - What is a conditional?
+    - Conditionals from real life
+        - What are some conditionals you "evaluate" in the morning
+            - Ask the class
+            - e.g., If cold then put on coat
     - Act out if/else
         - `if light is on, stand up, else, sit down`
         - `if light changes give me money`
@@ -44,7 +49,7 @@ Game loop intro
     - Pause and go over common problems and ask why bad
         - Nested ifs
         - No forever loop
-        - Inits inside of foreverloop
+        - Inits inside of forever loop
     - Maze game
         - Show game that I made
             - Show how to make own background
@@ -66,9 +71,7 @@ Game loop intro
 - Reflection:
     - How do we get the impression of motion?
     - If we wanted to simulate this as humans, what would we have to do?
-    - How is this similar to the laser game and how is it different?
-    - Give me an example of an `if` statement from your life?
-    - Give me an example of a `while` statement from your life?
+    - How is this similar to the deterministic maze game and how is it different?
     - What would we need to do to make this a professional video game?
     - What could we do if we wanted to play this game on opposite day?
     - What other types of input could we use?
