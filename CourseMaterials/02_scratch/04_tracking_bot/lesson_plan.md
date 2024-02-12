@@ -12,7 +12,7 @@
 ### Actual Lesson
 
 - Reflection
-    - What was easy about bmtron
+    - What was easy about Tron
     - What was hard?
     - What were new blocks?
         - `or`

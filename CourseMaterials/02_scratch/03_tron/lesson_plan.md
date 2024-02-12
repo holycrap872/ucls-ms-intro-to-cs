@@ -18,7 +18,7 @@ appreciate how engaging it can be.
 ### Setup
 
 - Have `drawing_game_skeleton.sb3` loaded up with the code hidden
-- Have `bmtron.sb3` loaded up with the code hidden
+- Have `tron.sb3` loaded up with the code hidden
 - Have YouTube clip from tron: https://youtu.be/hMT8tRrEMC4?t=84s
 
 ### Actual Lesson
