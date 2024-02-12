@@ -25,3 +25,6 @@
 - Program in scratch together
     - How would we program this with a game loop?
     - How many sprites
+    - Do actual program as a class where driving a square
+    - Add an arrow on background to change direction
+        - Use `if touching color blue, point toward 0 degrees`

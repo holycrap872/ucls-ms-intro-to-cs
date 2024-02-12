@@ -1,4 +1,4 @@
-BMTron
+# BMTron
 
 ## Essential Questions
 
@@ -9,16 +9,17 @@ BMTron
 ## Lesson Plan
 
 In this lesson, we increase the "fun" from the previous maze game and start
-to investigate different types of motion. Really, however, this is just about
-taking the principles of the previous lesson and applying them again. The overall
-goal is to have them create the program with minimal hints and then appreciate
-how engaging it can be.
+to investigate different types of motion. In particular, we examine the
+difference between moves inside an `if` and moves outside an `if`. In doing
+so, student practice using the game loop pattern to structure their thinking.
+The overall goal is to have them create the program with minimal hints and then
+appreciate how engaging it can be.
 
 ### Setup
 
-Have `drawing_game_skeleton.sb3` loaded up with the code hidden
-Have `bmtron.sb3` loaded up with the code hidden
-Have YouTube clip from tron up and loaded
+- Have `drawing_game_skeleton.sb3` loaded up with the code hidden
+- Have `bmtron.sb3` loaded up with the code hidden
+- Have YouTube clip from tron: https://youtu.be/hMT8tRrEMC4?t=84s
 
 ### Actual Lesson
 
@@ -28,11 +29,12 @@ Have YouTube clip from tron up and loaded
     - What did we do last class?
         - What is the game loop?
         - What are the parts of the game loop?
-        - What is the difference between the drawing and the games?
+        - What is the difference between drawing shapes and the games?
             - infinite loop
             - No user input
 - Let's see if you can figure out how one of my simple "games" works
-    - Show `drawing_game_skeleton.sb3` and see if can figure out each part of gameloop
+    - Show `drawing_game_skeleton.sb3`
+    - See if can recreate each part of gameloop as a class
         - if/else for pen down
         - Change color constantly
     - Quickly turn it into four sprite drawing game by altering x, y multipliers
@@ -55,7 +57,11 @@ Have YouTube clip from tron up and loaded
 
 ##### Homework
 
-- None
+- Schoology Assessment on Gameloops
+    - Which of the following are parts of the "game loop" algorithm?
+    - What is the Computer Science translation of the sentence "when it rains I wear my coat"?
+    - Why is a forever loop a better option than a repeat loop with a game?
+    - Fill in the blanks to make a square:
 
 #### Day 2
 
