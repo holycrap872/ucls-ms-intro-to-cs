@@ -1,4 +1,4 @@
-# BMTron
+# Tron
 
 ## Essential Questions
 
@@ -34,7 +34,7 @@ appreciate how engaging it can be.
             - No user input
 - Let's see if you can figure out how one of my simple "games" works
     - Show `drawing_game_skeleton.sb3`
-    - See if can recreate each part of gameloop as a class
+    - See if can recreate each part of game loop as a class
         - if/else for pen down
         - Change color constantly
     - Quickly turn it into four sprite drawing game by altering x, y multipliers
@@ -46,8 +46,9 @@ appreciate how engaging it can be.
 - Show new blocks
     - OR block
     - touching wall block
-- This is a puzzle to see if you can figure it out on your own
-- Start!
+- Pair up
+    - This is a puzzle to see if you can figure it out on your own
+    - Start!
 - Reflection:
     - What is a game that this reminds you of?
     - What was easy?
@@ -68,7 +69,7 @@ appreciate how engaging it can be.
 - Reflection
     - Game loop
     - Conditionals
-    - BMTron
+    - Tron
 - Going to get back to game, but first: real life conditionals
     - Conditionals don't just have to be in computer programs
     - Can think of your life as a program
@@ -81,7 +82,7 @@ appreciate how engaging it can be.
         - either `conditionals_worksheet_long.docx` or `conditionals_worksheet_short.docx`
         - Work next to elbow parter for ~10m
     - Reconvene and discuss
-- Review BMTron
+- Review Tron
     - Get started again
 - When finished, have rotate so can play other people's games
     - Allow to play 2 or 3 other games
