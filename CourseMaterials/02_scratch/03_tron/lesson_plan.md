@@ -76,11 +76,12 @@ appreciate how engaging it can be.
     - Some examples:
         - If hungry, then eat
         - repeat until not thirst: drink
-    - What are a few you can thing of
+    - What are a few you can think of?
         - if, if/else, repeat
     - Hand out worksheet
-        - either `conditionals_worksheet_long.docx` or `conditionals_worksheet_short.docx`
-        - Work next to elbow parter for ~10m
+        - `conditionals_worksheet_long.docx` if have long block
+        - `conditionals_worksheet_short.docx` if regular class
+        - Work with elbow partner for ~10m
     - Reconvene and discuss
 - Review Tron
     - Get started again
