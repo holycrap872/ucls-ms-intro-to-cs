@@ -11,26 +11,26 @@
     - What is abstraction?
 - Discussion: Begin with a brief discussion about art.
     - Ask the students if they know what abstract art is.
-    - Why did art get weird in the late 1800s?
+    - Why did art get weird in the late 1800's?
         - Previously about capturing all possible details (as lifelike as possible)
         - Once camera invented, needed to go in a new direction
+            - Camera invented in 1839
         - One direction was abstract art
         - Painters tried to capture the essence of an idea
         - Let everything else fall away
 - Image Showcase: Show progression of images that go from realistic to very abstract
-    - docs.google.com/presentation/d/139aHtSzFNC00aAQ20kY1ukGvkAGRFY7DagPizKYPoN8
-        - Abstract People
-            - Self-Portrait with a Harp by Rose-Adélaïde Ducreux
-            - Lydia Leaning on Her Arms by Mary Cassatt
-            - Portrait of Dr. Gachet by Vincent Van Gogh
-            - Girl with a Mandolin by Pablo Picasso
-            - Embrace by Lee Krasner
-        - Landscapes
-            - Mount Adams, Washington by Albert Bierstadt
-            - Haystacks by Claude Monet
-            - Mountains at Collioure by Andre Derain
-            - Lake George Reflection by Georgia O’Keefe
-            - Night Sea by Agnes Martin
+    - Abstract People
+        - Self-Portrait with a Harp by Rose-Adélaïde Ducreux
+        - Lydia Leaning on Her Arms by Mary Cassatt
+        - Portrait of Dr. Gachet by Vincent Van Gogh
+        - Girl with a Mandolin by Pablo Picasso
+        - Embrace by Lee Krasner
+    - Landscapes
+        - Mount Adams, Washington by Albert Bierstadt
+        - Haystacks by Claude Monet
+        - Mountains at Collioure by Andre Derain
+        - Lake George Reflection by Georgia O’Keefe
+        - Night Sea by Agnes Martin
     - Discuss what we're seeing at each level
     - How does this relate to abstraction?
 - Group Activity:
@@ -60,4 +60,3 @@
 
 - We could make this a pictionary type game where you can do a single line
   or circle at a time. Keep going until someone guesses.
-- 
