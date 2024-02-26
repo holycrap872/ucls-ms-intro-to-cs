@@ -21,15 +21,14 @@ to hide important details from us.
 ### Setup
 
 - Venn diagrams on pieces of paper
-- Catesian planes on pieces of paper
+- Cartesian planes on pieces of paper
 - Pencils
 
 ### Actual Lesson
 
 - Review
     - Last class we...
-- Going to pause programming for a while
-    - Going to have a unit about how we use technology
+- Going to have a unit about how we use technology
     - Today going to discuss technology and magic
 - Repeat twice, once about technology, and once about magic
     - Stand up and find a partner who has the same shoe color
