@@ -17,7 +17,7 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
     - What are functions?
     - Functions in race car
     - What are real life examples of functions?
-- Starting a new unit on abstractio
+- Starting a new unit on abstraction
     - Define abstraction
     - Where do we see abstraction?
     - How are functions like abstraction?
