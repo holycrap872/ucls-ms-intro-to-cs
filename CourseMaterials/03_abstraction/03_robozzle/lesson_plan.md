@@ -1,28 +1,30 @@
 ## Essential Questions
 
+- Why is abstraction useful for solving problems?
+- How do we create useful abstractions?
+
 ## Lesson Plan
 
 ### Setup
 
-Create a progression of robozzle levels (see below) and have it in a sheet s.t.
-students can easily click to get to the next level:
-
-docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
-
-> Unfortunately, lightbot doesn't work on desktops, otherwise I'd use lightbot
+- Robozzle worksheet loaded into schoology and ready to go
+    - https://docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU/edit
 
 ### Actual Lesson
 
 - Reflection
-    - What are functions?
-    - Functions in race car
-    - What are real life examples of functions?
-- Starting a new unit on abstraction
     - Define abstraction
-    - Where do we see abstraction?
+    - Where do we see abstraction
+        - Art
+        - CS
+        - Real life
     - How are functions like abstraction?
+    l   - Draw the "abstraction tree chart" from the previous lesson
 - Today going to play some logic puzzles
     - Show robozzle and explain how the program works
+        - **Just like scratch**
+            - f1 -> "when green flag clicked"
+            - Program runs block 
     - Walk through a two levels
         - http://www.robozzle.com/beta/index.html?puzzle=-1
             - Explain how game works
@@ -34,18 +36,18 @@ docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU
             - How is this like functions?
 - Explain process
     - Go down sheet puzzle by puzzle
-    - Can play in pairs or by yourself
-    - Need to get to 10th level
-- Have create account so I "can track you"
-    - User name same as Scratch
-    - Password "ChangeMe" since not a secure website/no interesting data
+    - Can play in pairs but each person needs to submit GoogleDoc w/ screen shots
 - Go!
 - Before end of class
     - What are "functions"
     - Why are they useful
         - Save space
         - Repeat patterns
-        - Programming is like oragami: folding!
+        - Programming is like origami: folding!
+    - Explain a level as if it was an "abstraction tree chart"
+        - f1 is "high level"
+        - f2 is "broken out" lower level details
+        - What's a better name for f2?
 
 - Levels:
     - Introduction
