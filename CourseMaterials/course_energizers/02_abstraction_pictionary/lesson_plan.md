@@ -12,7 +12,7 @@ Length of lesson: 10-30 minutes.
 
 ### Setup
 
-https://randomwordgenerator.com/pictionary.php
+- https://randomwordgenerator.com/pictionary.php
 
 ### Actual Lesson
 
