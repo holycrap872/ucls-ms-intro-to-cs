@@ -8,7 +8,9 @@
 
 ### Setup
 
-- `real_life_functions.docx` printed out and ready to go
+- functions worksheet
+    - https://docs.google.com/document/d/1T7y-HDTxLjGatPhP-y9X3WD16TzqQ2hBdV9CXJ8ERBQ/edit#heading=h.rr0m3dwkxis4
+- `real_life_functions.docx` printed out for homework
 
 ### Actual Lesson
 

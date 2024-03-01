@@ -8,6 +8,8 @@
 
 - Have one student's maze from a previous example selected as an example.
 - Have PRIMM square example up and ready to run in Scratch
+- Shapes worksheet ready to go
+    - https://docs.google.com/document/d/1P3fhpg8kDkK9lqLpMQLzlOoGNlZLvoBuSb-CLwL3xBc/edit
 
 ### Actual Lesson
 

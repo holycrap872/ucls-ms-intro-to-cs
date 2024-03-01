@@ -8,6 +8,7 @@
 ### Setup
 
 - `variables_1_worksheet.docx` printed out and ready to go
+    - https://docs.google.com/document/d/1cqOEC-Pe_SCRW4azhxbGKTaH1JpfWOzIVshIbJRdFFw/edit?usp=sharing
 
 ### Actual Lesson
 
@@ -16,6 +17,10 @@
         - All the ways we learned about abstraction?
         - Why are functions an example of abstraction?
         - What abstraction is at its core
+            - Ways to reason about a complex world
+        - Robozzle levels
+            - What does f1 mean?
+            - What does f2 mean?
 - Going to start back up with scratch
     - Scratch review
         - Game loop
@@ -36,8 +41,8 @@
     - Instead, just one where plug in variables
 - Show variables in Scratch
     - Make own
-        - Name them "Nick" and "Matt" or whatever they were named before
-        - Replicate actions did in human example
+        - Name them `Nick` and `Matt` or whatever participants names were
+        - Replicate actions from in human example
         - See `AddVariables` function in accompanying scratch program
     - Stress that it's important to come up with a good variable name
 - Create a tempo increaser to play snare drum
