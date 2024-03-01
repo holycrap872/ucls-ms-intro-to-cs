@@ -33,6 +33,17 @@ Length of lesson: 10-30 minutes.
     - Draw a half circle below both, wait
     - It's a face
 - Play
+    - smile
+    - train
+    - cup
+    - bird
+    - computer
+    - music
+    - car
+    - candy
+    - horse
+    - hair
+    - balloon
 - Discussion topics
     - Are their abstract shapes that we know that we're playing off of?
     - How is iphone example of abstraction?
