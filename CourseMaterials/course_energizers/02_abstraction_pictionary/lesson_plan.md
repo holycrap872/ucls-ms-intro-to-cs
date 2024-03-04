@@ -24,26 +24,30 @@ Length of lesson: 10-30 minutes.
 - Explain goals
     - Two teams
     - Pick person to come up and be drawer
-    - They can make one line or circle at a time
-    - Their team gets 10 seconds to guess
-    - If they don't other team gets 10 seconds to guess
+    - Team 1
+        - They can make one line or circle at a time
+            - Max one second per draw
+        - Their team gets 10 seconds and three guesses
+    - If they don't other Team 2 goes with same rules
 - Example
     - Draw a circle, wait
     - Draw a circle to the left, wait
     - Draw a half circle below both, wait
     - It's a face
 - Play
-    - smile
     - train
-    - cup
     - bird
-    - computer
     - music
-    - car
-    - candy
+    - computer
     - horse
     - hair
     - balloon
+    - smile
+    - cup
+    - car
+    - candy
+    - knitting
+    - school
 - Discussion topics
     - Are their abstract shapes that we know that we're playing off of?
     - How is iphone example of abstraction?
