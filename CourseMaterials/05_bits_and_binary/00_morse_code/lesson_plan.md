@@ -58,23 +58,6 @@
 ### Potential Extension
 
 - As a class, encode in scratch a morse code encoder that uses the tree (nested if/else)
-- Guess Who (given the "morse code tree")
-    - Guess Who is very hot right now
-        - Who's played Guess Who?
-        - https://www.youtube.com/watch?v=vl4dQrGaOcU
-            - 0:00 - 1:30
-    - Play a game of Guess Who
-        - Draw a decision tree as they go
-        - Ask winner:
-            - What was your strategy?
-            - What questions did you ask?
-    - Have them play two more times and continue to fill in their decision tree
-        - Root node/existing nodes should not change
-        - If change, shows asked a bad question to begin with
-    - What's going on here?
-        - What is everyone's first question?
-            - Who's is best and why?
-        - Goal is to split the search space in half
 
 ### Resources
     - https://morse.withgoogle.com/learn/#
