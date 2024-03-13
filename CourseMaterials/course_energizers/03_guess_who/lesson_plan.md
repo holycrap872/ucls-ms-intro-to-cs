@@ -8,14 +8,21 @@
 ### Setup
 
 - Enough "Guess Who?" games for the whole class
+- Video loaded
+    -  https://youtu.be/vl4dQrGaOcU?si=W-I5lKmzrou3xiXY
 
 ### Lesson Plan
 
+- Decision Trees
+    - Show example
+    - Why is this useful?
+    - What is this like?
+        - 20 questions
 - Who's played Guess Who?
     - Have student explain it
-    - Play mini-game of guess who
-- Today going to play "decision tree" guess who
-    - Explain that have ask the same questions every time (when following same "path")
+    - Play mini-game of Guess Who
+- Today going to play "decision tree" Guess Who
+    - Explain that have to ask same questions every time (when following same "path")
 - Have students play a game of Guess Who
     - Draw a decision tree as they go
     - Ask winner:
@@ -43,3 +50,4 @@
     - https://www.youtube.com/watch?v=vl4dQrGaOcU
         - 0:00 - 1:30
 - Play one game just for fun
+    - School appropriate questions!!!
