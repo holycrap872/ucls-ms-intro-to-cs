@@ -54,6 +54,7 @@ to hide important details from us.
     - Technology vs. Magic
     - Both are about making things easier
     - Technology is something we can control
+        - https://xkcd.com/2904/
 - Today going to do another discussion about magic
     - Compare what seems like magic to modern people and ancient people
     - Draw grid on board
