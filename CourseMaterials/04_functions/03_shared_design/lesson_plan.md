@@ -1,18 +1,23 @@
 ## Essential Questions
 
 - How do we communicate our expectations to others?
-- How do we break down tasks so they are easily understandable?
+- How do we decompose problems so they’re easy to understand?
 
 ## Lesson Plan
 
-In this lesson, students are asked to work in pairs to create two games. The
-catch is that each will only create half of each game. To do this, students
-will first discuss which functions will be useful for the game. They will then
-separately implement them. Then, they will exchange computers and try to use
-the functions (without modification) to try and create the final game. The
-point here is that they rely on the other to design the functions that they
-will need. This will make them see that functions are useful abstractions
+In this lesson, students are asked to work in pairs to create two versions of
+the same game. The catch is that each will only create half of each version. To
+do this, students will:
+
+1. Discuss how to implement functions identified by the class as "core" to the game.
+2. Separately implement the functions.
+3. Exchange computers and use the functions (without modification) to create the final version.
+
+The point here is that they rely on their partner to implement the functions
+they will need. This will make them see that functions are useful abstractions
 where the details of how it's implemented don't really matter.
+
+> Note: a more advanced version of this would have students come up with their own functions
 
 ### Setup
 
@@ -27,30 +32,27 @@ where the details of how it's implemented don't really matter.
 - Today going to create flappy bird
     - Play game to show what it looks like
     - See `flappy_bird.sb`
-- Describe the algorithm for gravity
-    - Give them the minimal code `if (space) {speed+=1} else {speed-=2} change_y(speed)`
+- Design discussion
+    - What functions do you see?
+        - bird-flap, bird-glide, pipes-reset
+    - What behaviors do you see in those functions?
+    - Testing functions
+        - Double click on them to see if they're doing what you want
+        - Functions are easy to test... another reason why they're useful
 - Goal today:
-    - Must create at least 2 functions in each sprite
-        - Up to you which ones
-        - Hint: Game loop functions (move, check collisions) are a good start
-    - Will need:
-        - Score variable
-        - Speed variable
-        - Use of:
-            - random block
-    - Extensions:
-        - "Power up" / super point objects
-        - Lives
-        - Changing distance between pipes
-        - Flap animation
+    - Part 1:
+        - 10 minutes to implement functions
+            - Can include animations
+        - Go!
+    - Part 2:
+        - 20 minutes to implement everything else
+            - score, lives, lose screen,  
 - Plan:
     - Pair up
     - Discuss (5m)
-    - Split (10m)
-    - Swap (10m)
+    - Split and do Part 1 (10m)
+    - Swap and do Part 2 (10m)
     - Check results (5m)
-- Discuss how to test functions:
-    - Just double click on them
 - Allow partners to discuss with computers (without coding) for 5m
 - Put partners on opposite sides of the room
     - 10m to program functions
@@ -58,6 +60,13 @@ where the details of how it's implemented don't really matter.
     - 10m to get game working
     - CANNOT change function code
 - Come back together and see results
-- Discsuss
+- Discuss
     - What was easy/hard?
     - What functions did you wish you had created?
+
+#### Extensions
+
+- "Power up" / super point objects that randomly appear
+- Make flap/glide use acceleration
+    - Give them the minimal code `if (space) { speed+=1; } else { speed-=2; } change_y(speed);`
+- Changing distance between pipes
