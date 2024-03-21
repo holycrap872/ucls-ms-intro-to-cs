@@ -60,6 +60,8 @@
         - Making a car
         - Kidnapping a monkey from the zoo
     - Emphasize that the crazier the better
+    - Possible extension: have groups switch programs every few minutes
+        - People fill in the "how to" of other teams "high level functions"
 - Go!
 - Discussion:
     - Put up two figures, one with a tree like structure and one with just a list of 0-100
