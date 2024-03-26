@@ -8,7 +8,8 @@
 ### Setup
 
 - Morse Code cheat sheets printed out
-- Morse Code worksheets printed out
+- Morse Code worksheet loaded into Schoology
+    - https://docs.google.com/document/d/13Ufy4-Q3VcafWfpiOLC_793dQtHGKYyn3zMJIxDzwBU
 - The Morse Code "flashers" that are in the CS office
 - Youtube videos loaded up:
     - https://www.youtube.com/watch?v=lJazkW8i--Q
@@ -51,7 +52,7 @@
     - How did morse code change the world?
     - How is morse code like the internet?
     - How is it different?
-- Show picture of "Morse code Tree"
+- Show picture of "Morse Code Tree"
     - Why is this better
     - Do some examples
 - Closing worksheet
@@ -66,4 +67,4 @@
 
 ### Resources
 
-    - https://morse.withgoogle.com/learn/#
+- https://morse.withgoogle.com/learn/#
