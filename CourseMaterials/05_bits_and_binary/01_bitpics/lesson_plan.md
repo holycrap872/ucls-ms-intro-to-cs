@@ -11,12 +11,18 @@
 ### Setup
 
 - 4 grids from `blank_grid.docx` (2 papers front/back) per student
+    - Print on "flip horizontal"
 - Pencils
+- Youtube videos loaded up:
+    - https://www.youtube.com/watch?v=pRuRE-Bwk1U
+    - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
 
 ### Actual Lesson
 
 - Reflection
     - How do computers store information?
+    - What types of information do computers store?
+        - numbers, text, sound, pictures, video
     - How does that become letters and numbers?
     - https://www.youtube.com/watch?v=pRuRE-Bwk1U
 - Today going to talk about pictures
@@ -46,25 +52,19 @@
 - Encode a 4x4 checkerboard as a class
 - Now going to make our own art
     - Going to make your own black and white design on this paper
-    - Encode it and trade it with someone
-    - Share to see if you came up with the right thing
+    - Encode it
+    - Send it over the "internet" (teacher passing it to someone else)
+    - Decode it
+    - See if you came up with the right thing
 - After that, bring everyone back together
 - What did we learn?
 - Pixels can be anything
     - What are some examples?
         - Legos
-            - https://9to5toys.com/wp-content/uploads/sites/5/2020/08/LEGO-Art-Marvel-Iron-Man-8.jpg?quality=82&strip=all
-        - Paintballs
-            - https://youtu.be/fKK933KK6Gg?t=84
+        - Paintball GPU
+            - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
 - What is different between what we did and real pictures?
 
 ### Potential Extensions
 
 - As a class, encode a BitEmoji encoder with just black and white pixels in scratch
-
-## Bonus lesson
-
-- How do we do colors?
-- More 1's and 0's!
-- RGB slider in word
-- Encode their own colored picture
