@@ -49,7 +49,7 @@
             - `cd` -> double click
             - `ls` -> reading file
             - ...
-    - Don't bother with absolute vs relative b/c will be covered in a clue
+    - Note: don't bother with absolute vs relative b/c will be covered in a clue
 - Today we're going to do a scavenger hunt
     - You're going to use the commands I just showed you and more
         - Review of a lot of stuff we've talked about in class
