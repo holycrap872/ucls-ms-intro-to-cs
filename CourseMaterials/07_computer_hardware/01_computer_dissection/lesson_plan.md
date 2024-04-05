@@ -17,13 +17,10 @@
 ### Actual Lesson
 
 - Reflection
+    - Kilo, Mega, Giga
     - What's a CPU/memory/motherboard
     - What do they look like?
     - How do they interact
-- Speeds/Sizes
-    - Kilo, Mega, Giga
-    - Compare to number of characters in a poem, novel, ...
-    - If I have a 4Ghz process, how fast is it?
 - Discuss Moore's law
     - Show chart
     - Exponential growth

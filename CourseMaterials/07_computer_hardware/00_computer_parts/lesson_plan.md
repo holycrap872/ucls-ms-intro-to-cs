@@ -7,10 +7,11 @@
 
 ### Setup
 
-- Computer parts: CPU, harddrive, memory
+- Youtube video loaded and ready to go
+    - https://youtu.be/tc4ROCJYbm0?si=AJyQkRl749Gh5024&t=720
+- Computer parts: CPU, hard drive, memory
+- Printouts for class computer
 - Various printouts
-- `tshark` CLI installed on a computer that you have root permissions to
-    - `brew install wireshark`
 
 ### Actual Lesson
 
@@ -51,30 +52,19 @@
     - Show good desktop
     - Show bad desktop
         - Search "messy desktop"
-- Wireshark from command-line
-    - `sudo tshark -i en0 -c 1000 -w out.pcap`
-    - Go to a random website
-    - `sudo tshark -r out.pcap > ex.txt`
-    - Search for random website to show can snoop
 - Today going to talk about computers and how they work
     - What are some words you know about computers?
+- Speeds/Sizes
+    - Kilo, Mega, Giga
+    - Compare to number of characters in a poem, novel, ...
+    - If I have a 4Ghz process, how fast is it?
 - Show each computer part
     - Discuss
     - Pass around
-- Get volunteers for CPU, Memory, Hard-drive, Mouse
-    - Line up
-    - Put "program icons" on the white board for them to click on
-    - Do stuff like:
-        - If double click on word
-        - Pass word app from hard-drive to CPU
-        - Show options of files to open
-        - Double click on file
-        - Have CPU read out the file they "loaded"
-- Lessons
-    - CPU has no memory
-    - Memory has no memory if off
-    - Why are 1's and 0's at the bottom of everything?
-    - ...
+
+#### Homework
+
+- Schoology Assessment
 
 ### Potential Resources
 
