@@ -9,4 +9,4 @@
     [ ] A-mazing Human Assessment
     [ ] Tron GameLoop Assessment
 [ ] Set up students in Scratch (see `resources/scratch_filler`)
-
+[ ] Print two copies of student roster (attendance, and emergency book)

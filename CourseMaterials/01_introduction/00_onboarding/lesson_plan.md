@@ -10,6 +10,9 @@ Welcome to `MS Intro to CS`!
 
 ### Setup
 
+- 2x photo rosters printed out
+    - One for attendance
+    - One for "emergency book"
 - `initial_questionnaire.docx` printed out
 - Log into `console.aws.amazon.com`
 
@@ -19,23 +22,33 @@ Welcome to `MS Intro to CS`!
     - Everyone's name
     - About me!
         - Worked at AWS
-        - Who's heard of AWS
+            - Who's heard of AWS
+            - Rents computers
         - Show AWS console
             - Show lambda
             - Show EC2
         - Explain what I did
+            - Dev tools
+            - Looked for instances where things like credit-card numbers where being sent
             - Bug bounty program
-- Goals of the course
+- Syllabus
     - Talk through syllabus
         - Emphasize quotes in the beginning
             - What do they mean?
         - Emphasize first paragraph of introduction
             - Have student read out "demystify" sentence
-            - Draw diagram with 1's and 0's at the bottom and AI at the top
-                - Understand every layer of computers
         - Emphasize if need help, come find me
     - Things understand
     - Things don't understand
+- Course overview
+    - Things we're going to do
+        - Programming, abstraction, etc
+    - Draw diagram with 1's and 0's at the bottom and AI at the top
+        - Understand every layer of computers
+        - Pretty crazy that harnessing electricity can result in AI
+- Goals of class
+    - Independence
+    - Confidence
 - Rules of the class (just as important as content)
     - Read through list:
         - Clean up space before you leave
@@ -55,16 +68,9 @@ Welcome to `MS Intro to CS`!
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
 - Have fill out class questionnaire
-    - Should take ~10m to fill out
+    - Should take ~8m to fill out
         - What was some stuff you remember from previous computer class
         - What are computers good at
         - Why is understanding computers important
 - Time to leave
     - Once more, remember how to "leave well"
-
-### Possible Extensions
-
-- Practice getting everyone's attention
-    - "Class class class" and face away from nearest computer
-        - https://www.youtube.com/watch?v=r2A0ANPXTNY
-        - "face away from nearest computer"? -> because can't be typing
