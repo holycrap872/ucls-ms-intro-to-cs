@@ -7,7 +7,7 @@ software or the software controls the users."* - Richard Stallman
 # Middle School Computer Science
 
 This course provides students an introductory look into the world of computers
-and exposes them to big ideas in computer science. It is intended to demystify
+and exposes them to big ideas in Computer Science. It is intended to demystify
 the computer and give students the confidence to look "inside" the various
 abstractions that give computers their power.
 
@@ -69,11 +69,8 @@ typically involve:
 - Homework (after class): Short assignments (done individually) to practice
   and develop mastery of the material covered in class. **Late homework will
   receive a letter grade deduction.**
-- Quizzes: Straightforward programming and multiple-choice questions to ensure
-  your understanding of the terminology and the application of the concepts of
-  the course.
 
-Late or revised homework, projects, and quizzes will be accepted with a
+Late or revised classwork, projects, or homework will be accepted with a
 letter-grade penalty up until the end of a unit. Once we move on to the next
 unit, no late or revised work from the prior units will be accepted.
 
@@ -82,9 +79,8 @@ unit, no late or revised work from the prior units will be accepted.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 85%
-- Homework: 10%
-- Quizzes: 5%
+- Classwork: 80%
+- Homework: 20%
 
 Grades for assignments will be posted on Schoology.
 
