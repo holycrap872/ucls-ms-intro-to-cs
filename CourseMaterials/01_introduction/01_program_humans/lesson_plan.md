@@ -18,7 +18,9 @@ programming vs. the difficulties of understanding/executing the program.
 
 - Lot of pieces of paper
 - Ruler
-- Pods
+- YouTube videos loaded
+    - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
+    - 
 
 ### Actual Lesson
 
@@ -27,16 +29,19 @@ programming vs. the difficulties of understanding/executing the program.
     - Demystification
     - Point of this class
 - What is a program?
-    - Ask them to come up with their own definition of computer
+    - Ask them to come up with examples of a computer
         - They'll say stuff like phone
+    - Ask them to come up with their own definition of computer
         - Guide them towards "something that follows instructions"
         - Origin of the word is that it was a human job
             - Just like doctor or lawyer: I'm a computer!
         - Show picture of logarithms tables... this is what computers calculated
+    - Ask them to come up with examples of a program
+        - Guide them towards recipe
     - Ask them to come up with their definition of a program
-        - Recipe
-        - Scratch
+        - Series of instructions for a computer to follow
     - Define programming language
+        - Scratch
 - Introduction:
     - Today we're going to make and solve mazes in a variety of ways
         - Mazes were some of the first demonstrations of the capability of computers
@@ -63,9 +68,6 @@ programming vs. the difficulties of understanding/executing the program.
     - Discuss problems with getting units wrong.
         - Mars Rover
     - Discuss why humans with eyes closed is similar to computer (can't react smartly)
-- Show maze generation algorithms
-    - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
-    - How is this like the program's you wrote. How are they different?
 
 #### Homework
 
