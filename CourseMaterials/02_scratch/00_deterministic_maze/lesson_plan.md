@@ -7,8 +7,10 @@
 ### Setup
 
 - All students set up on a Scratch account
-- Scratch account for teacher (`-er`)
 - 6 decks of cards
+- YouTube videos loaded up and ready to go
+    - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
+    - https://www.youtube.com/watch?v=BeoCbJPuvSE
 
 ### Actual Lesson
 
@@ -16,14 +18,14 @@
     - What's a computer?
     - What's a programming language?
     - What did we do last time?
-        - Can solve maze fast with a program!
-            - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
-            - https://www.tiktok.com/t/ZT8hhPnte/
-        - Can use algorithms to create a maze
-            - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
+    - Can use algorithms to create a maze
+        - https://youtu.be/sVcB8vUFlmU?si=wa4j1STyxadzSAcp
 - IF LONG BLOCK
     - What is an algorithm?
-    - Card sorting algorithm
+    - Card sorting energizer
+    - Break
+    - After energizer, watch sorting video
+        - https://www.youtube.com/watch?v=BeoCbJPuvSE
 - Today going to start to use scratch
     - Walk through logging in/logging out of scratch
         - Things to hit:
@@ -33,7 +35,7 @@
         - Watch someone else:
             - What do you notice?
     - Have everyone Log in
-        - Login format: `2023-09-05-sec5-ab`
+        - Login format: `2024-04-09-sec5-ab`
         - Laptops closed once successfully logged in
     - Program a maze together
         - Create a simple maze in background

@@ -12,11 +12,13 @@ Length of lesson: 20-30 minutes.
 
 ### Setup
 
-4-6 decks of cards
+- 4-6 decks of cards
+- YouTube video loaded up and ready to go
+    - https://www.youtube.com/watch?v=BeoCbJPuvSE
 
 ### Actual Lesson
 
-- Ground
+- Provide grounding
     - Sorted data is very important in CS
         - Why is sorted better than not sorted?
             - Phone book
@@ -40,3 +42,4 @@ Length of lesson: 20-30 minutes.
 - Discussion topics
     - Sorting for census in 1890
     - Parallel algorithms
+    - https://www.youtube.com/watch?v=BeoCbJPuvSE
