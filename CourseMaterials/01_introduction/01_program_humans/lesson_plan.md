@@ -49,12 +49,11 @@ programming vs. the difficulties of understanding/executing the program.
             - 0:00 - 1:40
     - Rules
         - Break up into groups of 2
-        - Make a maze
+        - Make a maze (4m)
         - Switch
-        - Write a program to solve the maze
+        - Write a program to solve the maze (3m)
         - Switch
-        - One person closes their eyes and sees if they can get through to the
-          end based on the program
+        - One person closes their eyes and sees if they can use the program to get through (2m)
         - Maze Rules
             - Closest of one inch between two lines
     - Example of what going to do on the board
@@ -68,6 +67,7 @@ programming vs. the difficulties of understanding/executing the program.
     - Discuss problems with getting units wrong.
         - Mars Rover
     - Discuss why humans with eyes closed is similar to computer (can't react smartly)
+        - **Computers are stupid**
 
 #### Homework
 
