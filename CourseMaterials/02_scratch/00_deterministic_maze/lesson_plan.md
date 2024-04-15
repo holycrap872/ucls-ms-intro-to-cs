@@ -26,8 +26,8 @@
     - Break
     - After energizer, watch sorting video
         - https://www.youtube.com/watch?v=BeoCbJPuvSE
-- Today going to start to use scratch
-    - Walk through logging in/logging out of scratch
+- Today going to start to use Scratch
+    - Walk through logging in/logging out of Scratch
         - Things to hit:
             - Logging in, naming project, saving, sharing
         - Watch me:
