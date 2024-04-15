@@ -29,7 +29,6 @@
         - Stress initialization
         - Triangle
             - Internal vs. external angle
-            - Show "backpack" in scratch
         - Circle
 - Going to work in pairs
     - Explain expectations of navigator and driver
