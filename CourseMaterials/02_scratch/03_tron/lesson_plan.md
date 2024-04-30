@@ -103,9 +103,11 @@ appreciate how engaging it can be.
     - Hand out worksheet
         - `conditionals_worksheet_long.docx` if have long block
         - `conditionals_worksheet_short.docx` if regular class
-        - Work with elbow partner for ~10m
+        - Work with elbow partner for ~6m
         - The crazier the better!
     - Reconvene and discuss
+        - Have each group share out their best one
+        - The reason it's written this way is because it's the same as Python
 - Review Tron
     - Get started again
 - When finished, have rotate so can play other people's games
