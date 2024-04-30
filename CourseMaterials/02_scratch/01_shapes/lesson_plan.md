@@ -33,6 +33,8 @@
 - Going to work in pairs
     - Explain expectations of navigator and driver
     - Pair programming theater
+        - Act out a bad pair programming team
+        - Act out a good pair programming team
     - Every time finish problem, switch
 - Worksheet on Schoology
     - Go!
@@ -43,3 +45,16 @@
 ### Homework
 
 - None if work hard during the class
+
+
+### Actual Lesson Day 2
+
+- Review
+    - Loops
+    - Initialization
+    - Pair programming
+- PRIMM
+    - Show code that makes a square and have them guess what it does
+    - Show code that makes a square at the edge of every triangle and have them guess what it does
+    - Run triangle -> square program in Scratch
+- Continue with Shapes
