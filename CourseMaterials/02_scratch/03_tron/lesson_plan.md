@@ -37,7 +37,8 @@ appreciate how engaging it can be.
     - See if can recreate each part of game loop as a class
         - if/else for pen down
         - Change color constantly
-    - Quickly turn it into four sprite drawing game by altering x, y multipliers
+    - Once solve: turn it into four sprite drawing game by altering x, y multipliers
+        - 4x reflection over the axes
 - Today going to do another video game
     - https://youtu.be/hMT8tRrEMC4?t=84s
     - Show my version of tron game and play with two people as an example
@@ -103,6 +104,7 @@ appreciate how engaging it can be.
         - `conditionals_worksheet_long.docx` if have long block
         - `conditionals_worksheet_short.docx` if regular class
         - Work with elbow partner for ~10m
+        - The crazier the better!
     - Reconvene and discuss
 - Review Tron
     - Get started again
