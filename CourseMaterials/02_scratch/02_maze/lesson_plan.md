@@ -2,8 +2,9 @@ Game loop intro
 
 ## EQ's:
 
-- How can we combine our understanding of conditionals and the game loop
-  to formally solve a problem with a computer that we did previously with humans?
+- What are conditionals?
+- What is the game loop?
+- How can we combine conditionals and the game loop to formalize a problem we previously solved?
 
 ## Lesson Plan
 
