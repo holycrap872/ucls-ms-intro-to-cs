@@ -5,12 +5,19 @@
 
 ## Lesson Plan
 
+### Setup
+
+- Bunch of paper cut in half
+- Bunch of markers/colored pencils
+
+### Actual Lesson
+
 - Reflect
     - What did we talk about last class?
     - What are functions?
     - What is abstraction?
-- Discussion: Begin with a brief discussion about art.
-    - Ask the students if they know what abstract art is.
+- Discussion: begin with a brief discussion about art
+    - Ask the students if they know what abstract art is
     - Why did art get weird in the late 1800's?
         - Previously about capturing all possible details (as lifelike as possible)
         - Once camera invented, needed to go in a new direction
@@ -44,7 +51,7 @@
     - If guessed quickly, what could be removed? If couldn't guess, what should be added?
 - Discussion:
     - What was easy and what was hard about identifying the images?
-    - How did you know that determine that something was necessary while drawing?
+    - How did you determine that something was necessary while drawing?
     - What were some cool things we saw?
     - Do you like abstract art?
     - Abstract thinking is part of development. What does this mean?
