@@ -11,8 +11,8 @@
 - Pencils/markers
 - Rulers
 - Youtube videos ready to go
-    - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
     - Siphon effect: https://youtube.com/shorts/V510005jDug?si=j-XjEA3gdYGTvD5p
+    - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
 
 ### Actual Lesson
 
@@ -20,16 +20,17 @@
     - What is abstraction?
         - Hiding unnecessary details
     - What does abstraction look like in art?
-    - What does abstraction look like with functions?
+    - What does abstraction look like in CS?
+        - functions
         - How was the race car game an example of abstraction?
-        - I designed the functions you used them
+        - I designed the functions - you used them
 - Discussion about the similarities between abstraction in art and CS
     - In both, we:
         - Simplify complex ideas or systems
         - Focus on the essential components
         - Hide intricate details
 - This type of abstraction is everywhere
-    - For example, how would you tell someone to bake a cake?
+    - For example, how would you tell someone how to bake a cake?
         - Ask students
         - Have them create program of 5-6 steps
         - Becoming less abstract is like an annoying sibling going "well how do you do that?"
@@ -41,7 +42,7 @@
         3. XXXX
         4. flush
         5. go back to class
-    - Break out "walk to bathroom into sub program"
+    - Break out "walk to bathroom" into sub program
         - Stand up
         - Left foot/right foot
         - ...
@@ -50,7 +51,7 @@
         - Show video: https://www.youtube.com/watch?v=vqcYXeJ02U8
     - Break out `flush` step into its own 
         - Sideways tree structure
-- This way of viewing things can be use everywhere
+- This way of viewing things can be used everywhere
     - High level detail with more detail waiting underneath when required
 - Group Activity:
     - In pairs, write a step-by-step program (pseudocode) for accomplishing a task
