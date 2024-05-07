@@ -21,8 +21,8 @@
     - Play someone's Tracking Bot game
 - What are functions?
     - Input/Output
-    - Very similar concept as in math
         - f(x) example
+    - CS's function are very similar in concept to math
 - Why functions
     - Don't have to know what's going on inside
     - What are things that don't know how they work but use w/ input and output?
