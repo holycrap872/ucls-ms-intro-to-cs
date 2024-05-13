@@ -8,7 +8,7 @@
 ### Setup
 
 - Morse Code cheat sheets printed out
-- Morse Code worksheet loaded into Schoology
+- `04_01_morse_code_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/13Ufy4-Q3VcafWfpiOLC_793dQtHGKYyn3zMJIxDzwBU
 - The Morse Code "flashers" that are in the CS office
 - Youtube videos loaded up:
