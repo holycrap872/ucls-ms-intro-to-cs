@@ -8,7 +8,7 @@
 
 ### Setup
 
-- Functions worksheet
+- `03_03_scratch_functions_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1T7y-HDTxLjGatPhP-y9X3WD16TzqQ2hBdV9CXJ8ERBQ
 
 ### Actual Lesson

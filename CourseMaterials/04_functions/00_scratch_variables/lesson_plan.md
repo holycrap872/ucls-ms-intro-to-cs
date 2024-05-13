@@ -7,7 +7,9 @@
 
 ### Setup
 
-- `variables_1_worksheet.docx` printed out and ready to go
+- Review examples will be making in class:
+    - https://scratch.mit.edu/projects/945191863/editor/
+- `03_01_scratch_variables_music_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1cqOEC-Pe_SCRW4azhxbGKTaH1JpfWOzIVshIbJRdFFw/edit?usp=sharing
 
 ### Actual Lesson
@@ -43,7 +45,8 @@
     - Make own
         - Name them `Nick` and `Matt` or whatever participants names were
         - Replicate actions from in human example
-        - See `AddVariables` function in accompanying scratch program
+        - See `AddVariables` in https://scratch.mit.edu/projects/945191863/editor/
+            - See `variables_1_example.sb3` if link is down
     - Stress that it's important to come up with a good variable name
 - Create a tempo increaser to play snare drum
     - Set outside loop
@@ -51,7 +54,8 @@
     - Change inside loop
         - Change ~5
     - Ask them what they think will happen
-        - See `TempoChange` function in accompanying scratch program
+        - See `TempoChange` in https://scratch.mit.edu/projects/945191863/editor/
+            - See `variables_1_example.sb3` if link is down
 - Review variables
     - Set
     - Change
