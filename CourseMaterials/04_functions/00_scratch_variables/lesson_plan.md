@@ -7,10 +7,10 @@
 
 ### Setup
 
-- Review examples will be making in class:
-    - https://scratch.mit.edu/projects/945191863/editor/
 - `03_01_scratch_variables_music_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1cqOEC-Pe_SCRW4azhxbGKTaH1JpfWOzIVshIbJRdFFw/edit?usp=sharing
+- Review examples will be making/using in class:
+    - https://scratch.mit.edu/projects/945191863/editor/
 
 ### Actual Lesson
 
@@ -48,19 +48,18 @@
         - See `AddVariables` in https://scratch.mit.edu/projects/945191863/editor/
             - See `variables_1_example.sb3` if link is down
     - Stress that it's important to come up with a good variable name
-- Create a tempo increaser to play snare drum
-    - Set outside loop
-        - Set ~10
-    - Change inside loop
-        - Change ~5
+- Show a tempo increaser that play snare drum faster and faster
     - Ask them what they think will happen
         - See `TempoChange` in https://scratch.mit.edu/projects/945191863/editor/
             - See `variables_1_example.sb3` if link is down
+    - Why `set` outside loop?
+    - Why `change` inside loop?
+    - Make some changes and ask what they think will happen
 - Review variables
     - Set
     - Change
     - Store
-- Hand out `variables_1_worksheet.docx`
+- Direct to worksheet in Schoology
     - Give 3m to read through it then summarize as class
     - Stress importance of headphones
     - Go!
