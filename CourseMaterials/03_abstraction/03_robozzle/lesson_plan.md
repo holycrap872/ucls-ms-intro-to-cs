@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Robozzle worksheet loaded into schoology and ready to go
+- `02_01_ms_robozzle_functions_worksheet` loaded into schoology and ready to go
     - https://docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU/edit
 
 ### Actual Lesson
@@ -19,13 +19,13 @@
         - CS
         - Real life
     - How are functions like abstraction?
-    l   - Draw the "abstraction tree chart" from the previous lesson
+        - Draw the "abstraction tree chart" from the previous lesson
 - Today going to play some logic puzzles
     - Show robozzle and explain how the program works
         - **Just like scratch**
             - f1 -> "when green flag clicked"
             - Program runs block 
-    - Walk through a two levels
+    - Walk through two levels
         - http://www.robozzle.com/beta/index.html?puzzle=-1
             - Explain how game works
             - Explain how interface works
