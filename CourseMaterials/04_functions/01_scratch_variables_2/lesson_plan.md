@@ -55,6 +55,33 @@
         - 9th graders get to ~question 9 in a 85m period
         - Both are starting to lose focus in last 15m (understandably)
 
-### Homework
+#### Homework
+
+Finish Worksheet
+
+### Day 2 (if necessary)
+
+> Note: This is mostly a stretch lesson if day 2 is a long-block
+
+- Review
+    - variables
+    - ask and wait
+    - why variables are powerful
+- PRIMM examples
+    - Show a MadLib bit of code and ask if they know what it does
+        - Talk through it
+        - Run the code
+    - Show a times tables bit of code and ask if they know what it does
+        - Talk through it
+        - Run the code
+- You in 9th grade
+    - Scratch very similar to Python
+    - Show code just ran in Scratch and translate it to Python
+    - What is similar?
+    - What is different?
+    - You'll be well prepared!
+- Finish worksheet
+
+#### Homework
 
 Finish Worksheet
