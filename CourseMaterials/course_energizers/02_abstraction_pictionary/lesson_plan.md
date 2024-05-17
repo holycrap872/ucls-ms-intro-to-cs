@@ -8,11 +8,11 @@
 This lesson introduces/expands on student's understanding of abstraction. They
 play in teams to try and minimally get across an idea.
 
-Length of lesson: 10-30 minutes.
+Length of lesson: 15-25 minutes.
 
 ### Setup
 
-- https://randomwordgenerator.com/pictionary.php
+- 7-10 of words (see list below) written out on slips of paper
 
 ### Actual Lesson
 
@@ -26,7 +26,7 @@ Length of lesson: 10-30 minutes.
     - Pick person to come up and be drawer
     - Team 1
         - They can make one line or circle at a time
-            - Max one second per draw
+            - Max .5 seconds per draw
         - Their team gets 10 seconds and three guesses
     - If they don't other Team 2 goes with same rules
 - Example
