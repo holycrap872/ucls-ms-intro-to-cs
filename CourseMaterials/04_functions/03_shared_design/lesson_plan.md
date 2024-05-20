@@ -22,6 +22,7 @@ where the details of how it's implemented don't really matter.
 
 ### Setup
 
+- `racecar_game.sb` loaded up in Scratch
 - `flappy_bird_skeleton.sb` loaded up in Schoology
 - `flappy_bird.pdf` loaded up in Schoology
 
@@ -31,12 +32,16 @@ where the details of how it's implemented don't really matter.
     - Variables
     - Functions
     - Game loop
-    - Race car game
+- Race car game
+    - Why did we use it
+    - How did it work?
+    - Show source code to show how function are being used by gameloop
 - Today going to create flappy bird
     - Play game to show what it looks like
     - See `flappy_bird.sb`
 - Design discussion
     - What functions do you see?
+        - Abstraction: think big, fill in the details later
         - `bird_flap()`, `bird_glide()`, `pipes_reset()`
     - What behaviors do you see in those functions?
     - Testing functions
