@@ -31,22 +31,26 @@ where the details of how it's implemented don't really matter.
 - Review
     - Variables
     - Functions
-    - Game loop
+- PRIMM a few function things
 - Race car game
     - Why did we use it
     - How did it work?
-    - Show source code to show how function are being used by gameloop
+    - Show source code to show how function are being used
+        - Emphasize game loop
+        - "Functions on the left, game loop on the right"
 - Today going to create flappy bird
     - Play game to show what it looks like
     - See `flappy_bird.sb`
 - Design discussion
+    - What sprites did you see?
+    - What variables did you see?
     - What functions do you see?
         - Abstraction: think big, fill in the details later
         - `bird_flap()`, `bird_glide()`, `pipes_reset()`
-    - What behaviors do you see in those functions?
-    - Testing functions
-        - Double click on them to see if they're doing what you want
-        - Functions are easy to test... another reason why they're useful
+    - "Functions on the left, game loop on the right... just like race cars"
+    - Why design at this level
+        - Think high level
+        - Fill in details later
 - Discuss plan with students and iron out question:
     - Pair up
     - Discuss (5m)
