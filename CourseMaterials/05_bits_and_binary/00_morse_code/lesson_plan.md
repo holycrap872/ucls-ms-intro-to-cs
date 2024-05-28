@@ -13,12 +13,17 @@
 - The Morse Code "flashers" that are in the CS office
 - Youtube videos loaded up:
     - https://www.youtube.com/watch?v=lJazkW8i--Q
+    - https://www.youtube.com/watch?v=rufnWLVQcKg
 
 ### Lesson Plan
 
 - Reflection
     - Scratch
     - Programming
+    - Done with programming
+        - What was easy?
+        - What was hard?
+        - Lessons
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
     - What types of data do computers represent?
@@ -29,15 +34,18 @@
         - Set up movie clip by explaining what's going on: sub-sub communication
             - https://www.youtube.com/watch?v=lJazkW8i--Q
             - How are the American's sending message?
+                - They know Morse Code... they get it pretty quickly
             - What message are the Russians sending with one bit?
-- How could we come up with a system to send words?
-    - A's maps to 1 flash, B's maps to 2 flashes ...
-    - Note: They all knew morse code already
+                - Pings
+- What is Morse code?
 - What is a 1 in morse code and what is a 0?
 - Hand out morse code cheat sheet
 - Send various messages
-    - Send SOS via lights
+    - Send "SOS" via lights
     - Have them do example problems in slide show
+    - Can use anything that can send "two signals"
+        - Blink out the word torture
+        - https://www.youtube.com/watch?v=rufnWLVQcKg
 - Have students encode their own message and send it to a student across the room
     - Use "Morse Code Signal Set" from usgamesinc.com
     - Then switch and send it the other way
@@ -50,7 +58,9 @@
     - Why not dits, dahs, dems, and doops?
         - Too difficult to tell apart
     - How did morse code change the world?
-    - How is morse code like the internet?
+        - Sped up everything
+        - Finance: could buy/sell stock before anyone else
+    - How is Morse code like the internet?
     - How is it different?
 - Show picture of "Morse Code Tree"
     - Why is this better
@@ -63,7 +73,7 @@
 
 ### Potential Extension
 
-- As a class, encode in scratch a morse code encoder that uses the tree (nested if/else)
+- As a class, encode in scratch a Morse code encoder that uses the tree (nested if/else)
 
 ### Resources
 
