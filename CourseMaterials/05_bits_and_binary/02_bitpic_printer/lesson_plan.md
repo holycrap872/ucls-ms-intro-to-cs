@@ -8,8 +8,8 @@
 ### Setup
 
 - BitPics saved to desktops of class computers
-    - `bitpic_1.txt` (ying yang)
-    - `bitpic_2.txt` (?)
+    - `bitpic_1.txt` (30w x 26h ying-yang)
+    - `bitpic_2.txt` (20w x 30h penguin)
     - Allows for quick "importing" into lists
 
 ### Actual Lesson
