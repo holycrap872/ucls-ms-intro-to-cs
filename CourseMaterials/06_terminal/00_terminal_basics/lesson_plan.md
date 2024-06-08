@@ -8,33 +8,40 @@
 
 ### Setup
 
-- https://github.com/holycrap872/hp-learn-shell Docker image built and pushed
-  to computers
-    - Enough docker images up and running
-    ```
-    docker pull erizzi/hp_terminal_tutorial
-    docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial /bin/zsh
-    ```
-- All clues hidden in proper locations
-- Terminals in "Pro mode" (need white text) with dimensions 120x50
-- Demo with Apple's terminal (for consistency)
+- Scavenger hunt set up
+    - https://github.com/holycrap872/hp-learn-shell Docker image built and pushed
+    to computers
+        - Enough docker images up and running
+        ```
+        docker pull erizzi/hp_terminal_tutorial
+        docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial /bin/zsh
+        ```
+    - All clues hidden in proper locations
+    - Terminals in "Pro mode" (need white text) with dimensions 120x50
+    - Demo with Apple's terminal (for consistency)
 - An example folder on my desktop
     - Text file
     - Word file
     - Picture
     - Scratch file
+- Candy
+- YouTube videos loaded
+    - https://youtu.be/FYXrb1D1xvQ?si=erV_ZN160q9k0Wm-&t=104
 
 ### Actual Lesson
 
 - Reflection
     - Morse Code
     - BitPics
-- Today we're going to talk about terminal/shell?
+- Today we're going to talk about terminal
+    - Another name for terminal is "shell"
     - Who knows what this is?
     - Show clip: https://youtu.be/FYXrb1D1xvQ?si=erV_ZN160q9k0Wm-&t=104
     - Terminal/shell is what he's typing in
 - What do people think when they see this thing?
     - Difficult, mysterious, powerful, magical?
+    - Actually the way computers _used_ to be used: ask your grandparents
+    - Just another example of abstraction
     - Today we're going to learn it
 - Give basic demonstration
     - Explore directory structure of computer
@@ -79,3 +86,7 @@
         - Show me an example of quietly walking through the halls
 - Partner up
 - Go!
+
+#### Resources
+
+- Look into "mud": CLI RPG
