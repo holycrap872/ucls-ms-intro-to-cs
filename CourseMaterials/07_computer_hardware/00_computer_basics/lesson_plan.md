@@ -22,6 +22,8 @@
         - To take something we thought was "evil"/"mysterious" to something we know
         - To prove we can learn something hard
     - What commands do we remember?
+    - How do these commands relate to the GUI?
+    - `sleep 10 && say "boo"`
 - Show my computer via terminal
     - Navigate from home into MS lesson plans
     - Talk about how you can see stuff
@@ -39,6 +41,7 @@
             - Folder hierarchy
     - All websites model unix
         - `/` at every page
+        - Schoology as an example
 - Show picture of Linux folder structure
     - Root at the top
     - Everything nicely organized underneath
@@ -52,6 +55,7 @@
     - Show good desktop
     - Show bad desktop
         - Search "messy desktop"
+- Next class going to take apart a computer
 - Today going to talk about computers and how they work
     - What are some words you know about computers?
 - Speeds/Sizes
