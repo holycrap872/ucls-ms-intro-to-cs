@@ -4,16 +4,15 @@
 
 #### Objectives:
 
-- Write a deterministic program to reach a desired outcome.
-- Understand how programming instructions can be interpreted by different "computers".
-- Consider how common language can lead to ambiguity.
-- Identify common programming paradigms in everyday life.
+- Broaden conception of what it means to be a "computer"
+- Consider how common language can lead to ambiguity
+- Create a sequential and a parallel program to reach a desired outcome
 
 #### Essential Questions:
 
 - Why do computers use a restricted language?
 - What are computers good at and what are they bad at?
-- How can control flow logic be used to make good decisions? 
+- What are the differences between a sequential and a parallel algorithm?
 
 #### Formative Assessments:
 
@@ -27,11 +26,10 @@
 
 #### Objectives:
 
-- Identify each part of the *game loop* and describe what they do.
-- Understand common programming paradigms and how to use them.
-- Create a series of games of increasing complexity that react to user input.
-- Develop debugging strategies to identify the source of a problem and fix it.
-- Appreciate how computers can be used to deal with boring/rote problems.
+- Understand common programming paradigms and how to use them
+- Identify each part of the *game loop* and describe what they do
+- Create a series of games of increasing complexity that react to user input
+- Develop debugging strategies to identify the source of a problem and fix it
 
 #### Essential Questions:
 
@@ -55,17 +53,15 @@
 
 #### Objectives:
 
-- Discuss how technology and magic can appear very similar to the uninitiated.
-- Appreciate how different disciplines utilize abstraction.
-- Describe daily activities at different levels of abstraction.
-- Identify what elements of a problem need to be represented and which ones
-  can be abstracted away.
+- Appreciate how different disciplines utilize abstraction
+- Describe daily activities at different levels of abstraction
+- Understand abstraction as a fundamental part of communication
+- Articulate how functions are examples of abstraction
 
 #### Essential Questions:
 
-- What is the difference between magic and technology?
 - What is abstraction and why is it useful?
-- How can different layers of abstraction be used to communicate effectively?
+- How can different layers of abstraction be used to reason effectively?
 
 #### Formative Assessments:
 
@@ -80,15 +76,14 @@
 
 #### Objectives:
 
-- Create a series of functions in order to simplify programs.
-- Use recursive calls to create complex artwork from simple functions.
-- Identify recursive structures in the real-world.
+- Appreciate how computers can be used to deal with boring/rote problems
+- Utilize functions to generalize code in variety of situations
+- Create a series of functions in order to simplify programs
 
 #### Essential Questions:
 
 - What is a function in computer science?
 - How can we use functions to abstract away complexity?
-- What is recursion and where do we see examples of it?
 
 #### Formative Assessments:
 
@@ -100,13 +95,13 @@
 - Programming problem sets
 - In-class projects
 
-## Unit 4 - Just a Bit of Color
+## Unit 4 - Ones and Zeros Everywhere
 
 #### Objectives:
 
-- Understand how to represent numbers in binary.
-- Understand how binary numbers can be interpreted in different ways.
-- Create a picture using a binary encoding.
+- Identify different types of computer data
+- Appreciate how binary can represent different types of data
+- Understand how to encode and decode a simple black and white images
 
 #### Essential Questions:
 
@@ -122,42 +117,46 @@
 - In-class projects
 - Programming projects
 
-## Unit 5 - Oh My Zsh
+## Unit 5 - IN the Computer!?
 
 #### Objectives:
 
-- Learn how to access the terminal and some simple commands.
-- Identify when using the terminal might be preferable to a GUI.
-- Articulate important historical changes in the way humans interacted with a computer.
+- Learn how to access the terminal and some simple commands
+- Visualize computers as a series of abstractions hiding complexity below
+- Identify the core parts of a computer
+- Appreciate scale of various computer speed/size measurements
 
 #### Essential Questions:
 
 - How has the way humans interact with computers been abstracted over time?
 - What things can be done on a terminal that can't easily be done in a GUI?
+- What are the core parts of a modern computer and what are they used for?
+- What do people mean when they say "the files are in the computer"?
 
 #### Formative Assessments:
 
-- In-glass group work
+- In-class group work
 - In-class discussion
 
 #### Summative Assessments:
 
 - In-class projects
 
-## Unit 6 - IN the Computer!?
+## Unit 6 - The Power of Abstraction
 
-#### Objectives:
+#### Objectives
 
-- Articulate the different parts of a computer.
-- Discuss strategies for fixing things that are broken.
-- Take apart a computer and put it back together again without breaking anything.
-- See a server and identify the difference between it and a local computer.
+- Discuss how technology and magic can appear very similar to the uninitiated
+- Learn about the *Right to Repair* movement
+- Discuss the pros and cons of relying on abstraction
 
-#### Essential Questions:
+#### Essential Questions
 
-- What are the core parts of a modern computer and what are they used for?
-- What do people mean when they talk about the cloud?
-- What do people mean when they say "the files are in the computer"?
+- What is the difference between magic and technology?
+- Where do you gain power through abstraction?
+- Where do you lose power?
+- What are mistakes people make when they abstract away necessary details?
+
 
 #### Formative Assessments:
 
@@ -165,19 +164,4 @@
 
 #### Summative Assessments:
 
-- In-class projects
-
-## Unit 7 - The Power of Abstraction
-
-#### Objectives
-
-- Download a picture from the internet and identify different functions
-  accomplished by different levels of abstraction during the process.
-- Learn about the *Right to Repair* movement.
-- Discuss the pros and cons of relying on abstraction.
-
-#### Essential Questions
-
-- Where do you gain power through abstraction?
-- Where do you lose power?
-- What are mistakes people make when they abstract away necessary details?
+- In-class essay
