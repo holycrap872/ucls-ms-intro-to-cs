@@ -8,7 +8,7 @@
 ### Setup
 
 - `02_01_ms_robozzle_functions_worksheet` loaded into schoology and ready to go
-    - https://docs.google.com/document/d/1a9sGyakYHO3ej388u7QaSBqTtEpsBJV7Gmp643Z1MAU/edit
+    - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ/edit
 
 ### Actual Lesson
 
@@ -23,16 +23,16 @@
 - Today going to play some logic puzzles
     - Show robozzle and explain how the program works
         - **Just like scratch**
-            - f1 -> "when green flag clicked"
+            - Mn -> "when green flag clicked"
             - Program runs block 
     - Walk through two levels
-        - http://www.robozzle.com/beta/index.html?puzzle=-1
+        - https://alexanderson1993.github.io/robozzle-react/?level=-1
             - Explain how game works
             - Explain how interface works
             - Make sure to explain have to click through "intro" code
-        - http://www.robozzle.com/beta/index.html?puzzle=-2
-            - Explain how f1 runs first
-            - Can call f2 from f1
+        - https://alexanderson1993.github.io/robozzle-react/?level=-2
+            - Explain how Mn runs first
+            - Can call F1 from Mn
             - How is this like functions?
 - Explain process
     - Go down sheet puzzle by puzzle
@@ -45,70 +45,64 @@
         - Repeat patterns
         - Programming is like origami: folding!
     - Explain a level as if it was an "abstraction tree chart"
-        - f1 is "high level"
-        - f2 is "broken out" lower level details
-        - What's a better name for f2?
+        - Mn is "high level"
+        - F1 is "broken out" lower level details
+        - What's a better name for F1?
 
 - Levels:
     - Introduction
         - Tutorial
-            - http://www.robozzle.com/beta/index.html?puzzle=-1
+            - https://alexanderson1993.github.io/robozzle-react/?level=-1
         - Lightbot 1-2
-            - http://www.robozzle.com/beta/index.html?puzzle=16161
-        - Lightbot 1-4
-            - http://www.robozzle.com/beta/index.html?puzzle=16162
+            - http://alexanderson1993.github.io/robozzle-react/?level=16161
         - Lightbot 1-6
-            - http://www.robozzle.com/beta/index.html?puzzle=16163
+            - http://alexanderson1993.github.io/robozzle-react/?level=16163
         - Lightbot 1-7
-            - http://www.robozzle.com/beta/index.html?puzzle=16165
+            - http://alexanderson1993.github.io/robozzle-react/?level=16165
     - Functions
         - Lightbot 2-1
-            - http://www.robozzle.com/beta/index.html?puzzle=16166
+            - http://alexanderson1993.github.io/robozzle-react/?level=16166
         - Lightbot 2-2
-            - http://www.robozzle.com/beta/index.html?puzzle=16167
+            - http://alexanderson1993.github.io/robozzle-react/?level=16167
         - Lightbot 2-3
-            - http://www.robozzle.com/beta/index.html?puzzle=16168
+            - http://alexanderson1993.github.io/robozzle-react/?level=16168
         - Lightbot 2-4
-            - http://www.robozzle.com/beta/index.html?puzzle=16169
+            - http://alexanderson1993.github.io/robozzle-react/?level=16169
         - Lightbot 2-5
-            - http://www.robozzle.com/beta/index.html?puzzle=16170
+            - http://alexanderson1993.github.io/robozzle-react/?level=16170
         - Lightbot 2-6
-            - http://www.robozzle.com/beta/index.html?puzzle=16171
+            - http://alexanderson1993.github.io/robozzle-react/?level=16171
     - Recursion/Loops
         - Equivalent of Lightbot 3-1
-            - http://www.robozzle.com/beta/index.html?puzzle=-3
+            - http://alexanderson1993.github.io/robozzle-react/?level=-3
         - Equivalent of Lightbot 3-3
-            - http://www.robozzle.com/beta/index.html?puzzle=13946
-        - Equivalent of Lightbot 3-4
-            - http://www.robozzle.com/beta/index.html?puzzle=15119
+            - http://alexanderson1993.github.io/robozzle-react/?level=27
         - Elongated Stairs
-            - http://www.robozzle.com/beta/index.html?puzzle=14133
+            - http://alexanderson1993.github.io/robozzle-react/?level=14133
         - Tough init Stairs
-            - http://www.robozzle.com/beta/index.html?puzzle=13904
+            - http://alexanderson1993.github.io/robozzle-react/?level=13904
         - Two function Stairs (Looks hard, but isn't)
-            - http://www.robozzle.com/beta/index.html?puzzle=14343
+            - http://alexanderson1993.github.io/robozzle-react/?level=14343
         - Big loop
-            - http://www.robozzle.com/beta/index.html?puzzle=15109
+            - http://alexanderson1993.github.io/robozzle-react/?level=15109
         - U-s
-            - http://www.robozzle.com/beta/index.html?puzzle=14737
+            - http://alexanderson1993.github.io/robozzle-react/?level=14737
     - Conditionals
         - Color intro 1
-            - http://www.robozzle.com/beta/index.html?puzzle=-4
+            - http://alexanderson1993.github.io/robozzle-react/?level=-4
         - Color intro 2
-            - http://www.robozzle.com/beta/index.html?puzzle=14060
+            - http://alexanderson1993.github.io/robozzle-react/?level=14060
         - Looks hard, but isn't
-            - http://www.robozzle.com/beta/index.html?puzzle=13110
+            - http://alexanderson1993.github.io/robozzle-react/?level=13110
         - Straight -> Stairs
-            - http://www.robozzle.com/beta/index.html?puzzle=15126
+            - http://alexanderson1993.github.io/robozzle-react/?level=15126
         - Mildly hard
-            - http://www.robozzle.com/beta/index.html?puzzle=14261
-        - Good
-            - http://www.robozzle.com/beta/index.html?puzzle=14323
-        - Good
-            http://www.robozzle.com/beta/index.html?puzzle=13917
+            - http://alexanderson1993.github.io/robozzle-react/?level=14261
         - Hard
-            http://www.robozzle.com/beta/index.html?puzzle=12986
+            - http://alexanderson1993.github.io/robozzle-react/?level=12986
         - Hard
-            http://www.robozzle.com/beta/index.html?puzzle=13920
+            - http://alexanderson1993.github.io/robozzle-react/?level=13920
         - HARD
-            http://www.robozzle.com/beta/index.html?puzzle=14218
+            - http://alexanderson1993.github.io/robozzle-react/?level=14218
+        - HARD
+            - https://alexanderson1993.github.io/robozzle-react/?level=15093
