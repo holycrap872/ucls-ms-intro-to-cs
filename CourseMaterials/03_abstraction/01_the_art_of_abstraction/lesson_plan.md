@@ -38,6 +38,11 @@
         - Mountains at Collioure by Andre Derain
         - Lake George Reflection by Georgia O’Keefe
         - Night Sea by Agnes Martin
+    - Still Life
+        - Still Life with Fruits in Porcelain by Jacob Van Es
+        - Still Life with Skull by Paul Cezanne
+        - Rendered Impressions by Catherine J. Martzloff
+        - Still Life with Skull by Bohumil Kubista
     - Discuss what we're seeing at each level
     - How does this relate to abstraction?
 - Group Activity:

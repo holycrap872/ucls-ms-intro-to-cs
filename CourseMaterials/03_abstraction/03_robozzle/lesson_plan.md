@@ -7,7 +7,7 @@
 
 ### Setup
 
-- `02_01_ms_robozzle_functions_worksheet` loaded into schoology and ready to go
+- `02_01_ms_robozzle_functions_worksheet` loaded into Schoology and ready to go
     - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ/edit
 
 ### Actual Lesson
@@ -20,6 +20,9 @@
         - Real life
     - How are functions like abstraction?
         - Draw the "abstraction tree chart" from the previous lesson
+    - How are CTA maps like abstraction?
+        - Pictures of CTA train maps at various levels of abstraction
+        - How do maps and "abstraction tree chart" relate?
 - Today going to play some logic puzzles
     - Show robozzle and explain how the program works
         - **Just like scratch**
