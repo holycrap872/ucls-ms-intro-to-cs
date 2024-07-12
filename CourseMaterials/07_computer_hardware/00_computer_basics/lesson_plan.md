@@ -68,13 +68,14 @@
 
 #### Homework
 
-- Schoology Assessment
+- Schoology assessment on Computer Basics
+- Questions:
     1. Arrange the following from smallest to to largest.
         - 1 terabyte
         - 1 byte
         - 1 kilobyte
         - 1 megabyte
-        - 1 gigabeta
+        - 1 gigabyte
     2. What part of the computer stores the information while it is off?
         - CPU
         - Memory

@@ -59,7 +59,8 @@ appreciate how engaging it can be.
 
 ##### Homework
 
-- Schoology Assessment on game loops
+- Schoology assessment on game loops
+- Questions:
     1. Which of the following are parts of the "game loop" algorithm?
         - initialization
         - get user input
