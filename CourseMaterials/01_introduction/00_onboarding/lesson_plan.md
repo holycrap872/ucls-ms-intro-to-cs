@@ -13,7 +13,8 @@ Welcome to `MS Intro to CS`!
 - 2x photo rosters printed out
     - One for attendance
     - One for "emergency book"
-- `initial_questionnaire.docx` printed out
+- `onboarding_questionnaire` GoogleDoc printed out
+    - https://docs.google.com/document/d/1jLx6iJktfbAsRTwGddn9544vgy5wNVRpV5TQ9ce3qrw
 - Log into `console.aws.amazon.com`
 
 ### Actual Lesson
@@ -67,7 +68,7 @@ Welcome to `MS Intro to CS`!
     - Trip to office
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
-- Have fill out class questionnaire
+- Have fill out `onboarding_questionaire`
     - Should take ~8m to fill out
         - What was some stuff you remember from previous computer class
         - What are computers good at
