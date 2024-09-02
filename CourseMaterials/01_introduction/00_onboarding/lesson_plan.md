@@ -68,7 +68,7 @@ Welcome to `MS Intro to CS`!
     - Trip to office
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
-- Have fill out `onboarding_questionaire`
+- Have fill out `onboarding_questionnaire`
     - Should take ~8m to fill out
         - What was some stuff you remember from previous computer class
         - What are computers good at
