@@ -1,12 +1,15 @@
-Welcome to `MS Intro to CS`!
-
-## EQ's
+## Essential Questions
 
 - What are the topics covered by the course?
 - What are the expectations of the class?
 - How do students learn and how do you get the most out of the class?
 
 ## Lesson Plan
+
+Welcome to `MS Intro to CS`! In this class, I am intentionally boring in order
+to set the tone and figure out any "hot spots" in terms of distractions.
+Basically, we read through the syllabus, talk a little about abstraction, do a
+class field trip, and fill out the questionnaire.
 
 ### Setup
 
@@ -30,12 +33,14 @@ Welcome to `MS Intro to CS`!
             - Show EC2
         - Explain what I did
             - Dev tools
-            - Looked for instances where things like credit-card numbers where being sent
+            - Looked for instances where things like credit-card numbers were being sent
             - Bug bounty program
 - Syllabus
     - Talk through syllabus
         - Emphasize quotes in the beginning
             - What do they mean?
+            - What are examples of us using software?
+            - What are examples of software using us?
         - Emphasize first paragraph of introduction
             - Have student read out "demystify" sentence
         - Emphasize if need help, come find me
@@ -69,9 +74,5 @@ Welcome to `MS Intro to CS`!
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
 - Have fill out `onboarding_questionnaire`
-    - Should take ~8m to fill out
-        - What was some stuff you remember from previous computer class
-        - What are computers good at
-        - Why is understanding computers important
 - Time to leave
     - Once more, remember how to "leave well"
