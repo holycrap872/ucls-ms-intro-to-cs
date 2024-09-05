@@ -8,11 +8,10 @@ Programming Introduction
 
 ## Lesson Plan:
 
-The lesson follows the basic pattern of explanation, activity, debrief. The one
-thing to note is that there are two "difficulties": one where students can use
-any words they'd like to write the program and one where they're restricted to
-a limited vocabulary. This is to drive a discussion about the difficulties of
-programming vs. the difficulties of understanding/executing the program.
+The lesson expands on what students think of as a computer. We start by talking
+about what makes a computer a computer. Then, students write a simple "program"
+to get their partner through a maze. At the end, we discuss difficulties with
+creating the program.
 
 ### Setup
 
@@ -20,7 +19,7 @@ programming vs. the difficulties of understanding/executing the program.
 - Ruler
 - YouTube videos loaded
     - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
-    - 
+- Schoology Assessment loaded into Schoology
 
 ### Actual Lesson
 
@@ -41,6 +40,7 @@ programming vs. the difficulties of understanding/executing the program.
     - Ask them to come up with their definition of a program
         - Series of instructions for a computer to follow
     - Define programming language
+        - Something that allows a program to be easily understood and followed
         - Scratch
 - Introduction:
     - Today we're going to make and solve mazes in a variety of ways
