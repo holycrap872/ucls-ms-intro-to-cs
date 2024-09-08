@@ -60,9 +60,6 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
     - Summarize
     - Make sure to name and share your program
     - Go!
-- IF LONG BLOCK
-    - 
-    - Will have next class to finish
 
 ## Homework
 
