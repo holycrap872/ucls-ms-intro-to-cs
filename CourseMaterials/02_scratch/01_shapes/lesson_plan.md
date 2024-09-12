@@ -8,14 +8,15 @@
 
 - Have one student's maze from a previous example selected as an example.
 - Have PRIMM square example up and ready to run in Scratch
-- `01_01_scratch_loops_worksheet` loaded into Schoology and ready to go
-    - https://docs.google.com/document/d/1P3fhpg8kDkK9lqLpMQLzlOoGNlZLvoBuSb-CLwL3xBc/edit
+- `00_scratch_loops_worksheet` loaded into Schoology and ready to go
+    - https://docs.google.com/document/d/1QJ3Ye5Kob1owHJ9wxTG5fqtDNp6qh0nCd-ofXPj5gpg
 
 ### Actual Lesson
 
 - Review
     - How to login/log out
     - Show a a maze from previous class
+        - Ask for volunteer
     - How did we get the sprite to move more slowly?
         - Show them
         - Called frame rate... will be useful when we start to do video games
@@ -37,15 +38,12 @@
         - Act out a good pair programming team
     - Every time finish problem, switch
 - Worksheet on Schoology
+    - Talk through worksheet
     - Go!
-- Class participation rubric
-    - Walk through it
-    - Have self-assess
 
 ### Homework
 
 - None if work hard during the class
-
 
 ### Actual Lesson Day 2
 
@@ -57,4 +55,12 @@
     - Show code that makes a square and have them guess what it does
     - Show code that makes a square at the edge of every triangle and have them guess what it does
     - Run triangle -> square program in Scratch
+    - Add code to then have a third loop
+        - Guess what it does?
+    - Fiddle with it to make it cool
+        - Add `change color by`
+        - Add whole things inside a loop that does the original shape and rotates slightly
 - Continue with Shapes
+- End with reflection
+    - Why loops?
+    - How to deconstruct patterns
