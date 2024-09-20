@@ -1,6 +1,5 @@
 Game loop intro
-
-## EQ's:
+## Essential Questions
 
 - What are conditionals?
 - What is the game loop?
