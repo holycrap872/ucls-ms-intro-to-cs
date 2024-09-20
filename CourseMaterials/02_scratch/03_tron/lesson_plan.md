@@ -33,7 +33,7 @@ appreciate how engaging it can be.
             - infinite loop
             - No user input
 - Let's see if you can figure out how one of my simple "games" works
-    - Show `drawing_game_skeleton.sb3`
+    - Show `drawing_game_skeleton.sb3` (without showing code)
     - See if can recreate each part of game loop as a class
         - if/else for pen down
         - Change color constantly
@@ -75,7 +75,7 @@ appreciate how engaging it can be.
         - If statements only go into forever loops.
         - Repeats are only for shapes.
         - You don't know how long the user is going to play.
-    4. Fill in the blanks to make a square:
+    4. Fill in the blanks to create a program that makes a square:
         ```
         when green flag clicked
         goto 0, 0
