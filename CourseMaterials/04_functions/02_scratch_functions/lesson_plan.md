@@ -21,6 +21,8 @@
     - Why useful
     - Review fahrenheit -> celsius program
     - PRIMM on program that draws hexagons of increasing size
+        - Mess with it so it changes colors
+        - Mess with it to make it turn 111 degrees
 - What is a function?
     - Input/output
 - Where have we seen functions?
@@ -40,6 +42,10 @@
         - Emphasize that the function needs to be called from the main program
         - Emphasize **what the input variable is**
     - Hexagon together as a class
+        - Input: size
+        - Output: Hexagon of that size
+        - Once done, put inside a loop and make a bunch of hexagons
+            - Ends up looking like a pyramid
 - Explain/talk through worksheet
     - Work in pairs
 - Go!
