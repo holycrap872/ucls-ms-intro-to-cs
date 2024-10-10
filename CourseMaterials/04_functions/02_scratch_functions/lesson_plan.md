@@ -20,7 +20,7 @@
     - Variables
     - Why useful
     - Review fahrenheit -> celsius program
-    - Create a program that draws a "hexagon spiral"
+    - PRIMM on program that draws hexagons of increasing size
 - What is a function?
     - Input/output
 - Where have we seen functions?
