@@ -21,9 +21,9 @@
         - Hiding unnecessary details
     - What does abstraction look like in art?
     - What does abstraction look like in CS?
-        - functions
         - How was the race car game an example of abstraction?
-        - I designed the functions - you used them
+            - Functions
+            - I designed the functions - you used them
 - Discussion about the similarities between abstraction in art and CS
     - In both, we:
         - Simplify complex ideas or systems
@@ -53,6 +53,7 @@
         - Sideways tree structure
 - This way of viewing things can be used everywhere
     - High level detail with more detail waiting underneath when required
+    - Demystification if go inside
 - Group Activity:
     - In pairs, write a step-by-step program (pseudocode) for accomplishing a task
         - Break out to three levels
