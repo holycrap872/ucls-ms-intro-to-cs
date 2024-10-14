@@ -8,7 +8,7 @@
 ### Setup
 
 - `03_01_scratch_variables_music_worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1cqOEC-Pe_SCRW4azhxbGKTaH1JpfWOzIVshIbJRdFFw/edit?usp=sharing
+    - https://docs.google.com/document/d/1osWJ4-gcEh9dyIKa-A2U5FLPZoC5V5XDkvYmPy8KBM8
 - Review examples will be making/using in class:
     - https://scratch.mit.edu/projects/945191863/editor/
 
