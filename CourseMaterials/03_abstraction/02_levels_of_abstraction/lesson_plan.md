@@ -7,9 +7,11 @@
 
 ### Setup
 
-- 20-30 sheets of legal paper
-- Pencils/markers
-- Rulers
+- Schoology Assessment `Levels of Abstraction` posted for Homework
+- Supplies for activity
+    - 20-30 sheets of legal paper
+    - Pencils/markers
+    - Rulers
 - Youtube videos ready to go
     - Siphon effect: https://youtube.com/shorts/V510005jDug?si=j-XjEA3gdYGTvD5p
     - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
@@ -71,6 +73,10 @@
     - How is this like abstract art?
     - How many levels deep could you go?
     - How is this like scratch?
+
+### Homework
+
+- Schoology Assessment `Levels of Abstraction`
 
 #### Possible extension
 
