@@ -10,9 +10,11 @@
 
 ### Setup
 
-- 4 grids from `blank_grid.docx` (2 papers front/back) per student
-    - Print on "flip horizontal"
-- Pencils
+- Schoology Assessment `Beautiful BitPics` posted for Homework
+- Supplies for activity
+    - 4 grids from `blank_grid.docx` (2 papers front/back) per student
+        - Print on "flip horizontal"
+    - Pencils
 - Youtube videos loaded up:
     - https://www.youtube.com/watch?v=pRuRE-Bwk1U
     - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
