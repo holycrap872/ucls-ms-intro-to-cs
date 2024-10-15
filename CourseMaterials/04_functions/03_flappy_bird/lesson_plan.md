@@ -5,26 +5,18 @@
 
 ## Lesson Plan
 
-In this lesson, students are asked to work in pairs to create two versions of
-the same game. The catch is that each will only create half of each version. To
-do this, students will:
-
-1. Discuss how to implement functions identified by the class as "core" to the game.
-2. Separately implement the functions.
-3. Exchange computers and use the functions (without modification) to create the final version.
-
-The point here is that they rely on their partner to implement the functions
-they will need. This will make them see that functions are useful abstractions
-where the details of how it's implemented don't really matter.
-
-> Note: a less advanced version of this would just be the students creating the functions together
-> Note: a more advanced version of this would have students come up with their own functions
+In this lesson, students are asked to work in pairs to create a version of
+flappy bird that uses functions. To do this, we will first review functions and
+reflect on how they were used in the race car game. Then, I will play flappy
+in front of the students and have them identify: sprites, variables, functions.
+Finally, with the reminder to design the functions first, the students will
+create flappy bird.
 
 ### Setup
 
 - `racecar_game.sb` loaded up in Scratch
+- `flappy_bird.pdf` loaded up in Scratch
 - `flappy_bird_skeleton.sb` loaded up in Schoology
-- `flappy_bird.pdf` loaded up in Schoology
 
 ### Lesson Plan
 
@@ -37,7 +29,7 @@ where the details of how it's implemented don't really matter.
     - How did it work?
     - Show source code to show how function are being used
         - Emphasize game loop
-        - "Functions on the left, game loop on the right"
+        - "game loop on the right, functions on the left"
 - Today going to create flappy bird
     - Play game to show what it looks like
     - See `flappy_bird.sb`
@@ -47,25 +39,16 @@ where the details of how it's implemented don't really matter.
     - What functions do you see?
         - Abstraction: think big, fill in the details later
         - `bird_flap()`, `bird_glide()`, `pipes_reset()`
-    - "Functions on the left, game loop on the right... just like race cars"
+    - "game loop on the right, functions on the left... just like race cars"
     - Why design at this level
         - Think high level
         - Fill in details later
-- Discuss plan with students and iron out question:
-    - Pair up
-    - Discuss (5m)
-    - Split and do part 1 (10m)
-        - Can include animations
-    - Swap and do part 2 (10m)
-        - score, lives, lose screen
-    - Check results (5m)
-- Allow partners to discuss with computers (without coding) for 5m
-- Put partners on opposite sides of the room
-    - 10m to implement functions
-- Switch computers
-    - 10m to get game working
-    - CANNOT change function code
-- Come back together and see results
+- How to test functions
+    - Double click
+- What should do in groups?
+    - Create functions on right
+    - Test functions
+    - Create programs that uses functions on left
 - Discuss
     - What was easy/hard?
     - What functions did you wish you had created?
