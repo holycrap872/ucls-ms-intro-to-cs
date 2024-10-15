@@ -22,7 +22,7 @@
     - Review fahrenheit -> celsius program
     - PRIMM on program that draws hexagons of increasing size
         - Mess with it so it changes colors
-        - Mess with it to make it turn 111 degrees
+        - Mess with it to make it turn **111 degrees**
 - What is a function?
     - Input/output
 - Where have we seen functions?
@@ -41,6 +41,9 @@
         - Output: say cook time
         - Emphasize that the function needs to be called from the main program
         - Emphasize **what the input variable is**
+            - Program on the LEFT
+            - Functions on the RIGHT
+            - Just like the "levels of abstraction" lesson
     - Hexagon together as a class
         - Input: size
         - Output: Hexagon of that size
