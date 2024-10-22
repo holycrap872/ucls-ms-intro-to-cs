@@ -61,6 +61,10 @@ def scratch_initial_info_filler(csv_path: str) -> None:
     with open(csv_path, "r") as csv_fp:
         for line in csv_fp:
             line = line.strip()
+            if len(line) == 0:
+                # Weird 0x0D character in certain .csv dumps
+                continue
+
             s = line.split(",")
             assert len(s) == 2
             login_infos.append(LoginInfo(username=s[0], password=s[1]))
