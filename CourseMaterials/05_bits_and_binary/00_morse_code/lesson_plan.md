@@ -11,6 +11,8 @@
 - `04_01_morse_code_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/13Ufy4-Q3VcafWfpiOLC_793dQtHGKYyn3zMJIxDzwBU
 - The Morse Code "flashers" that are in the CS office
+- Morse Code website loaded up
+    - https://morsecode.world/international/translator.html
 - Youtube videos loaded up:
     - https://www.youtube.com/watch?v=lJazkW8i--Q
     - https://www.youtube.com/watch?v=rufnWLVQcKg
@@ -24,8 +26,11 @@
         - What was easy?
         - What was hard?
         - Lessons
+- Now going to go lower on the abstraction tower (more details)
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
+        - vacuum tubs -> electricity -> light
+    - Bits and Bytes
     - What types of data do computers represent?
         - Pictures, text, video, audio
         - Today going to talk about text
@@ -37,23 +42,24 @@
                 - They know Morse Code... they get it pretty quickly
             - What message are the Russians sending with one bit?
                 - Pings
-- What is Morse code?
-- What is a 1 in morse code and what is a 0?
-- Hand out morse code cheat sheet
+- What is Morse Code?
+    - What is a 1 in Morse Code and what is a 0?
+    - Hand out Morse Code cheat sheet
 - Send various messages
     - Send "SOS" via lights
     - Have them do example problems in slide show
     - Can use anything that can send "two signals"
         - Blink out the word torture
         - https://www.youtube.com/watch?v=rufnWLVQcKg
-- Have students encode their own message and send it to a student across the room
+- Have students encode their own message
+    - Once done encoding, have them send it to a student across the room
     - Use "Morse Code Signal Set" from usgamesinc.com
     - Then switch and send it the other way
     - "I know all the swear words in Morse Code, so don't even try"
 - Play a clip where punchline is audio
+    - https://morsecode.world/international/translator.html
     - "My friend’s bakery burned down last night. Now his business is" ... TOAST
     - "German sausage jokes are just about the:" ... WURST
-    - https://morsecode.world/international/translator.html
 - Discussion
     - Why not dits, dahs, dems, and doops?
         - Too difficult to tell apart
