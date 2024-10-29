@@ -58,13 +58,18 @@
 - Next class going to take apart a computer
 - Today going to talk about computers and how they work
     - What are some words you know about computers?
+- Hand out computer parts
+    - Every group come up with one notice and one wonder
+    - Give 3-4 minutes to mess about
+    - Go around answering questions
+- Way computers work
+    - Hard drive --> memory --> cpu --> screen
 - Speeds/Sizes
     - Kilo, Mega, Giga
     - Compare to number of characters in a poem, novel, ...
+- Various questions
     - If I have a 4Ghz process, how fast is it?
-- Show each computer part
-    - Discuss
-    - Pass around
+- Start homework
 
 #### Homework
 
