@@ -14,7 +14,7 @@
         - Enough docker images up and running
         ```
         docker pull erizzi/hp_terminal_tutorial
-        docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial /bin/zsh
+        docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial
         ```
     - All clues hidden in proper locations
     - Terminals in "Pro mode" (need white text) with dimensions 120x50
@@ -57,6 +57,8 @@
             - `ls` -> reading file
             - ...
     - Note: don't bother with absolute vs relative b/c will be covered in a clue
+- Abstraction
+    - How GUI is a more abstract version of terminal
 - Today we're going to do a scavenger hunt
     - You're going to use the commands I just showed you and more
         - Review of a lot of stuff we've talked about in class
@@ -70,8 +72,8 @@
         - You're going to "wake up" as Harry Potter
     - Walk through commands in HP world
         - `ls` -> lumos
-        - `cd` -> change door
         - `cat` -> trusty cat
+        - `cd` -> change door
     - Do `demo` with Dobby
     - Run an example together on my computer
         - Explore first few rooms and discuss

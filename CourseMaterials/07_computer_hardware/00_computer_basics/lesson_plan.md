@@ -39,7 +39,7 @@
             - Use of `ls`
             - `cd`
             - Folder hierarchy
-    - All websites model unix
+    - All websites model Unix
         - `/` at every page
         - Schoology as an example
 - Show picture of Linux folder structure
