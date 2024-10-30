@@ -15,6 +15,7 @@ Length of lesson: 20-30 minutes.
 - 4-6 decks of cards
 - YouTube video loaded up and ready to go
     - https://www.youtube.com/watch?v=BeoCbJPuvSE
+- Screenshot of `code.py`
 
 ### Actual Lesson
 
