@@ -8,10 +8,11 @@
 ### Setup
 
 - Floppy disks
-- Hammer
-- Desktops to disassemble
-- Screw drivers
-- Paper towels (!!!!) for thermal glue
+- Tools for dissection
+    - Hammer
+    - Desktops to disassemble
+    - Screw drivers
+    - Paper towels (!!!!) for thermal glue
 - Copies of `computer_dissection.docx`
 
 ### Actual Lesson
@@ -50,3 +51,7 @@
     - Go outside and hit hard-drive
         - Where are the 1's and 0's?
         - How similar to floppy disk
+
+### Homework
+
+- None
