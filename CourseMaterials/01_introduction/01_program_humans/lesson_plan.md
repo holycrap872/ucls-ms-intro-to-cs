@@ -1,10 +1,7 @@
-Programming Introduction
-
 ## EQ's
 
-- What is programming?
-- Computers are stupid?
-- Why are conditionals needed?
+- What is a computer?
+- What is a programming language?
 
 ## Lesson Plan:
 
@@ -15,11 +12,13 @@ creating the program.
 
 ### Setup
 
-- Lot of pieces of paper
-- Ruler
+- Seating chart created
 - YouTube videos loaded
     - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
 - Schoology Assessment loaded into Schoology
+- Supplies for drawing maze
+    - Lot of pieces of paper
+    - Ruler
 
 ### Actual Lesson
 
@@ -30,17 +29,19 @@ creating the program.
 - What is a program?
     - Ask them to come up with examples of a computer
         - They'll say stuff like phone
-    - Ask them to come up with their own definition of computer
+    - Based on what we have here, what's is a good "definition" of a computer?
         - Guide them towards "something that follows instructions"
         - Origin of the word is that it was a human job
             - Just like doctor or lawyer: I'm a computer!
         - Show picture of logarithms tables... this is what computers calculated
     - Ask them to come up with examples of a program
-        - Guide them towards recipe
+        - Guide them towards **recipe**
     - Ask them to come up with their definition of a program
         - Series of instructions for a computer to follow
+        - Produces something of value at the end
     - Define programming language
         - Something that allows a program to be easily understood and followed
+        - English
         - Scratch
 - Introduction:
     - Today we're going to make and solve mazes in a variety of ways
@@ -58,9 +59,8 @@ creating the program.
             - Closest of one inch between two lines
     - Example of what going to do on the board
         - I do the example
-        - Use ruler to really drive home the point
+        - Use ruler to really drive home the point of one inch
     - Split in pairs
-        - Have one group work on the board
         - Go
 - Debrief
     - What was easy and what was hard?
