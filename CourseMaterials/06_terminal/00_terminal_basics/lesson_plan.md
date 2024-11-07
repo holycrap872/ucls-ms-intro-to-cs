@@ -88,6 +88,13 @@
         - Show me an example of quietly walking through the halls
 - Partner up
 - Go!
+- If finish early
+    - This example of why I like computers
+        - Do something well once, can do it over and over
+    - Feedback
+        - Things liked
+        - Things didn't like
+        - Things that could be improved
 
 #### Resources
 
