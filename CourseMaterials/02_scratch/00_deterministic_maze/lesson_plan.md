@@ -27,6 +27,7 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
 ### Actual Lesson
 
 - Review
+    - Questions from homework?
     - What's a computer?
     - What's a programming language?
     - What did we do last time?
@@ -35,19 +36,20 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
 - IF LONG BLOCK
     - see `../course_energizers/00_card_sorting` for lesson
 - Today going to start to use Scratch
+    - Why I love Scratch
+        - Just like a "real" programming language
+        - Used by UCBerkeley in their intro class
     - Walk through logging in/logging out of Scratch
-        - Things to hit:
-            - Logging in, naming project, saving, sharing
-        - Watch me:
-            - What do you notice?
+        - Logging in, naming project, saving, sharing
     - Have everyone Log in
-        - Login format: `2024-04-09-sec5-ab`
+        - Login format: `2024-11-09-sec5-ab`
         - Laptops closed once successfully logged in
     - Program a maze together
         - Create a simple maze in background
             - Green for start
             - Red for end
         - Show where to program sprite and background
+            - Go to background and ask: "why no movement blocks?"
         - Show pen
         - Stress initialization
             - When green flag clicked
@@ -55,8 +57,8 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
     - Blocks we're not using
         - glide
         - when space clicked
+- Read through rubric
 - Have them go and **start** a maze of their own
-    - Read through rubric
     - Summarize
     - Make sure to name and share your program
     - Go!
