@@ -39,8 +39,13 @@ Length of lesson: 20-30 minutes.
     - Go!
 - Re-divide into new groups
     - If necessary
+- Parallel vs. Sequential algorithms
 - Have winning group explain their strategy
-- Discussion topics
-    - Sorting for census in 1890
-    - Parallel algorithms
+    - Draw as a parallel algorithm
+    - What is the _most_ people you could conceivable have? (53)
+- Watch sorting algorithm race video
     - https://www.youtube.com/watch?v=BeoCbJPuvSE
+
+## Possible Extensions
+
+- Sorting for census in 1890
