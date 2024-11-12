@@ -1,5 +1,3 @@
-# Tron
-
 ## Essential Questions
 
 - How is a computer game like a puzzle?
@@ -22,8 +20,6 @@ appreciate how engaging it can be.
 - Have YouTube clip from tron: https://youtu.be/hMT8tRrEMC4?t=84s
 
 ### Actual Lesson
-
-#### Day 1
 
 - Reflection:
     - What did we do last class?
@@ -57,7 +53,7 @@ appreciate how engaging it can be.
     - What did you remember from last time?
     - What did you forget from last time?
 
-##### Homework
+### Homework
 
 - Schoology assessment on game loops
 - Questions:
@@ -86,36 +82,3 @@ appreciate how engaging it can be.
             move 100 steps
             turn right _ degrees
         ```
-
-#### Day 2
-
-- Reflection
-    - Game loop
-    - Conditionals
-    - Tron
-- Going to get back to game, but first: real life conditionals
-    - Conditionals don't just have to be in computer programs
-    - Can think of your life as a program
-    - Some examples:
-        - If hungry, then eat
-        - repeat until not thirst: drink
-    - What are a few you can think of?
-        - if, if/else, repeat
-    - Hand out worksheet
-        - `conditionals_worksheet_long.docx` if have long block
-        - `conditionals_worksheet_short.docx` if regular class
-        - Work with elbow partner for ~6m
-        - The crazier the better!
-    - Reconvene and discuss
-        - Have each group share out their best one
-        - The reason it's written this way is because it's the same as Python
-- Review Tron
-    - Get started again
-- When finished, have rotate so can play other people's games
-    - Allow to play 2 or 3 other games
-- Reflection
-    - What was good about other people's games
-    - What could be improved
-    - Important to accept feedback and improve
-        - Helps find bugs
-        - Helps improve products
