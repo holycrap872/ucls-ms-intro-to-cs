@@ -14,6 +14,7 @@
 ### Actual Lesson
 
 - Review
+    - Sorting algorithms
     - How to login/log out
     - Show a a maze from previous class
         - Ask for volunteer
@@ -26,6 +27,8 @@
             - Breathing
             - Going to school
     - PRIMM of square code
+        - Build it from **nothing** on my computer
+            - Good refresher of all the blocks
     - Do some examples together
         - Stress initialization
         - Triangle
