@@ -1,4 +1,3 @@
-Game loop intro
 ## Essential Questions
 
 - What are conditionals?
@@ -14,14 +13,12 @@ Game loop intro
 
 ### Actual Lesson
 
-> NOTE: Have them minimize scratch whenever need attention
-
 - Reflection:
     - What did we talk about last lesson?
     - What is a loop?
         - Why are loops useful?
-        - Do a shape together
-            - Triangle with triangles at the edges
+    - Do a shape together
+        - Triangle with triangles at the edges
 - What is a conditional?
     - Conditionals from real life
         - What are some conditionals you "evaluate" in the morning
@@ -46,28 +43,27 @@ Game loop intro
         - Drive Cat (together)
             - Arrow keys control direction of cat
             - Space bar makes it move forward
-    - Pause and go over common problems and ask why bad
-        - Nested ifs
-        - No forever loop
-        - Inits inside of forever loop
     - Maze game
         - Show game that I made
-            - Show how to make own background
             - Show if `touching color` block command
         - Come up with steps to work on together:
             - Delete old "deterministic" maze code
             - Get initialization working
             - Movement
             - Collisions
-    - Hand out worksheet
+    - Show rubric/worksheet
         - Read through it
             - Note that it's like a driving game
                 - Avoid concept of `change x` and `change y` for now
             - Right arrow -> turn right
             - Left arrow -> turn left
             - Space -> Move forward
-        - Partner up (same as with shapes)
-        - Go!
+    - Go!
+        - About half-way through, pause and go over common problems and ask why bad
+            - Nested ifs
+            - No forever loop
+            - Inits inside of forever loop
+            - Have them tilt their Chromebook screens whenever need their attention
 - Reflection:
     - How do we get the impression of motion?
     - If we wanted to simulate this as humans, what would we have to do?
