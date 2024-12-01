@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Have tracking bot open and code hidden
+- Have `tracking_bot_final.sb3` op
 
 ### Actual Lesson
 
@@ -39,7 +39,7 @@
 - Have do second level if need to stretch time
     - Explain how proud I am of my level because requires difficult movements
     - Come up with your own that mimics mine
-    - Show "broadcast" and "when I recieve"
+    - Show "broadcast" and "when I receive"
 
 ## Homework
 
