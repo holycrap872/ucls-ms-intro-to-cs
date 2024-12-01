@@ -56,4 +56,4 @@
 
 #### Homework
 
-- None
+- Schoology assessment on Scratch functions
