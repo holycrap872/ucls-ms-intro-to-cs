@@ -7,10 +7,13 @@
 
 ### Setup
 
-- Ready to play https://scratch.mit.edu/projects/935636797/
+- Ready to play `racer_final.sb`
+    - https://scratch.mit.edu/projects/935636797/
 - Schoology set up with short or long skeleton
     - long: https://scratch.mit.edu/projects/908713802/
     - short: TBD
+- Schoology assessment on functions loaded up
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -33,7 +36,10 @@
                 - 1: Crispy bacon
             - Why like a function?
                 - Magic on the insides
-    - Glide block
+    - What are other things we use that are like this?
+        - Phone
+        - Refrigerator
+    - Show some scratch blocks (move, say, addition)
         - Why like a function?
         - How many inputs?
         - How many outputs?
@@ -45,14 +51,14 @@
 - Show blocks I created
     - How can we use these blocks?
     - Show the blocks themselves
-    - Explain going to build game _next to_ existing blocks
+    - Explain going to build game _to the left of_ existing blocks
         - e.g., Put green flag to the left of the existing stuff
 - Go!
 - Extensions
     - Second racer
-    - Explosions if hits wall
-    - Ask at the beginning how big an engine the user wants
     - Switch to "muddy costume" when in green
+    - Ask at the beginning how big an engine the user wants
+    - Lap count
 
 #### Homework
 
