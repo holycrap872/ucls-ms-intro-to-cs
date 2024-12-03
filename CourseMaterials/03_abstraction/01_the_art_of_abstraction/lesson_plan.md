@@ -15,13 +15,21 @@
 - Reflect
     - What did we talk about last class?
     - What are functions?
-    - What is abstraction?
+    - Volunteer to show their version of race car game
+        - Keep it short
+- What is abstraction?
+    - Definition: "removing unnecessary detail"
+    - Ability gained around grades 6 - 8
+    - Where do we see abstraction?
+        - Functions!
 - Discussion: begin with a brief discussion about art
     - Ask the students if they know what abstract art is
     - Why did art get weird in the late 1800's?
         - Previously about capturing all possible details (as lifelike as possible)
-        - Once camera invented, needed to go in a new direction
+        - Once camera invented, things got weird
             - Camera invented in 1839
+            - Anyone could create super realistic images
+            - What was the point of art?
         - One direction was abstract art
         - Painters tried to capture the essence of an idea
         - Let everything else fall away
@@ -46,11 +54,14 @@
     - Discuss what we're seeing at each level
     - How does this relate to abstraction?
 - Group Activity:
-    - Have students select an object (or idea!!!) and look it up online
+    - Have students select an object or idea
     - Each will draw (in semi-secret) the object three times:
-        - First, as detailed and realistically as they can.
-        - Second, in a simplified form with fewer details.
-        - Third, in a very abstract form.
+        - First, as detailed and realistic as possible (7 min)
+            - Make it seem like someone took a picture
+        - Second, in a simplified form with fewer details (2 min)
+            - Simplify super-realistic one
+        - Third, in a very abstract form (1 min)
+            - Minimal amount of information
 - Once everyone is done, show each progression (from most to least abstract)
     - Have students try and guess what it is
     - If guessed quickly, what could be removed? If couldn't guess, what should be added?
@@ -61,14 +72,9 @@
     - Do you like abstract art?
     - Abstract thinking is part of development. What does this mean?
 - Clean up
-    - Have students sign their favorite
+    - Have students leave them if they'd like me to hang them up
     - Put away pencils
 
 ## Resources
 
 - https://www.youtube.com/watch?v=JnfrWTzxFbs
-
-## Thoughts
-
-- We could make this a pictionary type game where you can do a single line
-  or circle at a time. Keep going until someone guesses.
