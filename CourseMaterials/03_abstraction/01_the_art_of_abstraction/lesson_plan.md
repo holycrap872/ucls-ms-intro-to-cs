@@ -16,25 +16,23 @@
     - What did we talk about last class?
     - What are functions?
     - Volunteer to show their version of race car game
-        - Keep it short
 - What is abstraction?
     - Definition: "removing unnecessary detail"
-    - Ability gained around grades 6 - 8
-    - Where do we see abstraction?
+    - Why is the phrase "tie your shoes" abstract?
+    - Where else do we see abstraction?
         - Functions!
 - Discussion: begin with a brief discussion about art
-    - Ask the students if they know what abstract art is
-    - Why did art get weird in the late 1800's?
-        - Previously about capturing all possible details (as lifelike as possible)
-        - Once camera invented, things got weird
-            - Camera invented in 1839
+    - History of art up to 1839 was about making stuff as realistic as possible
+    - Why did art get weird in the early 1800's?
+        - Camera invented in 1839
             - Anyone could create super realistic images
             - What was the point of art?
+            - Things got weird
         - One direction was abstract art
-        - Painters tried to capture the essence of an idea
-        - Let everything else fall away
-- Image Showcase: Show progression of images that go from realistic to very abstract
-    - Abstract People
+            - Painters tried to capture the essence of an idea
+            - Let everything else fall away
+- Image Showcase: show progression of images that go from realistic to very abstract
+    - Abstract portraits
         - Self-Portrait with a Harp by Rose-Adélaïde Ducreux
         - Lydia Leaning on Her Arms by Mary Cassatt
         - Portrait of Dr. Gachet by Vincent Van Gogh
@@ -62,6 +60,7 @@
             - Simplify super-realistic one
         - Third, in a very abstract form (1 min)
             - Minimal amount of information
+    - Do example on board of a clock
 - Once everyone is done, show each progression (from most to least abstract)
     - Have students try and guess what it is
     - If guessed quickly, what could be removed? If couldn't guess, what should be added?
