@@ -7,7 +7,7 @@
 
 ### Setup
 
-- `02_01_ms_robozzle_functions_worksheet` loaded into Schoology and ready to go
+- `02_01_ms_robozzle_functions_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ/edit
 
 ### Actual Lesson
@@ -24,7 +24,7 @@
         - Pictures of CTA train maps at various levels of abstraction
         - How do maps and "abstraction tree chart" relate?
 - Today going to play some logic puzzles
-    - Show robozzle and explain how the program works
+    - Show Robozzle and explain how the program works
         - **Just like scratch**
             - Mn -> "when green flag clicked"
             - Program runs block 
@@ -52,60 +52,6 @@
         - F1 is "broken out" lower level details
         - What's a better name for F1?
 
-- Levels:
-    - Introduction
-        - Tutorial
-            - https://alexanderson1993.github.io/robozzle-react/?level=-1
-        - Lightbot 1-2
-            - http://alexanderson1993.github.io/robozzle-react/?level=16161
-        - Lightbot 1-6
-            - http://alexanderson1993.github.io/robozzle-react/?level=16163
-        - Lightbot 1-7
-            - http://alexanderson1993.github.io/robozzle-react/?level=16165
-    - Functions
-        - Lightbot 2-1
-            - http://alexanderson1993.github.io/robozzle-react/?level=16166
-        - Lightbot 2-2
-            - http://alexanderson1993.github.io/robozzle-react/?level=16167
-        - Lightbot 2-3
-            - http://alexanderson1993.github.io/robozzle-react/?level=16168
-        - Lightbot 2-4
-            - http://alexanderson1993.github.io/robozzle-react/?level=16169
-        - Lightbot 2-5
-            - http://alexanderson1993.github.io/robozzle-react/?level=16170
-        - Lightbot 2-6
-            - http://alexanderson1993.github.io/robozzle-react/?level=16171
-    - Recursion/Loops
-        - Equivalent of Lightbot 3-1
-            - http://alexanderson1993.github.io/robozzle-react/?level=-3
-        - Equivalent of Lightbot 3-3
-            - http://alexanderson1993.github.io/robozzle-react/?level=27
-        - Elongated Stairs
-            - http://alexanderson1993.github.io/robozzle-react/?level=14133
-        - Tough init Stairs
-            - http://alexanderson1993.github.io/robozzle-react/?level=13904
-        - Two function Stairs (Looks hard, but isn't)
-            - http://alexanderson1993.github.io/robozzle-react/?level=14343
-        - Big loop
-            - http://alexanderson1993.github.io/robozzle-react/?level=15109
-        - U-s
-            - http://alexanderson1993.github.io/robozzle-react/?level=14737
-    - Conditionals
-        - Color intro 1
-            - http://alexanderson1993.github.io/robozzle-react/?level=-4
-        - Color intro 2
-            - http://alexanderson1993.github.io/robozzle-react/?level=14060
-        - Looks hard, but isn't
-            - http://alexanderson1993.github.io/robozzle-react/?level=13110
-        - Straight -> Stairs
-            - http://alexanderson1993.github.io/robozzle-react/?level=15126
-        - Mildly hard
-            - http://alexanderson1993.github.io/robozzle-react/?level=14261
-        - Hard
-            - http://alexanderson1993.github.io/robozzle-react/?level=12986
-        - Hard
-            - http://alexanderson1993.github.io/robozzle-react/?level=13920
-        - HARD
-            - http://alexanderson1993.github.io/robozzle-react/?level=14218
-        - HARD
-            - https://alexanderson1993.github.io/robozzle-react/?level=15093
+### Homework
+
+- None
