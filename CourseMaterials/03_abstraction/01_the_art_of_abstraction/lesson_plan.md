@@ -17,7 +17,7 @@
     - What are functions?
     - Volunteer to show their version of race car game
 - What is abstraction?
-    - Definition: "removing unnecessary detail"
+    - Definition: "hiding unnecessary details"
     - Why is the phrase "tie your shoes" abstract?
     - Where else do we see abstraction?
         - Functions!
