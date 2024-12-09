@@ -9,7 +9,7 @@
 ### Setup
 
 - `03_03_scratch_functions_worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1T7y-HDTxLjGatPhP-y9X3WD16TzqQ2hBdV9CXJ8ERBQ
+    - https://docs.google.com/document/d/14DGE2J2VyYLiN56obziLHPD10CooBt-Mu0_r10rxeCg
 - "Hexagon program" loaded up and ready to go
     - Asks users for number of iterations
     - Draws hexagons with increasing size of sides

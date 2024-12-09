@@ -9,7 +9,7 @@
 
 - Preprogrammed scratch program that plays every instrument
 - `03_02_scratch_variables_input_worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1st5q1I3VydONL_ZTuF5GXMPgSLz9z91EqY23ifBvQiE/edit
+    - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
 
 ### Actual Lesson
 
