@@ -62,7 +62,8 @@ def cs_academy_pw_changer(csv_path: str) -> None:
                 continue
 
             s = line.split(",")
-            assert len(s) == 3
+            s = [c for c in s if len(c) > 1]
+            assert len(s) == 3, s
             login_infos.append(LoginInfo(username=s[0], old_password=s[1], new_password=s[2]))
 
     with sync_playwright() as playwright:
