@@ -2,7 +2,7 @@
 
 - What are functions?
 - Why are functions useful?
-- How do we create and use functions in scratch?
+- How do we create and use functions in Scratch?
 
 ## Lesson Plan
 
@@ -29,10 +29,6 @@
     - Math
     - Robozzle
     - Race car game
-- Why functions?
-    - Abstraction
-    - Easier to reason
-    - Decompose a problem into pieces
 - Do an example together:
     - Length of time to cook turkey function
         - Input: pounds, stuffed or not
