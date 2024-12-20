@@ -11,8 +11,9 @@
 - `03_03_scratch_functions_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/14DGE2J2VyYLiN56obziLHPD10CooBt-Mu0_r10rxeCg
 - "Hexagon program" loaded up and ready to go
-    - Asks users for number of iterations
-    - Draws hexagons with increasing size of sides
+    - https://scratch.mit.edu/projects/1079719228
+        - Asks users for number of iterations
+        - Draws hexagons with increasing size of sides
 
 ### Actual Lesson
 
@@ -43,8 +44,7 @@
     - Hexagon together as a class
         - Input: size
         - Output: Hexagon of that size
-        - Once done, put inside a loop and make a bunch of hexagons
-            - Ends up looking like a pyramid
+        - Note: DO NOT do anything fancy with loops (that's next class)
 - Explain/talk through worksheet
     - Work in pairs
 - Go!

@@ -26,7 +26,8 @@
     - Decompose a problem into pieces
     - Functions **are a way of thinking**
 - Do an example together:
-    -
+    - Student creates function that makes a square
+    - I put it in a loop
 - Any questions about worksheet?
     - Work in pairs
 - Go!
