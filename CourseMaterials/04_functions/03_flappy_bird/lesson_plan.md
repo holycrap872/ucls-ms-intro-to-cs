@@ -49,7 +49,9 @@ create flappy bird.
     - Create functions on right
     - Test functions
     - Create programs that uses functions on left
-- Discuss
+- When finished, have rotate so can play other people's games
+    - Allow to play 2 or 3 other games
+- Reflection
     - What was easy/hard?
     - What functions did you wish you had created?
     - What did this exercise show?
