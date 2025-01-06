@@ -46,9 +46,6 @@
                 - Pings
 - What is Morse Code?
     - What is a 1 in Morse Code and what is a 0?
-    - How did Morse code change the world?
-        - Sped up everything
-        - Finance: could buy/sell stock before anyone else
     - Hand out Morse Code cheat sheet
 - Send various messages
     - Send "SOS" via lights
@@ -60,10 +57,9 @@
     - Once done encoding, have them send it to a student across the room
     - Then switch and send it the other way
     - "I know all the swear words in Morse Code, so don't even try"
-- Play a clip where punchline is audio
-    - https://morsecode.world/international/translator.html
-    - "My friend’s bakery burned down last night. Now his business is" ... TOAST
-    - "German sausage jokes are just about the:" ... WURST
+- How did Morse code change the world?
+    - Sped up everything
+    - Finance: could buy/sell stock before anyone else
 - Discussion
     - Why not dits, dahs, dems, and doops?
         - Too difficult to tell apart
@@ -72,6 +68,10 @@
 - Show picture of "Morse Code Tree"
     - Why is this better
     - Do some examples
+- If time: play a clip where punchline is audio
+    - https://morsecode.world/international/translator.html
+    - "My friend’s bakery burned down last night. Now his business is" ... TOAST
+    - "German sausage jokes are just about the:" ... WURST
 - Closing worksheet
 
 #### Homework
