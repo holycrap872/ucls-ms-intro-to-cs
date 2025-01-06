@@ -1,7 +1,7 @@
 ## Essential Questions
 
 - How do we communicate our expectations to others?
-- How do we decompose problems so they’re easy to understand?
+- How do we decompose problems so they're easy to understand?
 
 ## Lesson Plan
 
