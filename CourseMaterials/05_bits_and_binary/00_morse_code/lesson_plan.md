@@ -8,12 +8,14 @@
 ### Setup
 
 - Morse Code cheat sheets printed out
+    - `morse_code_cheat_sheet.docx`
 - `04_01_morse_code_worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/13Ufy4-Q3VcafWfpiOLC_793dQtHGKYyn3zMJIxDzwBU
+    - https://docs.google.com/document/d/16BgMv3VFcVysdXP0dQPrWidaMj7GvRP4sBnFuQGp8gU
 - The Morse Code "flashers" that are in the CS office
+    - From https://usgamesinc.com
 - Morse Code website loaded up
     - https://morsecode.world/international/translator.html
-- Youtube videos loaded up:
+- YouTube videos loaded up:
     - https://www.youtube.com/watch?v=lJazkW8i--Q
     - https://www.youtube.com/watch?v=rufnWLVQcKg
 
@@ -44,6 +46,9 @@
                 - Pings
 - What is Morse Code?
     - What is a 1 in Morse Code and what is a 0?
+    - How did Morse code change the world?
+        - Sped up everything
+        - Finance: could buy/sell stock before anyone else
     - Hand out Morse Code cheat sheet
 - Send various messages
     - Send "SOS" via lights
@@ -51,9 +56,8 @@
     - Can use anything that can send "two signals"
         - Blink out the word torture
         - https://www.youtube.com/watch?v=rufnWLVQcKg
-- Have students encode their own message
+- Have students encode their own message use "flashers"
     - Once done encoding, have them send it to a student across the room
-    - Use "Morse Code Signal Set" from usgamesinc.com
     - Then switch and send it the other way
     - "I know all the swear words in Morse Code, so don't even try"
 - Play a clip where punchline is audio
@@ -63,9 +67,6 @@
 - Discussion
     - Why not dits, dahs, dems, and doops?
         - Too difficult to tell apart
-    - How did morse code change the world?
-        - Sped up everything
-        - Finance: could buy/sell stock before anyone else
     - How is Morse code like the internet?
     - How is it different?
 - Show picture of "Morse Code Tree"
