@@ -1,5 +1,7 @@
 ## Essential Questions:
-- Understand how computers store and represent certain types of information
+
+- How do computers store information?
+- How do computers represent different types of information?
 
 ## Learning Objective:
 
@@ -16,8 +18,9 @@
         - Print on "flip horizontal"
     - Pencils
 - Youtube videos loaded up:
-    - https://www.youtube.com/watch?v=pRuRE-Bwk1U
-    - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
+    - Morse code race: https://www.youtube.com/watch?v=pRuRE-Bwk1U
+    - Dial up internet: https://www.youtube.com/watch?v=gsNaR6FRuO0
+    - Paintball GPU: https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
 
 ### Actual Lesson
 
@@ -26,7 +29,13 @@
     - What types of information do computers store?
         - numbers, text, sound, pictures, video
     - How does that become letters and numbers?
-    - https://www.youtube.com/watch?v=pRuRE-Bwk1U
+    - Morse code race
+        - https://www.youtube.com/watch?v=pRuRE-Bwk1U
+        - Listen for dots and dashes
+        - Can be very fast
+    - Dial up internet
+        - https://www.youtube.com/watch?v=gsNaR6FRuO0
+        - How similar to Morse code?
 - Today going to talk about pictures
     - What do people know about how pictures are stored on a computer?
 - Only thing computers understand: 1's and 0's
@@ -91,7 +100,13 @@
         - Black
         - Orange
         - Blue
-    5. The following list of bits ends a 6x6 picture where each pixel is represented
+    5. How would the following picture be encoded: BBWBWWBW
+        - 00101101
+        - 11010010
+        - 01100101
+        - 00110010
+        - 01110101
+    6. The following list of bits ends a 6x6 picture where each pixel is represented
        by a single bit. What is it a picture of? 000000010010000000100001011110000000
         - A smile
         - A dog
