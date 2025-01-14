@@ -1,6 +1,6 @@
 ## Essential Questions
 
-- What is a decision tree and where are they used?
+- Why are trees so common in Computer Science?
 - How do I best determine find a value in a set of possible values?
 
 ## Lesson Plan
@@ -8,7 +8,8 @@
 ### Setup
 
 - Enough "Guess Who?" games for the whole class
-- Video loaded
+    - See ML/AI if need more copies
+- YouTube video loaded
     -  https://youtu.be/vl4dQrGaOcU?si=W-I5lKmzrou3xiXY
 
 ### Lesson Plan
@@ -41,12 +42,12 @@
     - Medicine
         - If have cough, and fever, but no pain, then have XX
     - Easy to capture search for an answer
-    - Joke: Every could be as good as person who didn't lose by just copying their decision tree
+    - Joke: Everyone could be as good as person who didn't lose by just copying their decision tree
 
 #### Possible Extension
 
 - Guess Who is very hot right now
-- Popular because of subjective guess who?
+- Popular because of subjective Guess Who?
     - https://www.youtube.com/watch?v=vl4dQrGaOcU
         - 0:00 - 1:30
 - Play one game just for fun
