@@ -33,6 +33,7 @@
 - Reflection
     - Morse Code
     - BitPics
+    - Bits: -> Binary Digits (**required for scavenger hunt**)
 - Today we're going to talk about terminal
     - Another name for terminal is "shell"
     - Who knows what this is?
