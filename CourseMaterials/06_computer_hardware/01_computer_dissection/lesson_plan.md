@@ -9,11 +9,10 @@
 
 - Floppy disks
 - Tools for dissection
-    - Hammer
     - Desktops to disassemble
     - Screw drivers
-    - Paper towels (!!!!) for thermal glue
-- Copies of `computer_dissection.docx`
+    - Paper towels (!!!!) for thermal paste
+- Copies of `computer_dissection.docx` printed out
 
 ### Actual Lesson
 
@@ -48,9 +47,6 @@
     - What do you see?
     - How do you think it works?
         - Where are the 1's and 0's?
-    - Go outside and hit hard-drive
-        - Where are the 1's and 0's?
-        - How similar to floppy disk
 
 ### Homework
 
