@@ -79,3 +79,7 @@ class field trip, and fill out the questionnaire.
     - Hand out colored pencils
 - Time to leave
     - Once more, remember how to "leave well"
+
+### Homework
+
+- None
