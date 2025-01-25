@@ -32,7 +32,6 @@
     - Show their decision tree
 - Have them play two more times and continue to fill in their decision tree
     - Root node/existing nodes should not change
-    - If change, shows asked a bad question to begin with
 - What's going on here?
     - What is everyone's first question?
         - Who's is best and why?
