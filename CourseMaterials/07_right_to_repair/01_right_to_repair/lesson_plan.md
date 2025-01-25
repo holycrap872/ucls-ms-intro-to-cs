@@ -20,7 +20,7 @@
 - Going to read article
     - Highlight EQ's
         - What is the “Right to Repair”?
-        - - - - - - - - - What are the goals of the “Right to Repair” movement?
+        - What are the goals of the “Right to Repair” movement?
         - How does the “Right to Repair” movement relate to abstraction?
     - Give 5m to read
     - "Treat this like english class, be prepared for DRT"
@@ -31,7 +31,11 @@
 - Show Technology/magic quote
     - How does it relate to article
     - How does it relate to this class?
-- Small speed about taking power through both creating and using abstractions
+- Show graphs of:
+    - IT spending (up)
+    - IT repair (down)
+    - What does this mean?
+- Small speech about taking power through both creating and using abstractions
 
 #### Resources:
 
