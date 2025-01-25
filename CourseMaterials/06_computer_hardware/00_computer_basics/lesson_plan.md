@@ -7,11 +7,11 @@
 
 ### Setup
 
-- Youtube video loaded and ready to go
+- YouTube video loaded and ready to go
     - https://youtu.be/tc4ROCJYbm0?si=AJyQkRl749Gh5024&t=720
 - Computer parts: CPU, hard drive, memory
-- Printouts for class computer
-- Various printouts
+- Schoology Assessment on abstraction posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -73,48 +73,10 @@
 
 #### Homework
 
-- Schoology assessment on Computer Basics
-- Questions:
-    1. Arrange the following from smallest to to largest.
-        - 1 terabyte
-        - 1 byte
-        - 1 kilobyte
-        - 1 megabyte
-        - 1 gigabyte
-    2. What part of the computer stores the information while it is off?
-        - CPU
-        - Memory
-        - Hard drive
-        - Power cable
-    3. What part of the computer is in charge of all of the "processing"?
-        - CPU
-        - Memory
-        - Hard drive
-        - Power cord
-    4. How many times bigger is a megabyte than a kilo byte
-        - 10
-        - 100
-        - 1,000
-        - 10,000
-    5. Why is a fan necessary in a computer?
-        - The hard drive needs to feel very important otherwise it won't keep running.
-        - The CPU has so much electricity running through it that it would melt without a fan.
-        - Memory needs fresh air to remember stuff properly.
-        - The electricity of the 1's and 0's needs to circulate through the computer.
-    6. The job of the motherboard in the computer is to:
-        - Allow electricity to be stored in the form of 1's and 0's
-        - Provide a place just for the CPU
-        - Allow all of the other pieces to communicate
-        - Arrange the other pieces by height
-    7. How many times bigger is 4Ghz than 500Khz
-        - 8,000 times
-        - 1,000 times
-        - 4,000,000 times
-        - 18 times
+- Schoology assessment: `Homework: Computer Basics`
 
 ### Potential Resources
 
-https://classic.csunplugged.org/activities/community-activities/class-simulation-computer/>
-http://cse4k12.org/how_computers_work/index.html
-
-https://www.youtube.com/watch?v=OSYpYFEwr4o&t=17s
+- https://classic.csunplugged.org/activities/community-activities/class-simulation-computer/>
+- http://cse4k12.org/how_computers_work/index.html
+- https://www.youtube.com/watch?v=OSYpYFEwr4o&t=17s

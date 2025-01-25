@@ -12,15 +12,16 @@
 
 ### Setup
 
-- Schoology Assessment `Beautiful BitPics` posted for Homework
 - Supplies for activity
     - 4 grids from `blank_grid.docx` (2 papers front/back) per student
         - Print on "flip horizontal"
     - Pencils
-- Youtube videos loaded up:
+- YouTube videos loaded up:
     - Morse code race: https://www.youtube.com/watch?v=pRuRE-Bwk1U
     - Dial up internet: https://www.youtube.com/watch?v=gsNaR6FRuO0
     - Paintball GPU: https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
+- Schoology assessment on BitPics posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -78,40 +79,7 @@
 
 #### Homework
 
-- Schoology assessment on BitPics
-- Questions:
-    1. Where does the word "pixel" come from?
-        - It's a combination of the words "picture" and "element"
-        - It's based on the fact that you're picking different colors
-        - It's a Greek word that translates to "part of the eye"
-        - It's from a patent filed in 1904 for teaching pigs to identify edible foods
-    2. How many total pixels are there in an image that is 9 pixels wide and 8 pixels high?
-        - 72 pixels
-        - 17 pixels
-        - 98 pixels
-        - 103 pixels
-    3. What color pixel is represented by the number 0?
-        - Black
-        - White
-        - Orange
-        - Green
-    4. What color pixel is represented by the number 1?
-        - White
-        - Black
-        - Orange
-        - Blue
-    5. How would the following picture be encoded: BBWBWWBW
-        - 00101101
-        - 11010010
-        - 01100101
-        - 00110010
-        - 01110101
-    6. The following list of bits ends a 6x6 picture where each pixel is represented
-       by a single bit. What is it a picture of? 000000010010000000100001011110000000
-        - A smile
-        - A dog
-        - A hockey stick
-        - A cup
+- Schoology assessment: `Homework: Binary Information`
 
 ### Potential Extensions
 

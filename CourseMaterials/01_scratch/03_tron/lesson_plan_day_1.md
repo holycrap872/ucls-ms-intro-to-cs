@@ -19,6 +19,8 @@ with minimal hints and then appreciate how engaging it can be.
 - Have `tron.sb3` loaded up with the code hidden
 - YouTube videos loaded up
     - https://youtu.be/hMT8tRrEMC4?t=84s
+- Schoology assessment on "game loop algorithm" posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -58,30 +60,4 @@ with minimal hints and then appreciate how engaging it can be.
 
 ### Homework
 
-- Schoology assessment on game loops
-- Questions:
-    1. Which of the following are parts of the "game loop" algorithm?
-        - initialization
-        - get user input
-        - move characters
-        - check for collisions
-        - pause and get a soda
-    2. What is the Computer Science translation of the sentence "when it rains I wear my coat"?
-        - forever is_raining, then wear coat
-        - if is_raining, then wear coat
-        - if is_raining, forever wear coat
-    3. Why is a forever loop a better option than a repeat loop with a game?
-        - If statements only go into forever loops.
-        - Repeats are only for shapes.
-        - You don't know how long the user is going to play.
-    4. Fill in the blanks to create a program that makes a square:
-        ```
-        when green flag clicked
-        goto 0, 0
-        point in direction 90
-        erase all
-        pen down
-        repeat _:
-            move 100 steps
-            turn right _ degrees
-        ```
+- Schoology assessment: `Homework: Parts of the Game Loop`

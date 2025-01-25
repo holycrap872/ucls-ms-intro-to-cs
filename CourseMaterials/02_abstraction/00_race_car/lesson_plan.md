@@ -12,7 +12,7 @@
 - Schoology set up with short or long skeleton
     - long: https://scratch.mit.edu/projects/908713802/
     - short: TBD
-- Schoology assessment on functions loaded up
+- Schoology assessment on functions posted
     - See `assessment.md`
 
 ### Actual Lesson
@@ -62,4 +62,4 @@
 
 #### Homework
 
-- Schoology assessment on Scratch functions
+- Schoology assessment: `Homework: Scratch Functions`

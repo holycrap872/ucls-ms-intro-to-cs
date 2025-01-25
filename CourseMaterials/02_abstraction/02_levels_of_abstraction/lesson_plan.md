@@ -7,14 +7,15 @@
 
 ### Setup
 
-- Schoology Assessment `Levels of Abstraction` posted for Homework
 - Supplies for activity
     - 20-30 sheets of legal paper
     - Pencils/markers
     - Rulers
-- Youtube videos ready to go
+- YouTube videos ready to go
     - Siphon effect: https://youtube.com/shorts/V510005jDug?si=j-XjEA3gdYGTvD5p
     - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
+- Schoology Assessment on abstraction posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -76,9 +77,9 @@
 
 ### Homework
 
-- Schoology Assessment `Levels of Abstraction`
+- Schoology assessment: `Homework: Thinking with Abstraction`
 
-#### Possible extension
+### Possible extension
 
 - For next class: How is this like being a good leader/project?
     - Leader thinks about high-level tasks. Workers think about how those get accomplished.
