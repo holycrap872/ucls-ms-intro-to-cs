@@ -57,6 +57,7 @@
     - Once done encoding, have them send it to a student across the room
     - Then switch and send it the other way
     - "I know all the swear words in Morse Code, so don't even try"
+    - Morse code race
 - How did Morse code change the world?
     - Sped up everything
     - Finance: could buy/sell stock before anyone else
@@ -76,10 +77,11 @@
 
 #### Homework
 
-- Finish worksheet if didn't
+- Finish `04_01_morse_code_worksheet`
 
-### Potential Extension
+### Extensions
 
+- Watch "American Experience: The Great Transatlantic Cable"
 - As a class, encode in scratch a Morse code encoder that uses the tree (nested if/else)
 
 ### Resources
