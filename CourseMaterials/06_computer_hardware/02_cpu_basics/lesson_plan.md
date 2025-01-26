@@ -9,3 +9,10 @@ http://cse4k12.org/how_computers_work/index.html
 CPU in minecraft
 
 https://www.youtube.com/watch?v=C-r8rUydKHo&pp=ygUMc2ltcGxlIGNwdSA9
+
+### Extensions
+
+- Watch "American Experience: Silicon Valley"
+- PBS Documentary: "The Machine that Changed the World"
+    - All parts of the five-part series are tough to find
+    - Part two about ENIAC seems to be available, though
