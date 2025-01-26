@@ -18,8 +18,9 @@ class field trip, and fill out the questionnaire.
     - One for "emergency book"
 - `onboarding_questionnaire` GoogleDoc printed out
     - https://docs.google.com/document/d/1jLx6iJktfbAsRTwGddn9544vgy5wNVRpV5TQ9ce3qrw
-- Log into `console.aws.amazon.com`
-- Colored pencils
+- Logged into `console.aws.amazon.com`
+- Schoology assessment on "hello world!" posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -82,4 +83,4 @@ class field trip, and fill out the questionnaire.
 
 ### Homework
 
-- None
+- Schoology assessment: `Homework: Hello World!`
