@@ -12,8 +12,8 @@
     [ ] `A-mazing Human` Assessment
     [ ] `Tron` GameLoop Assessment
 [ ] Create grade categories in `Grade Setup`
-    [ ] Classwork: 80
-    [ ] Homework: 20
+    [ ] Classwork: 70
+    [ ] Homework: 30
 [ ] Set up students in Scratch
     [ ] Create new class in Scratch
     [ ] Upload students (format of names: `2025-01-27-secX-fl`)

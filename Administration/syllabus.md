@@ -79,8 +79,8 @@ unit, no late or revised work from the prior units will be accepted.
 Units will be weighted according to the amount of time that we spend on them,
 and unit grades will be broken down into the following categories:
 
-- Classwork: 80%
-- Homework: 20%
+- Classwork: 70%
+- Homework: 30%
 
 Grades for assignments will be posted on Schoology.
 
