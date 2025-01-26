@@ -72,5 +72,5 @@ creating the program.
 
 #### Homework
 
-- Schoology assessment: `Homework: What's a Computer`
+- Schoology assessment: `Homework: What's a Computer?`
 

@@ -65,7 +65,7 @@
 - Way computers work
     - Hard drive --> memory --> cpu --> screen
 - Speeds/Sizes
-    - Kilo, Mega, Giga
+    - Kilo, Mega, Giga, Tera, Peta
     - Compare to number of characters in a poem, novel, ...
 - Various questions
     - If I have a 4Ghz process, how fast is it?
