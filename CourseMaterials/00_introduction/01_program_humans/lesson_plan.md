@@ -25,9 +25,9 @@ creating the program.
 
 - Introduce seating chart
 - Reflection
-    - Demystification
     - Point of this class
-- What is a program?
+    - Demystification
+- What is a computer?
     - Ask them to come up with examples of a computer
         - They'll say stuff like phone
     - Based on what we have here, what's is a good "definition" of a computer?
@@ -49,6 +49,7 @@ creating the program.
         - Mazes were some of the first demonstrations of the capability of computers
         - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
             - 0:00 - 1:40
+            - End at IEEE stuff
     - Rules
         - Break up into groups of 2
         - Make a maze (4m)
@@ -56,21 +57,22 @@ creating the program.
         - Write a program to solve the maze (3m)
         - Switch
         - One person closes their eyes and sees if they can use the program to get through (2m)
-        - Maze Rules
-            - Closest of one inch between two lines
+        - Maze rules:
+            - Minimum of one inch between two lines
+            - At least 5 turns required
     - Example of what going to do on the board
         - I do the example
         - Use ruler to really drive home the point of one inch
     - Split in pairs
-        - Go
+        - Go!
 - Debrief
     - What was easy and what was hard?
-    - Discuss problems with getting units wrong.
-        - Mars Rover
+    - Discuss problems with getting units wrong
+        - Mars rover
     - Discuss why humans with eyes closed is similar to computer (can't react smartly)
         - **Computers are stupid**
 
-#### Homework
+### Homework
 
 - Schoology assessment: `Homework: What's a Computer?`
 
