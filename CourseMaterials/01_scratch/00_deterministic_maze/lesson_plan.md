@@ -41,8 +41,8 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
         - Used by UCBerkeley in their intro class
     - Walk through logging in/logging out of Scratch
         - Logging in, naming project, saving, sharing
-    - Have everyone Log in
-        - Login format: `2024-11-09-sec5-ab`
+    - Have everyone log in
+        - Login format: `2025-01-27-sec5-ab`
         - Laptops closed once successfully logged in
     - Program a maze together
         - Create a simple maze in background
@@ -63,10 +63,12 @@ algorithms. Finally, as a class we review Scratch and make a deterministic maze.
     - Make sure to name and share your program
     - Go!
 
-## Homework
+### Homework
 
 - IF LONG BLOCK
     - Finish maze
+
+### Extensions
 
 - Make a program that spells out our initials
     - Take a screen shot of the code

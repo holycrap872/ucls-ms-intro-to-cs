@@ -15,7 +15,7 @@
 - Review
     - Sorting algorithms
     - How to login/log out
-    - Show a a maze from previous class
+    - Show a maze from previous class
         - Ask for volunteer
     - How did we get the sprite to move more slowly?
         - Show them
