@@ -6,11 +6,15 @@
 
 ### Setup
 
+- YouTube video loaded up and ready to go
+    - Flipbook video: https://www.youtube.com/shorts/5d_Fz9HEwr0
 - Have PRIMM triangle with squares at edges example up and ready to run in Scratch
 
 ### Actual Lesson
 
 - Review
+    - Frame rate
+        - https://www.youtube.com/shorts/5d_Fz9HEwr0
     - Loops
     - Initialization
     - Pair programming
