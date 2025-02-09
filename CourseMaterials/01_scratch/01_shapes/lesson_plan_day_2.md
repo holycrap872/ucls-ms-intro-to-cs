@@ -9,6 +9,8 @@
 - YouTube video loaded up and ready to go
     - Flipbook video: https://www.youtube.com/shorts/5d_Fz9HEwr0
 - Have PRIMM triangle with squares at edges example up and ready to run in Scratch
+- Schoology assessment on "Scratch loops" posted
+    - See `assessment.md`
 
 ### Actual Lesson
 
@@ -36,4 +38,4 @@
 
 ### Homework
 
-- None if work hard during the class
+- Schoology assessment: `Homework: Scratch Loops`

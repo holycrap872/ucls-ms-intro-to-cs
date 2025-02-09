@@ -39,7 +39,7 @@
     - Basic Exercises
         - Move Cat (together)
             - Cat starts on left and moves to right side of screen when green flag clicked
-        - Only moves when spacebar pressed
+        - Only moves when space bar pressed
         - Drive Cat (together)
             - Arrow keys control direction of cat
             - Space bar makes it move forward

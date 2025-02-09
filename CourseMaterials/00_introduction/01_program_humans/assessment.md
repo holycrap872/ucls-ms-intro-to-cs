@@ -17,8 +17,13 @@
     - An input driven series of decisions.
     - A series of special words that are associated with actions.
     - A binary language for talking to a digital, electronic computer.
-4. Why, in a modern context, do we prefer electronic computers over human computers? Select the two answers that apply.
+4. Why, in a modern context, do we prefer electronic computers over human computers? Select the **two answers** that apply.
     - Electronic computers are more precise
     - Electronic computers are faster
     - Electronic computers are more friendly
     - Electronic computers are more creative
+5. What is the most important skill for writing good computer programs?
+    - Being able to break problems into smaller steps
+    - Being good at math
+    - Being able to type quickly
+    - Having the latest and most expensive computer

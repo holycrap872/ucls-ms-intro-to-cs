@@ -1,9 +1,4 @@
-0. What is the definition of a variable in CS?
-    - A symbol that stores a value
-    - A numerical representation of a number
-    - The result of two operations
-    - A thing that can only be set
-0. What are three things you can do to a variable in CS?
+0. What are **three** things you can do to a variable in CS?
     - Read it
     - Set it
     - Change it
@@ -52,6 +47,42 @@
     - Answer 1: 5, Answer 2: 4
     - Answer 1: 5, Answer 2: 5
     - Answer 1: 4, Answer 2: 4
+0. Which of the following inputs would result in "b" and then "c" being said by the sprite:
+    ```
+    set num_1 to answer
+    set num_2 to answer
+    if num_1 = 5:
+        say "a"
+    if num_1 = 6:
+        say "b"
+    if num_1 + num_2 = 10:
+        say "c"
+    ```
+    - Answer 1: 6, Answer 2: 4
+    - Answer 1: 5, Answer 2: 4
+    - Answer 1: 2, Answer 2: 6
+    - Answer 1: 3, Answer 2: 7
+0. Which of the following inputs would result in "a", "d", then "e" being said by the sprite:
+    set num_1 to answer
+    set num_2 to answer
+    if 2 < num_1 and num_1 < 5:
+        say "a"
+    else:
+        say "b"
+    if num_2 = 5:
+        say "c"
+    else:
+        say "d"
+    if num_1 + num_2 = 9:
+        say "e"
+    else:
+        say "f"
+    ```
+    - Answer 1: 6, Answer 2: 3
+    - Answer 1: 3, Answer 2: 6
+    - Answer 1: 4, Answer 2: 6
+    - Answer 1: 4, Answer 2: 5
+0. Which of the following programs would print all of the numbers from 10 up to and including 19?
 0. The program below will say the numbers:
     ```
     set num_1 to 7
