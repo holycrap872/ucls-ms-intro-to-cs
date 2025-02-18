@@ -7,7 +7,11 @@
 
 ### Setup
 
-- None
+- `CargoBots Worksheet`
+    - **TODO**
+    - https://docs.google.com/document/d/1CAsUpe_LYLCy8yzWb8I9U2i-VweMCExqkDYdQ7ek36Q
+        - Reflection on conditionals
+        - Reflection on function names: "instead of p0, what's a better name"?
 
 ### Actual Lesson
 
@@ -15,8 +19,11 @@
 - Do first level together
 - Split up into pairs
     - Ever problem you finish, switch
-- If finish Tutorial, get fun size candy
-    - Takes ~20 minutes for average group
-- If finish Easy, get three fun size candy
-    - Takes ~35 minutes for average group
+- Do first three levels of tutorial
+    - Takes ~10m for average group
+- Do first three levels of easy
+    - If finish first three levels, get fun-size candy bar
+    - Takes ~10m for average group
+- Do final three levels of easy
+    - Takes ~25m for average group
 - Come back and discuss
