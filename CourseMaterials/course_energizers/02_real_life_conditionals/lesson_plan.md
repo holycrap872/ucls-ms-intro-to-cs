@@ -2,7 +2,7 @@
 
 ### Setup
 
-`conditionals_worksheet_*` printed out
+- `conditionals_worksheet_*` printed out
     - `long` for long block
     - `short` for regular class
 
