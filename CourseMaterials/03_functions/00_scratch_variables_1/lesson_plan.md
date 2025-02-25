@@ -5,6 +5,13 @@
 
 ## Lesson Plan
 
+In this lesson, the goal is to introduce variables in as simple/fast a
+way as possible. Students are told that variables in CS are similar to how they
+are in math and that variables have the ability to set, change, and read. Then,
+there's a simple demo involving students acting as variables remembering and
+adding numbers that is modeled in Scratch. Finally, students start working on a
+"music variables" worksheet that has them experiment and analyze variables.
+
 ### Setup
 
 - `03_01_scratch_variables_music_worksheet` loaded into Schoology
@@ -23,7 +30,7 @@
         - Robozzle levels
             - What does f1 mean?
             - What does f2 mean?
-- Going to start back up with scratch
+- Going to start back up with Scratch
     - Scratch review
         - Game loop
         - if, if/else
@@ -47,7 +54,7 @@
         - Replicate actions from in human example
         - See `AddVariables` in https://scratch.mit.edu/projects/945191863/editor/
             - See `variables_1_example.sb3` if link is down
-    - Stress that it's important to come up with a good variable name
+    - Stress that it's important to come up with a good variable names
 - Show a tempo increaser that play snare drum faster and faster
     - Ask them what they think will happen
         - See `TempoChange` in https://scratch.mit.edu/projects/945191863/editor/
