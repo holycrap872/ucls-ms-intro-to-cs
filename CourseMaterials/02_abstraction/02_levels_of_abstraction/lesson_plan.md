@@ -65,6 +65,7 @@
         - Making a car
         - Kidnapping a monkey from the zoo
     - Emphasize that the crazier the better
+        - No felonies
     - Possible extension: have groups switch programs every few minutes
         - People fill in the "how to" of other teams "high level functions"
 - Go!
@@ -73,7 +74,7 @@
         - Which one is more abstract and why?
     - How is this like abstract art?
     - How many levels deep could you go?
-    - How is this like scratch?
+    - How is this like Scratch?
 
 ### Homework
 
