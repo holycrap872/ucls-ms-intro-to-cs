@@ -29,8 +29,10 @@ with minimal hints and then appreciate how engaging it can be.
         - What is the game loop?
         - What are the parts of the game loop?
         - What is the difference between drawing shapes and the games?
-            - infinite loop
+            - Infinite loop
             - No user input
+    - Show student's maze game and discuss
+        - Ask for volunteer
 - Let's see if you can figure out how one of my simple "games" works
     - Show `drawing_game_skeleton.sb3` (without showing code)
         - `drawing_game_skeleton.sb3` **has** `change color` block in it for demo

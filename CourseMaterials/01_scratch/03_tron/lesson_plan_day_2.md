@@ -23,6 +23,7 @@ Tron. Then, students finish working on Tron.
     - How similar to Tron?
     - How different
     - Ask for a volunteer so can look at their code
+        - Don't use same person as previous day
         - Talk about GameLoop
         - Talk about pieces that relate to Tron
 - Review Tron
