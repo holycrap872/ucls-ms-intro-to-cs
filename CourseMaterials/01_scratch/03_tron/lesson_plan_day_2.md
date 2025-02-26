@@ -36,3 +36,7 @@ Tron. Then, students finish working on Tron.
     - Important to accept feedback and improve
         - Helps find bugs
         - Helps improve products
+
+### Homework
+
+- None

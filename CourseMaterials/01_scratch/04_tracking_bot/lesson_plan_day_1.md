@@ -8,7 +8,7 @@
 ### Setup
 
 - Have `tracking_bot_final.sb3` open and code hidden
-- HAve `tracking_bot_skeleton.sb3` available via Schoology
+- Have `tracking_bot_skeleton.sb3` available via Schoology
 
 ### Actual Lesson
 
