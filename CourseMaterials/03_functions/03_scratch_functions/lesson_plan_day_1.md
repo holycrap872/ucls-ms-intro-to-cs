@@ -20,10 +20,10 @@
 - Review
     - Variables
     - Why useful
-    - Review fahrenheit -> celsius program
-    - PRIMM on program that draws hexagons of increasing size
-        - Mess with it so it changes colors
-        - Mess with it to make it turn **111 degrees**
+    - Show someone's Arena Rumble game
+- PRIMM on program that draws hexagons of increasing size
+    - Mess with it so it changes colors
+    - Mess with it to make it turn **111 degrees**
 - What is a function?
     - Input/output
 - Where have we seen functions?
