@@ -34,7 +34,7 @@ adding numbers that is modeled in Scratch. Finally, students start working on a
     - Scratch review
         - Game loop
         - if, if/else
-        - init
+        - initialization
 - What are variables?
     - Things that can change
     - Lots of math stuff in CS
