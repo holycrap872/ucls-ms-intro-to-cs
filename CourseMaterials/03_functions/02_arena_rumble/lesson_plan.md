@@ -14,6 +14,8 @@ partners throughout the previous lessons.
 
 ### Setup
 
+- `click_game.sb` Loaded up in Scratch
+    - https://scratch.mit.edu/projects/1141658181/
 - `arena_rumble_final.sb` loaded up in Scratch
     - https://scratch.mit.edu/projects/1134844443/editor/
 
@@ -25,18 +27,19 @@ partners throughout the previous lessons.
     - Getting user input
     - Game loop algorithm
     - Review fahrenheit -> celsius program
-- New game today! But first...
-    - How to handle collisions
-        - Both can't be sensing collision
-            - Why
-        - Limitation of Scratch
-            - More advanced CS classes explain how to do it
+- New game today! But first... PRIMM
+    - Game where sprite jumps to new area every time clicked on
+        - `click_game.sb`
+    - What do you think this does?
+    - Where could we add a variable?
 - Classic arena game
     - Two players
     - Show game and challenge someone
 - Show blocks going to need
-    - `pick random`
+    - `go to(random position)`
     - `timer`
+- Design the first three sprites as a class
+    - Don't do "chasing sprite" until later
 - Emphasize various check points
     - Start with first player sprite
     - Then do button sprite
