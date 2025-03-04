@@ -14,8 +14,6 @@ partners throughout the previous lessons.
 
 ### Setup
 
-- `escalating_scales.sb` scales Loaded in Scratch
-    - https://scratch.mit.edu/projects/1142193764/
 - `click_game.sb` Loaded up in Scratch
     - https://scratch.mit.edu/projects/1141658181/
 - `arena_rumble_final.sb` loaded up in Scratch
@@ -27,8 +25,6 @@ partners throughout the previous lessons.
     - Variables
         - read, set, change
     - Video games and variables
-    - Escalating scales
-        `scratch_demos/escalating_scales.sb`
 - Continue with Arena Rumble game, but first... PRIMM
     - Game where sprite jumps to new area every time clicked on
         - `scratch_demos/click_game.sb`
