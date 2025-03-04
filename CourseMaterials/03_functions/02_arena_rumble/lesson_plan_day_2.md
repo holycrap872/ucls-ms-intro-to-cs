@@ -14,6 +14,8 @@ partners throughout the previous lessons.
 
 ### Setup
 
+- `escalating_scales.sb` scales Loaded in Scratch
+    - https://scratch.mit.edu/projects/1142193764/
 - `click_game.sb` Loaded up in Scratch
     - https://scratch.mit.edu/projects/1141658181/
 - `arena_rumble_final.sb` loaded up in Scratch
@@ -24,22 +26,18 @@ partners throughout the previous lessons.
 - Review
     - Variables
         - read, set, change
-    - Getting user input
-    - Game loop algorithm
-    - Review fahrenheit -> celsius program
-- New game today! But first... PRIMM
+    - Video games and variables
+    - Escalating scales
+        `scratch_demos/escalating_scales.sb`
+- Continue with Arena Rumble game, but first... PRIMM
     - Game where sprite jumps to new area every time clicked on
-        - `click_game.sb`
+        - `scratch_demos/click_game.sb`
     - What do you think this does?
     - Where could we add a variable?
-- Classic arena game
+- Review Arena Rumble
     - Two players
     - Show game and challenge someone
-- Show blocks going to need
-    - `go to(random position)`
-    - `timer`
-- Design the first three sprites as a class
-    - Don't do "chasing sprite" until later
+- Design ALL the sprites as a class
 - Emphasize various check points
     - Start with first player sprite
     - Then do button sprite
