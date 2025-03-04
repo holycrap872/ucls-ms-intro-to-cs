@@ -7,8 +7,11 @@
 
 ### Setup
 
-- Preprogrammed scratch program that plays every instrument
-    - https://scratch.mit.edu/projects/1079717972/editor/
+- Scratch PRIMM programs
+    - Preprogrammed scratch program that plays every instrument
+        - https://scratch.mit.edu/projects/1079717972/editor/
+    - `escalating_scales.sb` scales Loaded in Scratch
+        - https://scratch.mit.edu/projects/1142193764/
 - `03_02_scratch_variables_input_worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
 - `03_04_scratch_recursion_worksheet` loaded into Schoology for advanced students
