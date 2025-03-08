@@ -9,7 +9,7 @@
 ### Setup
 
 - Scavenger hunt set up
-    - https://github.com/holycrap872/hp-learn-shell Docker image built and pushed
+    - https://github.com/eric-rizzi/hp-learn-shell Docker image built and pushed
     to computers
         - Enough docker images up and running
         ```
