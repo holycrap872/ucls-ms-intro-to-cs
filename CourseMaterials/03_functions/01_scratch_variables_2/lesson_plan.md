@@ -72,9 +72,9 @@
 > Note: This is mostly a stretch lesson if day 2 is a long-block
 
 - Review
-    - variables
-    - ask and wait
-    - why variables are powerful
+    - Variables
+    - `ask and wait`
+    - Why variables are powerful
 - PRIMM examples
     - Show a MadLib bit of code and ask if they know what it does
         - Talk through it
@@ -88,9 +88,9 @@
     - What is similar?
     - What is different?
     - You'll be well prepared!
-- Can before we get started, can some create a program that:
+- Before we get started, can someone create a program that:
     - Asks the user for two numbers and multiples them
-    - Doesn't require any help from my other the class
+    - Doesn't require any help from any other student in class
 - Finish worksheet
 
 #### Homework
