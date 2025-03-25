@@ -21,14 +21,14 @@
     - Variables
     - Why useful
     - Show someone's Arena Rumble game
-- PRIMM
-    - TODO
+    - Questions on the homework?
 - What is a function?
     - Input/output
 - Where have we seen functions?
     - Math
     - Robozzle
     - Race car game
+    - AI photo generation
 - Do an example together:
     - Length of time to cook turkey function
         - Input: pounds, stuffed or not

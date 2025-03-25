@@ -26,6 +26,8 @@ create flappy bird.
     - Variables
     - Functions
 - PRIMM a few function things
+    - Go to random x, y; leave a random colored dot
+    - Put on "Turbo Mode"
 - Race car game
     - Why did we use it
     - How did it work?
