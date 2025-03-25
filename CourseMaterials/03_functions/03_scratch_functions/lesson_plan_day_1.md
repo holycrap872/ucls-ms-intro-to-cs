@@ -21,9 +21,8 @@
     - Variables
     - Why useful
     - Show someone's Arena Rumble game
-- PRIMM on program that draws hexagons of increasing size
-    - Mess with it so it changes colors
-    - Mess with it to make it turn **111 degrees**
+- PRIMM
+    - TODO
 - What is a function?
     - Input/output
 - Where have we seen functions?

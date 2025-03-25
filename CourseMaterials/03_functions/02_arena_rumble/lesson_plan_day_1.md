@@ -24,7 +24,12 @@ partners throughout the previous lessons.
         - read, set, change
     - Getting user input
     - Game loop algorithm
+- PRIMM
     - Review fahrenheit -> celsius program
+- PRIMM
+    - Program that draws hexagons of increasing size
+    - Mess with it so it changes colors
+    - Mess with it to make it turn **111 degrees**
 - Classic arena game
     - Two players
     - Show game and challenge someone
