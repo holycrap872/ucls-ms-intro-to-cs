@@ -17,8 +17,6 @@
 - Decision Trees
     - Show example
     - Why is this useful?
-    - What is this like?
-        - 20 questions
 - Who's played Guess Who?
     - Have student explain it
     - Play mini-game of Guess Who
