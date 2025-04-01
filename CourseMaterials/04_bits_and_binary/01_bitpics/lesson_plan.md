@@ -60,7 +60,7 @@
     - Have student come up
     - Decode the following for me
         - Missing rows are:
-            - two 1's, one 0, seven 1's, one 0, one 1
+            - two 1's, nine 0's, one 1
             - three 1's, seven 0's, two 1's
 - Encode a 4x4 checkerboard as a class
 - Now going to make our own art
