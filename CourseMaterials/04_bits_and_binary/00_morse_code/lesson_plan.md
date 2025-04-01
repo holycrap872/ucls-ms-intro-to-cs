@@ -9,15 +9,15 @@
 
 - Morse Code cheat sheets printed out
     - `morse_code_cheat_sheet.docx`
-- `04_01_morse_code_worksheet` loaded into Schoology
+- `Morse Code Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/16BgMv3VFcVysdXP0dQPrWidaMj7GvRP4sBnFuQGp8gU
 - The Morse Code "flashers" that are in the CS office
     - From https://usgamesinc.com
-- Morse Code website loaded up
-    - https://morsecode.world/international/translator.html
 - YouTube videos loaded up:
     - https://www.youtube.com/watch?v=lJazkW8i--Q
     - https://www.youtube.com/watch?v=rufnWLVQcKg
+- Morse Code website loaded up
+    - https://morsecode.world/international/translator.html
 
 ### Lesson Plan
 
@@ -31,7 +31,7 @@
 - Now going to go lower on the abstraction tower (more details)
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
-        - vacuum tubs -> electricity -> light
+        - Vacuum tubes -> electricity -> light
     - Bits and Bytes
     - What types of data do computers represent?
         - Pictures, text, video, audio
@@ -73,7 +73,8 @@
     - https://morsecode.world/international/translator.html
     - "My friend’s bakery burned down last night. Now his business is" ... TOAST
     - "German sausage jokes are just about the:" ... WURST
-- Closing worksheet
+- Introduce homework
+    - Explain first problem
 
 #### Homework
 
