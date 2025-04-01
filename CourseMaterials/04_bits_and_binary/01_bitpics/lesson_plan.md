@@ -28,8 +28,8 @@
 - Reflection
     - How do computers store information?
     - What types of information do computers store?
-        - numbers, text, sound, pictures, video
-    - How does that become letters and numbers?
+        - Numbers, text, sound, pictures, video
+    - How do 1's and 0's become letters and numbers?
     - Morse code race
         - https://www.youtube.com/watch?v=pRuRE-Bwk1U
         - Listen for dots and dashes
@@ -37,6 +37,7 @@
     - Dial up internet
         - https://www.youtube.com/watch?v=gsNaR6FRuO0
         - How similar to Morse code?
+            - "You can almost hear the dots and dashes as the text of a webpages is downloaded"
 - Today going to talk about pictures
     - What do people know about how pictures are stored on a computer?
 - Only thing computers understand: 1's and 0's
@@ -44,12 +45,12 @@
     - Show in preview
     - Zoom in
     - Just a bunch of small rectangles stuck together
-    - Pixel: "Picture element"
+    - Pixel: "picture element"
 - Start easy
     - How represent black and white?
-        - 0 represent black (turn lights off)
-        - 1 represent white (turn lights on)
-- Teacup Picture
+        - 0 represents black (turn lights off)
+        - 1 represents white (turn lights on)
+- Teacup picture
     - Ask them if they can see what it is
     - First row would be encoded 1,1,1, ...
     - How would next row be encoded?
@@ -57,7 +58,7 @@
     - Missing row is encoded 1, seven 0's, 1, 1, 0, 1
 - House Picture
     - Have student come up
-    - decode the following for me
+    - Decode the following for me
         - Missing rows are:
             - two 1's, one 0, seven 1's, one 0, one 1
             - three 1's, seven 0's, two 1's
@@ -70,12 +71,16 @@
     - See if you came up with the right thing
 - After that, bring everyone back together
 - What did we learn?
+    - How could you use the Morse code flashers to send picture?
+- Common mistakes
+    - Negative images (mixing up 1 -> white and 0 -> black)
+    - Dropped bits
 - Pixels can be anything
     - What are some examples?
         - Legos
         - Paintball GPU
             - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
-- What is different between what we did and real pictures?
+- What is difference between what we did and real pictures?
 
 #### Homework
 
