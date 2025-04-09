@@ -92,11 +92,8 @@
 - If finish early
     - This example of why I like computers
         - Do something well once, can do it over and over
+        - Reference Grace Hopper from Syllabus
     - Feedback
         - Things liked
         - Things didn't like
         - Things that could be improved
-
-#### Resources
-
-- Look into "mud": CLI RPG

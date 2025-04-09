@@ -32,11 +32,14 @@ Tron. Then, students finish working on Tron.
 - When finished, have rotate so can play other people's games
     - Allow to play 2 or 3 other games
 - Reflection
-    - What was good about other people's games
-    - What could be improved
     - Important to accept feedback and improve
         - Helps find bugs
         - Helps improve products
+    - Formula for constructive feedback
+        - Acknowledge something good to show respect/care
+        - Make suggestion to be improved
+    - What was good about other people's games
+        - Go around having stick to constructive feedback model
 
 ### Homework
 
