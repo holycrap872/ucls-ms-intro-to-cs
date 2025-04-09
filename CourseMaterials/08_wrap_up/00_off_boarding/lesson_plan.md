@@ -12,12 +12,17 @@
 
 ### Actual Lesson
 
+- Review
+    - Parts of the computer
+    - Moore's law
+    - Petabytes of data!
+        - https://www.nytimes.com/2025/04/09/science/neuroscience-brain-mice-map.html
 - Reflection
     - All of the units we did
 - Goals of the class
     - Confidence
     - Debugging
-- It'd really like your honest feedback
+- I would really like your honest feedback
 - Hand out sheet
     - Once they notice that the goat question is the same hand out their intro questionnaires
 - Compare old and new drawings

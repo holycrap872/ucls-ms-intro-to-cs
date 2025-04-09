@@ -14,21 +14,21 @@
     - 1,000
     - 10,000
 3. Why is a fan necessary in a computer?
+    - The CPU has so much electricity running through it that it would otherwise melt.
     - The hard drive needs to feel very important otherwise it won't keep running.
-    - The CPU has so much electricity running through it that it would melt without a fan.
     - Memory needs fresh air to remember stuff properly.
     - The electricity of the 1's and 0's needs to circulate through the computer.
 4. The job of the motherboard in the computer is to:
+    - Allow all of the other pieces to communicate
     - Allow electricity to be stored in the form of 1's and 0's
     - Provide a place just for the CPU
-    - Allow all of the other pieces to communicate
     - Arrange the other pieces by height
 5. How many times bigger is 4Ghz than 500Khz
     - 18 times
     - 1,000 times
     - 8,000 times
     - 4,000,000 times
-6. Arrange the following from smallest to to largest.
+6. Arrange the following from smallest (top) to to largest (bottom).
     - 1 terabyte
     - 1 byte
     - 1 kilobyte

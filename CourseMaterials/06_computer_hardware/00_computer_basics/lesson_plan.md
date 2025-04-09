@@ -10,7 +10,7 @@
 - YouTube video loaded and ready to go
     - https://youtu.be/tc4ROCJYbm0?si=AJyQkRl749Gh5024&t=720
 - Computer parts: CPU, hard drive, memory
-- Schoology Assessment on abstraction posted
+- Schoology Assessment on computer parts posted
     - See `assessment.md`
 
 ### Actual Lesson
@@ -28,7 +28,7 @@
     - Navigate from home into MS lesson plans
     - Talk about how you can see stuff
         - List of all of the lessons we've done so far
-    - Why is my computer ordered this way (folder in folders?)
+    - Why is my computer ordered this way (folder in folders)?
         - Organization
 - History of OS
     - All computers come from "unix"
