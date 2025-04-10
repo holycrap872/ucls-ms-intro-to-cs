@@ -1,13 +1,13 @@
 ## Essential Questions
 
-- How did we do learning?
+- What did we learn?
+- What will we remember?
 - What are things we can anticipate in future CS classes?
 
 ## Lesson Plan
 
 ### Setup
 
-- Intro questionnaire from several months ago that they filled out
 - `exit_questionaire.docx` printed out
 
 ### Actual Lesson
@@ -19,10 +19,17 @@
         - https://www.nytimes.com/2025/04/09/science/neuroscience-brain-mice-map.html
 - Reflection
     - All of the units we did
+    - Tower of abstraction and where each part fits in
+    - Discuss Arthur C. Clarke quote
+        - "Sufficiently advanced technology is indistinguishable from magic"
+        - What does it mean?
+        - How does it relate to this class?
 - Goals of the class
     - Confidence
     - Debugging
 - I would really like your honest feedback
-- Hand out sheet
-    - Once they notice that the goat question is the same hand out their intro questionnaires
-- Compare old and new drawings
+    - Things you liked, things you didn't
+    - Way class has improved is previous students have given feedback
+    - Stress that as long as it's constructive, open to feedback
+- Hand out feedback questionnaire
+    - Give 15m to finish
