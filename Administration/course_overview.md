@@ -141,27 +141,3 @@
 #### Summative Assessments:
 
 - In-class projects
-
-## Unit 6 - The Power of Abstraction
-
-#### Objectives
-
-- Discuss how technology and magic can appear very similar to the uninitiated
-- Learn about the *Right to Repair* movement
-- Discuss the pros and cons of relying on abstraction
-
-#### Essential Questions
-
-- What is the difference between magic and technology?
-- Where do you gain power through abstraction?
-- Where do you lose power?
-- What are mistakes people make when they abstract away necessary details?
-
-
-#### Formative Assessments:
-
-- In-class group work
-
-#### Summative Assessments:
-
-- In-class essay
