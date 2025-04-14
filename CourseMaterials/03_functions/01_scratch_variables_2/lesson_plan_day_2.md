@@ -14,8 +14,9 @@
 - If coming back from long break
     - https://docs.google.com/document/d/1P1v-A37LMQxyRIuo7QWFtNspdkV085uA-aTQwqFVzyc
         - Similar problems as previous variable worksheet but assumes they forgot stuff
-- Schoology assessment on "scratch variables" posted
+- `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

@@ -78,7 +78,7 @@
 
 #### Homework
 
-- Finish `04_01_morse_code_worksheet`
+- Finish `Morse Code Worksheet`
 
 ### Extensions
 

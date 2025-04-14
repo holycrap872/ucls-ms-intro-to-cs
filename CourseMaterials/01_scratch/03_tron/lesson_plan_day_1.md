@@ -19,8 +19,9 @@ with minimal hints and then appreciate how engaging it can be.
 - Have `tron.sb3` loaded up with the code hidden
 - YouTube videos loaded up
     - https://youtu.be/hMT8tRrEMC4?t=84s
-- Schoology assessment on "game loop algorithm" posted
+- `Homework: The Game Loop Algorithm` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -62,4 +63,4 @@ with minimal hints and then appreciate how engaging it can be.
 
 ### Homework
 
-- Schoology assessment: `Homework: Parts of the Game Loop`
+- Schoology assessment: `Homework: The Game Loop Algorithm`

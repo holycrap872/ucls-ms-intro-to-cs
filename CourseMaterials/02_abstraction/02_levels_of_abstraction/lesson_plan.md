@@ -14,8 +14,9 @@
 - YouTube videos ready to go
     - Siphon effect: https://youtube.com/shorts/V510005jDug?si=j-XjEA3gdYGTvD5p
     - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
-- Schoology Assessment on abstraction posted
+- `Homework: Thinking with Abstraction` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

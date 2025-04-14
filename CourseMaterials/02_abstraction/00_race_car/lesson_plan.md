@@ -12,8 +12,9 @@
 - Schoology set up with short or long skeleton
     - long: https://scratch.mit.edu/projects/908713802/
     - short: https://scratch.mit.edu/projects/1092274221/
-- Schoology assessment on functions posted
+- `Homework: Scratch Functions` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

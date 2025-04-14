@@ -17,8 +17,9 @@ create flappy bird.
 - `racecar_game.sb` loaded up in Scratch
 - `flappy_bird.pdf` loaded up in Scratch
 - `flappy_bird_skeleton.sb` loaded up in Schoology
-- Schoology assessment on "scratch functions" posted
+- `Homework: Scratch Functions 2` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Lesson Plan
 

@@ -10,8 +10,9 @@
 - YouTube video loaded and ready to go
     - https://youtu.be/tc4ROCJYbm0?si=AJyQkRl749Gh5024&t=720
 - Computer parts: CPU, hard drive, memory
-- Schoology Assessment on computer parts posted
+- `Homework: Computer Basics` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

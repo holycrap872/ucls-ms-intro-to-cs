@@ -20,8 +20,9 @@
     - Morse code race: https://www.youtube.com/watch?v=pRuRE-Bwk1U
     - Dial up internet: https://www.youtube.com/watch?v=gsNaR6FRuO0
     - Paintball GPU: https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
-- Schoology assessment on BitPics posted
+- `Homework: Binary Information` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

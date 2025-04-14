@@ -16,8 +16,9 @@
     - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
 - `03_04_scratch_recursion_worksheet` loaded into Schoology for advanced students
     - https://docs.google.com/document/d/1VGcj9t_fHj2L0QG3CZi2lPPBK9K_qTAvZU6bS8G279M
-- Schoology assessment on "scratch variables" posted
+- `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
