@@ -1,9 +1,9 @@
-## EQ's
+## Essential Questions
 
 - What is a computer?
 - What is a programming language?
 
-## Lesson Plan:
+## Lesson Plan
 
 The lesson expands on what students think of as a computer. We start by talking
 about what makes a computer a computer. Then, students write a simple "program"
@@ -18,8 +18,9 @@ creating the program.
 - Supplies for drawing maze
     - Lot of pieces of paper
     - Ruler
-- Schoology assessment on "what's a computer" posted
+- `Homework: What's a Computer?` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 

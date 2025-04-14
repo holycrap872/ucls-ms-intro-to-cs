@@ -1,12 +1,10 @@
-Programming Introduction
-
-## EQ's
+## Essential Questions
 
 - What is programming?
 - Computers are stupid?
 - Why are conditionals needed?
 
-## Lesson Plan:
+## Lesson Plan
 
 The lesson requires a little prep (20m - 30m). It follows the basic pattern of
 explanation, activity, debrief. The one thing to note is that there are two

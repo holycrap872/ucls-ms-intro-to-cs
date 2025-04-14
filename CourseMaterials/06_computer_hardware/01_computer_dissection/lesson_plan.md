@@ -13,6 +13,8 @@
     - Screw drivers
     - Paper towels (!!!!) for thermal paste
 - Copies of `computer_dissection.docx` printed out
+    - Also at https://docs.google.com/document/d/1v7W61-teY7z-Q2m_IeTFA9WUbAYAlF-9lcSjzYS1se8
+    - TODO: Which one to use?
 
 ### Actual Lesson
 

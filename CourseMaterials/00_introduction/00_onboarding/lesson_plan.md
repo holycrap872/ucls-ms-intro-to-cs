@@ -7,7 +7,7 @@
 ## Lesson Plan
 
 Welcome to `MS Intro to CS`! In this class, I am intentionally boring in order
-to set the tone and figure out any "hot spots" in terms of distractions.
+to set the tone and figure out any "hot spots" in terms student dynamics.
 Basically, we read through the syllabus, talk a little about abstraction, do a
 class field trip, and fill out the questionnaire.
 
@@ -16,11 +16,12 @@ class field trip, and fill out the questionnaire.
 - 2x photo rosters printed out
     - One for attendance
     - One for "emergency book"
-- `onboarding_questionnaire` GoogleDoc printed out
+- `Onboarding Questionnaire` GoogleDoc printed out
     - https://docs.google.com/document/d/1jLx6iJktfbAsRTwGddn9544vgy5wNVRpV5TQ9ce3qrw
 - Logged into `console.aws.amazon.com`
-- Schoology assessment on "hello world!" posted
+- `Homework: Hello World!` Schoology assessment posted
     - See `assessment.md`
+    - Allowed to take assessment up to two times
 
 ### Actual Lesson
 
@@ -76,7 +77,7 @@ class field trip, and fill out the questionnaire.
     - Trip to office
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
-- Have fill out `onboarding_questionnaire`
+- Have fill out `Onboarding Questionnaire`
     - Hand out colored pencils
 - Time to leave
     - Once more, remember how to "leave well"
