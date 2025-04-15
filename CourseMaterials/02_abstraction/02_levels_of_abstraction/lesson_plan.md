@@ -81,7 +81,7 @@
 
 - Schoology assessment: `Homework: Thinking with Abstraction`
 
-### Possible extension
+### Possible Extensions
 
 - For next class: How is this like being a good leader/project?
     - Leader thinks about high-level tasks. Workers think about how those get accomplished.
