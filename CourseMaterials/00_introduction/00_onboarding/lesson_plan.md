@@ -23,6 +23,14 @@ class field trip, and fill out the questionnaire.
     - See `assessment.md`
     - Allowed to take assessment up to two times
 
+### Pacing
+
+- Intro and About Me (10m)
+- Talk through Syllabus (10m)
+- Course Overview (5m)
+- Discipline Ladder + Field Trip (5m)
+- Questionnaire (10m)
+
 ### Actual Lesson
 
 - Introduction
@@ -67,7 +75,7 @@ class field trip, and fill out the questionnaire.
         - Raise hand before speaking
         - Don't touch anyone else
         - No unapproved video games
-    - Have everyone sign/big nod to agree
+    - Have everyone do a big nod to agree
 - Discipline ladder
     - Name on board
     - Name underlined on board
@@ -77,6 +85,8 @@ class field trip, and fill out the questionnaire.
     - Trip to office
 - Field trip to CS office
     - Practice pushing in chairs and cleaning up before leaving
+    - Show them where office is
+    - Come find me if have any questions
 - Have fill out `Onboarding Questionnaire`
     - Hand out colored pencils
 - Time to leave
