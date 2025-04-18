@@ -48,7 +48,7 @@ tradeoffs inherent in the decision to utilize automation.
 - Have the ability to translate ideas to a computer.
 - Represent and interpret data in a meaningful way.
 
-## Required Tests and Materials
+## Required Texts and Materials
 
 No texts are required. All instructional materials will be posted on Schoology.
 
