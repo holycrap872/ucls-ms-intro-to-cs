@@ -13,6 +13,7 @@ creating the program.
 ### Setup
 
 - Seating chart created
+    - Make sure to be to class ~5m early so students can see it as come in
 - YouTube videos loaded
     - https://youtu.be/ZMQbHMgK2rw?si=1cjkXvxg_cjumHzg
 - Supplies for drawing maze
@@ -21,6 +22,12 @@ creating the program.
 - `Homework: What's a Computer?` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
+
+### Pacing
+
+- Reflection (5m)
+- What's a Computer (10m)
+- Maze Activity (25m)
 
 ### Actual Lesson
 
