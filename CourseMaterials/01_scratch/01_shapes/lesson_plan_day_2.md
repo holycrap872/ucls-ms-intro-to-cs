@@ -12,6 +12,8 @@
 - `Homework: Scratch Loops` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
+    - **Note**: One question has to do with parallel algorithms
+        - Remove if haven't do that activity yet
 
 ### Actual Lesson
 
