@@ -1,15 +1,24 @@
 #!/usr/bin/env python3
 import argparse
+import sys
 import time
 import typing
 
-from playwright.sync_api import Browser, sync_playwright
-
-"""
-Installing playwright:
-1. pip3 install playwright
-2. python3 -m playwright install
-"""
+try:
+    from playwright.sync_api import Browser, sync_playwright
+except ImportError:
+    # --- Handle missing Playwright library ---
+    print("-" * 70)
+    print("ERROR: The 'playwright' library is not installed in your Python environment.")
+    print("       This script requires Playwright to automate browser interactions.")
+    print("\nTo install it, run the following command in your terminal:")
+    print("    python3 -m pip install playwright")
+    print("\nAfter installing the library, you also need to download the necessary browser binaries.")
+    print("Run this command:")
+    print("    python3 -m playwright install")
+    print("\nOnce both commands complete successfully, try running this script again.")
+    print("-" * 70)
+    sys.exit(1)  # Exit the script because it cannot continue
 
 
 class LoginInfo(typing.NamedTuple):

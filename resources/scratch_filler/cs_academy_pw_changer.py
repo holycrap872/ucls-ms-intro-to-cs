@@ -1,14 +1,30 @@
 #!/usr/bin/env python3
 import argparse
+import sys
 import time
 import typing
-from playwright.sync_api import Playwright, sync_playwright, expect
 
 """
 Installing playwright:
 1. pip3 install playwright
 2. python3 -m playwright install
 """
+
+try:
+    from playwright.sync_api import Browser, sync_playwright
+except ImportError:
+    # --- Handle missing Playwright library ---
+    print("-" * 70)
+    print("ERROR: The 'playwright' library is not installed in your Python environment.")
+    print("       This script requires Playwright to automate browser interactions.")
+    print("\nTo install it, run the following command in your terminal:")
+    print("    python3 -m pip install playwright")
+    print("\nAfter installing the library, you also need to download the necessary browser binaries.")
+    print("Run this command:")
+    print("    python3 -m playwright install")
+    print("\nOnce both commands complete successfully, try running this script again.")
+    print("-" * 70)
+    sys.exit(1)  # Exit the script because it cannot continue
 
 
 class LoginInfo(typing.NamedTuple):
@@ -23,33 +39,38 @@ class LoginInfo(typing.NamedTuple):
 # so the students can "get right to it".
 
 
-def fill_in_form(playwright: Playwright, name: str, old_password: str, new_password: str) -> None:
-    browser = playwright.chromium.launch(headless=False)
+def fill_in_form(browser: Browser, name: str, old_password: str, new_password: str) -> None:
     context = browser.new_context()
-    page = context.new_page()
-    page.goto("https://academy.cs.cmu.edu/")
-    page.get_by_role("link", name="Login").click()
-    page.get_by_placeholder("Username").fill(name)
-    page.get_by_placeholder("Username").press("Tab")
-    page.get_by_placeholder("Password").fill(old_password)
-    page.get_by_role("button", name="Log in").click()
-    time.sleep(1)
-    page.locator("button").filter(has_text="Agree").get_by_role("button").click()
-    time.sleep(1)
-    page.get_by_role("button", name="your avatar").click()
-    page.get_by_role("menuitem", name="Change Password").click()
-    page.get_by_label("Old Password").click()
-    page.get_by_label("Old Password").fill(old_password)
-    page.get_by_label("New Password", exact=True).click()
-    page.get_by_label("New Password", exact=True).fill(new_password)
-    page.get_by_label("Confirm New Password").click()
-    page.get_by_label("Confirm New Password").fill(new_password)
-    page.get_by_role("button", name="Update").click()
+    try:
+        page = context.new_page()
+        page.goto("https://academy.cs.cmu.edu/")
+        page.get_by_role("link", name="Login").click()
+        page.get_by_placeholder("Username").fill(name)
+        page.get_by_placeholder("Username").press("Tab")
+        page.get_by_placeholder("Password").fill(old_password)
+        page.get_by_role("button", name="Log in").click()
+        time.sleep(1)
+        page.locator("button").filter(has_text="Agree").get_by_role("button").click()
+        time.sleep(1)
+        page.get_by_role("button", name="your avatar").click()
+        page.get_by_role("menuitem", name="Change Password").click()
+        page.get_by_label("Old Password").click()
+        page.get_by_label("Old Password").fill(old_password)
+        page.get_by_label("New Password", exact=True).click()
+        page.get_by_label("New Password", exact=True).fill(new_password)
+        page.get_by_label("Confirm New Password").click()
+        page.get_by_label("Confirm New Password").fill(new_password)
+        page.get_by_role("button", name="Update").click()
 
-    time.sleep(5)
-    # ---------------------
-    context.close()
-    browser.close()
+        time.sleep(5)
+    finally:
+        context.close()
+
+
+def handle_students(browser: Browser, login_infos: list[LoginInfo]) -> None:
+    for count, login_info in enumerate(login_infos):
+        print(f"Processing student {count}: {login_info}")
+        fill_in_form(browser, login_info.username, login_info.old_password, login_info.new_password)
 
 
 def cs_academy_pw_changer(csv_path: str) -> None:
@@ -67,9 +88,11 @@ def cs_academy_pw_changer(csv_path: str) -> None:
             login_infos.append(LoginInfo(username=s[0], old_password=s[1], new_password=s[2]))
 
     with sync_playwright() as playwright:
-        for count, login_info in enumerate(login_infos):
-            print(count, login_info)
-            fill_in_form(playwright, login_info.username, login_info.old_password, login_info.new_password)
+        try:
+            browser = playwright.chromium.launch(headless=False)
+            handle_students(browser, login_infos)
+        finally:
+            browser.close()
 
 
 if __name__ == "__main__":
