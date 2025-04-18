@@ -2,7 +2,8 @@
 import argparse
 import time
 import typing
-from playwright.sync_api import Playwright, sync_playwright, expect
+
+from playwright.sync_api import Browser, sync_playwright
 
 """
 Installing playwright:
@@ -22,42 +23,44 @@ class LoginInfo(typing.NamedTuple):
 # so the students can "get right to it".
 
 
-def fill_in_form(playwright: Playwright, name: str, password: str) -> None:
-    browser = playwright.chromium.launch(headless=False)
+def fill_in_form(browser: Browser, name: str, password: str) -> None:
     context = browser.new_context()
-    page = context.new_page()
-    page.goto("https://scratch.mit.edu/")
-    page.get_by_role("link", name="Sign in").click()
-    page.locator("#frc-username-1088").click()
-    time.sleep(1)
-    page.locator("#frc-username-1088").fill(name)
-    page.locator("#frc-password-1088").click()
-    page.locator("#frc-password-1088").fill(password)
-    time.sleep(1)  # This is needed otherwise "Sign in" doesn't think stuff is populated
-    page.get_by_role("button", name="Sign in").click()
-    time.sleep(1)
-    page.get_by_role("button", name="Get Started").click()
-    time.sleep(1)
-    page.get_by_label("Birth Year *").select_option("2014")
-    page.get_by_label("", exact=True).first.check()
-    page.locator("[id=\"frc-user\\.genderOther-1088\"]").click()
-    page.locator("[id=\"frc-user\\.genderOther-1088\"]").fill("N/A")
-    page.get_by_label("Country *").select_option("United States of America")
-    time.sleep(2)
-    page.get_by_role("button", name="Next Step").click()
-    time.sleep(2)
-    page.get_by_role("button", name="Go to Class").click()
-    time.sleep(2)
+    try:
+        page = context.new_page()
+        page.goto("https://scratch.mit.edu/")
+        page.get_by_role("link", name="Sign in").click()
+        page.locator("#frc-username-1088").click()
+        time.sleep(1)
+        page.locator("#frc-username-1088").fill(name)
+        page.locator("#frc-password-1088").click()
+        page.locator("#frc-password-1088").fill(password)
+        time.sleep(1)  # This is needed otherwise "Sign in" doesn't think stuff is populated
+        page.get_by_role("button", name="Sign in").click()
+        time.sleep(1)
+        page.get_by_role("button", name="Get Started").click()
+        time.sleep(1)
+        page.get_by_label("Birth Year *").select_option("2014")
+        page.get_by_label("", exact=True).first.check()
+        page.locator('[id="frc-user\\.genderOther-1088"]').click()
+        page.locator('[id="frc-user\\.genderOther-1088"]').fill("N/A")
+        page.get_by_label("Country *").select_option("United States of America")
+        time.sleep(2)
+        page.get_by_role("button", name="Next Step").click()
+        time.sleep(2)
+        page.get_by_role("button", name="Go to Class").click()
+        time.sleep(2)
+    finally:
+        context.close()
 
-    # ---------------------
-    context.close()
-    browser.close()
 
+def handle_students(browser: Browser, login_infos: list[LoginInfo]) -> None:
+    for count, login_info in enumerate(login_infos):
+        print(f"Processing student {count}: {login_info}")
+        fill_in_form(browser, login_info.username, login_info.password)
 
 
 def scratch_initial_info_filler(csv_path: str) -> None:
-
-    login_infos = []
+    login_infos: list[LoginInfo] = []
     with open(csv_path, "r") as csv_fp:
         for line in csv_fp:
             line = line.strip()
@@ -70,9 +73,11 @@ def scratch_initial_info_filler(csv_path: str) -> None:
             login_infos.append(LoginInfo(username=s[0], password=s[1]))
 
     with sync_playwright() as playwright:
-        for count, login_info in enumerate(login_infos):
-            print(count, login_info)
-            fill_in_form(playwright, login_info.username, login_info.password)
+        try:
+            browser = playwright.chromium.launch(headless=False)
+            handle_students(browser, login_infos)
+        finally:
+            browser.close()
 
 
 if __name__ == "__main__":
