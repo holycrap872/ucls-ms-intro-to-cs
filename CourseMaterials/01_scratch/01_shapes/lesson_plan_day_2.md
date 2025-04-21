@@ -6,8 +6,6 @@
 
 ### Setup
 
-- YouTube video loaded up and ready to go
-    - Flipbook video: https://www.youtube.com/shorts/5d_Fz9HEwr0
 - Have PRIMM triangle with squares at edges example up and ready to run in Scratch
 - `Homework: Scratch Loops` Schoology assessment posted
     - See `assessment.md`
@@ -15,14 +13,18 @@
     - **Note**: One question has to do with parallel algorithms
         - Remove if haven't do that activity yet
 
+### Pacing
+
+- Review (5m)
+- PRIMM (5m)
+- Pair Programming Theater (5m)
+- Worksheet (25m)
+
 ### Actual Lesson
 
 - Review
-    - Frame rate
-        - https://www.youtube.com/shorts/5d_Fz9HEwr0
     - Loops
     - Initialization
-    - Pair programming
 - PRIMM
     - Show code that makes a square and have them guess what it does
     - Show code that makes a square at the edge of every triangle and have them guess what it does
@@ -34,6 +36,10 @@
     - Fiddle with it to make it cool
         - Add `change color by`
         - Add whole things inside a loop that does the original shape and rotates slightly
+- Pair Programming Theater
+    - What I noticed last class
+    - Act out a bad pair programming team
+    - Act out a good pair programming team
 - Continue with `Shapes Worksheet`
 - End with reflection
     - Why loops?

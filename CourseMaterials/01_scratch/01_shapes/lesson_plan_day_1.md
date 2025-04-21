@@ -6,9 +6,14 @@
 
 ### Setup
 
-- Have one student's maze from a previous example selected as an example.
 - `00_scratch_loops_worksheet` loaded into Schoology and ready to go
     - https://docs.google.com/document/d/1QJ3Ye5Kob1owHJ9wxTG5fqtDNp6qh0nCd-ofXPj5gpg
+
+### Pacing
+
+- Review (10m)
+- Loops (10m)
+- Worksheet (20m)
 
 ### Actual Lesson
 
@@ -26,18 +31,18 @@
             - Breathing
             - Going to school
     - PRIMM of square code
+        - Show in slide show
+            - Have them guess what it does
         - Build it from **nothing** on my computer
             - Good refresher of all the blocks
     - Do some examples together
-        - Stress initialization
         - Triangle
+            - See if someone in class can do it without any help
             - Internal vs. external angle
         - Circle
+        - Stress initialization
 - Going to work in pairs
     - Explain expectations of navigator and driver
-    - Pair programming theater
-        - Act out a bad pair programming team
-        - Act out a good pair programming team
     - Every time finish problem, switch
 - Worksheet on Schoology
     - Talk through worksheet
