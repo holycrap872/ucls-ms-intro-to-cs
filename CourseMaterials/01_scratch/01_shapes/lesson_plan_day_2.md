@@ -11,7 +11,7 @@
     - See `assessment.md`
     - Allowed to take assessment up to two times
     - **Note**: One question has to do with parallel algorithms
-        - Remove if haven't do that activity yet
+        - Remove if haven't done that activity yet
 
 ### Pacing
 
@@ -37,6 +37,7 @@
         - Add `change color by`
         - Add whole things inside a loop that does the original shape and rotates slightly
 - Pair Programming Theater
+    - Purpose of pair programming
     - What I noticed last class
     - Act out a bad pair programming team
     - Act out a good pair programming team

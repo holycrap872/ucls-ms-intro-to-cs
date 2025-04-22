@@ -10,11 +10,14 @@
 
 - `maze_final.sb3` loaded up for demonstration's purposes
 - Maze worksheet published in Schoology
+    - `user_maze.docx`
+
+### Pacing
+
 
 ### Actual Lesson
 
 - Reflection:
-    - What did we talk about last lesson?
     - What is a loop?
         - Why are loops useful?
     - Do a shape together
