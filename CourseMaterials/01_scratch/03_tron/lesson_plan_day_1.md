@@ -18,7 +18,7 @@ with minimal hints and then appreciate how engaging it can be.
 - Have `drawing_game_skeleton.sb3` loaded up with the code hidden
 - Have `tron.sb3` loaded up with the code hidden
 - YouTube videos loaded up
-    - https://youtu.be/hMT8tRrEMC4?t=84s
+    - Tron: https://youtu.be/hMT8tRrEMC4?t=84s
 - `Homework: The Game Loop Algorithm` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
@@ -42,7 +42,8 @@ with minimal hints and then appreciate how engaging it can be.
     - Once solve: turn it into four sprite drawing game by altering x, y multipliers
         - 4x reflection over the axes
 - Today going to do another video game
-    - https://youtu.be/hMT8tRrEMC4?t=84s
+    - Show Tron trailer
+        - https://youtu.be/hMT8tRrEMC4?t=84s
     - Show my version of Tron game
     - Play against volunteer as an example
 - Talk about similarities/differences between previous game
