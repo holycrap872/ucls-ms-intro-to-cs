@@ -9,6 +9,7 @@
 ### Setup
 
 - `maze_final.sb3` loaded up for demonstration's purposes
+    - https://scratch.mit.edu/projects/1068455229/editor/
 - Maze worksheet published in Schoology
     - `user_maze.docx`
 
@@ -17,7 +18,8 @@
 - Review (7m)
 - Conditionals (8m)
 - Game Loop + Move Cat (10m)
-- Maze Game (15m)
+- Maze Game (30m)
+    - If not long block, will likely need to give them time next class
 
 ### Actual Lesson
 
@@ -50,6 +52,7 @@
         - Space bar makes it move forward
 - Maze game
     - Show game that I made
+        - https://scratch.mit.edu/projects/1068455229/editor/
         - Show `touching color` block
     - Come up with steps to work on together:
         - Delete old "deterministic" maze code
@@ -74,7 +77,7 @@
 
 - None
 
-### Resources
+### Possible Extensions
 
 - Robozzle-like block-based puzzles
     - https://studio.code.org/s/express-2023/lessons/15/levels/3
