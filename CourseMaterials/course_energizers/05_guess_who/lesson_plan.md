@@ -41,11 +41,12 @@
     - Easy to capture search for an answer
     - Joke: Everyone could be as good as person who didn't lose by just copying their decision tree
 
-#### Possible Extension
+#### Possible Extensions
 
-- Guess Who is very hot right now
-- Popular because of subjective Guess Who?
-    - https://www.youtube.com/watch?v=vl4dQrGaOcU
-        - 0:00 - 1:30
-- Play one game just for fun
-    - School appropriate questions!!!
+- Subjective Guess Who
+    - Guess Who is very hot right now
+    - Popular because of Subjective Guess Who?
+        - https://www.youtube.com/watch?v=vl4dQrGaOcU
+            - 0:00 - 1:30
+    - Play one game just for fun
+        - School appropriate questions!!!
