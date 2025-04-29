@@ -38,6 +38,8 @@ Tron. Then, students finish working on Tron.
     - Get started again
 - When finished, have rotate so can play other people's games
     - Allow to play 2 or 3 other games
+    - Play for one minute
+    - Look at code for 30 seconds to see if anything **specific** could be improved
 - Reflection
     - Important to accept feedback and improve
         - Helps find bugs
