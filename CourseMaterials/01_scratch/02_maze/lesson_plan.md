@@ -40,7 +40,8 @@
 - Today going to do first video game
     - How does the game loop work:
         - Initialization
-        - User input
+        - Get user input
+        - Move non-player characters
         - Collision
     - Frame rate
 - Basic Exercises
