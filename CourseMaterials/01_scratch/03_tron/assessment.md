@@ -1,7 +1,7 @@
 0. Which of the following are parts of the "game loop" algorithm (select **four**)?
     - Initialization
     - Get user input
-    - Move characters
+    - Move non-player characters
     - Check for collisions
     - Exit game
     - Evaluate answers

@@ -12,6 +12,13 @@ Tron. Then, students finish working on Tron.
 ### Setup
 
 - Have `tron.sb3` loaded up with the code hidden
+    - https://scratch.mit.edu/projects/930950492/
+
+### Pacing
+
+- Review (12m)
+- Tron Group Work (20m)
+- Constructive Feedback (8m)
 
 ### Actual Lesson
 
@@ -24,7 +31,7 @@ Tron. Then, students finish working on Tron.
     - How different
     - Ask for a volunteer so can look at their code
         - Don't use same person as previous day
-        - Talk about GameLoop
+        - Talk about the Game Loop Algorithm
         - Talk about pieces that relate to Tron
 - Review Tron
     - Play one more time against a student
