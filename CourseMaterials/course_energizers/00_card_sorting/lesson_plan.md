@@ -17,6 +17,13 @@ Length of lesson: 20-30 minutes.
     - https://www.youtube.com/watch?v=BeoCbJPuvSE
 - Screenshot of `code.py`
 
+### Pacing
+
+- Why Sorting? (3m)
+- Explain Game (3m)
+- Sorting Race (15m)
+- Debrief (5m)
+
 ### Actual Lesson
 
 - Provide grounding
