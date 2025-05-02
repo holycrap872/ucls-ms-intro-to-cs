@@ -15,6 +15,8 @@ there's a good discussion/reflection).
 
 - Get everyone in class access to firefly.adobe.com
     - Ask IT
+- YouTube video loaded up
+    - https://www.instagram.com/reel/DJB38xDOknd/
 - Article to seed conversation (TODO)
 
 ### Actual Lesson
@@ -56,3 +58,6 @@ there's a good discussion/reflection).
     - One picture per kid
         - Slowly give out hints if they're struggling
             - e.g., "very famous southwestern artist"
+- Morphing ChatGPT Pictures
+    - Basically "telephone" via pictures
+    - https://www.instagram.com/reel/DJB38xDOknd/
