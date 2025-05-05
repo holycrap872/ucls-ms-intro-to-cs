@@ -10,8 +10,8 @@
 - `racer_final.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/935636797/
 - Have race car skeleton loaded into Schoology
-    - Long block: https://scratch.mit.edu/projects/908713802/
     - Short block: https://scratch.mit.edu/projects/1092274221/
+    - Long block: https://scratch.mit.edu/projects/908713802/
     - Students will "remix" it
 - `Homework: Scratch Functions` Schoology assessment posted
     - See `assessment.md`
@@ -46,8 +46,8 @@
             - Why like a function?
                 - Magic on the insides
     - What are other things we use that are like this?
+        - Toaster
         - Phone
-        - Refrigerator
     - Show some scratch blocks (move, say, addition)
         - Why like a function?
         - How many inputs?
