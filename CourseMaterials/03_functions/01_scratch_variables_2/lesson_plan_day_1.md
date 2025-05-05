@@ -12,9 +12,9 @@
         - https://scratch.mit.edu/projects/1079717972/editor/
     - `escalating_scales.sb` scales Loaded in Scratch
         - https://scratch.mit.edu/projects/1142193764/
-- `03_02_scratch_variables_input_worksheet` loaded into Schoology
+- `Variables Input Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
-- `03_04_scratch_recursion_worksheet` loaded into Schoology for advanced students
+- `Recursion Worksheet` loaded into Schoology for advanced students
     - https://docs.google.com/document/d/1VGcj9t_fHj2L0QG3CZi2lPPBK9K_qTAvZU6bS8G279M
 - `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`

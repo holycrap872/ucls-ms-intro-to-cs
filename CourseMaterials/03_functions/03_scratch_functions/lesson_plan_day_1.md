@@ -8,7 +8,7 @@
 
 ### Setup
 
-- `03_03_scratch_functions_worksheet` loaded into Schoology
+- `Functions Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/14DGE2J2VyYLiN56obziLHPD10CooBt-Mu0_r10rxeCg
 - "Hexagon program" loaded up and ready to go
     - https://scratch.mit.edu/projects/1079719228

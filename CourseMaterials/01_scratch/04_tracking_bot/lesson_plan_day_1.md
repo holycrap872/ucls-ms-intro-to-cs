@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Have `tracking_bot_final.sb3` open and code hidden
+- Have `tracking_bot_final.sb3` loaded up with the code hidden
     - https://scratch.mit.edu/projects/932644043
 - Have `tracking_bot_skeleton.sb3` loaded into Schoology
     - https://scratch.mit.edu/projects/896826066

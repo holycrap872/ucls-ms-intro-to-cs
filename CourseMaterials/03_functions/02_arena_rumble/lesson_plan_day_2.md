@@ -14,9 +14,9 @@ partners throughout the previous lessons.
 
 ### Setup
 
-- `click_game.sb` Loaded up in Scratch
+- `click_game.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/1141658181/
-- `arena_rumble_final.sb` loaded up in Scratch
+- `arena_rumble_final.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/1134844443/editor/
 
 ### Actual Lesson

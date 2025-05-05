@@ -14,9 +14,12 @@ create flappy bird.
 
 ### Setup
 
-- `racecar_game.sb` loaded up in Scratch
-- `flappy_bird.pdf` loaded up in Scratch
+- `recer_final_functions.sb` loaded up with the code hidden
+    - https://scratch.mit.edu/projects/935636797/
+- `flappy_bird_final.sb3` loaded up with the code hidden
+    - https://scratch.mit.edu/projects/982774232/
 - `flappy_bird_skeleton.sb` loaded up in Schoology
+    - https://scratch.mit.edu/projects/982786657/
 - `Homework: Scratch Functions 2` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times

@@ -14,7 +14,7 @@ partners throughout the previous lessons.
 
 ### Setup
 
-- `arena_rumble_final.sb` loaded up in Scratch
+- `arena_rumble_final.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/1134844443/editor/
 
 ### Actual Lesson

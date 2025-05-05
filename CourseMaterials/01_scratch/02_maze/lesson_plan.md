@@ -8,7 +8,7 @@
 
 ### Setup
 
-- `maze_final.sb3` loaded up for demonstration's purposes
+- `maze_final.sb3` loaded up with the code hidden
     - https://scratch.mit.edu/projects/1068455229/editor/
 - Maze worksheet published in Schoology
     - `user_maze.docx`

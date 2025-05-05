@@ -7,7 +7,7 @@
 
 ### Setup
 
-- Ready to play `racer_final.sb`
+- `racer_final.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/935636797/
 - Have race car skeleton loaded into Schoology
     - Long block: https://scratch.mit.edu/projects/908713802/
