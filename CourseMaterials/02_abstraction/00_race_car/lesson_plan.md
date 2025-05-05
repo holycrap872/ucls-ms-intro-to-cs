@@ -9,12 +9,20 @@
 
 - Ready to play `racer_final.sb`
     - https://scratch.mit.edu/projects/935636797/
-- Schoology set up with short or long skeleton
-    - long: https://scratch.mit.edu/projects/908713802/
-    - short: https://scratch.mit.edu/projects/1092274221/
+- Have race car skeleton loaded into Schoology
+    - Long block: https://scratch.mit.edu/projects/908713802/
+    - Short block: https://scratch.mit.edu/projects/1092274221/
+    - Students will "remix" it
 - `Homework: Scratch Functions` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
+
+### Pacing
+
+- Review (7m)
+- Math vs. CS Functions (10m)
+- Race Car Setup (5m)
+- Race Car Individual Work (18)
 
 ### Actual Lesson
 
@@ -24,7 +32,7 @@
     - Line following algorithm
     - Play someone's Tracking Bot game
 - What are functions?
-    - Input/Output
+    - Input -> Output
         - f(x) example
     - CS's function are very similar in concept to math's
 - Why functions
@@ -34,7 +42,7 @@
             - How many inputs?
                 - 3: money, button 1, button 2
             - How many outputs?
-                - 1: Crispy bacon
+                - 1: crispy bacon
             - Why like a function?
                 - Magic on the insides
     - What are other things we use that are like this?
@@ -56,11 +64,6 @@
         - e.g., Put green flag to the left of the existing stuff
         - Prepares for future lessons where high-level on left details on right
 - Go!
-- Extensions
-    - Second racer
-    - Switch to "muddy costume" when in green
-    - Ask at the beginning how big an engine the user wants
-    - Lap count
 
 #### Homework
 
