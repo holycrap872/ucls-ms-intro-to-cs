@@ -10,6 +10,14 @@
 - Bunch of paper cut in half
 - Bunch of markers/colored pencils
 
+### Pacing
+
+- Review (5m)
+- Abstraction Lecture (5m)
+- Abstract Art Lecture (5m)
+- Abstract Art Activity (20m)
+- Debrief (5m)
+
 ### Actual Lesson
 
 - Reflect
@@ -31,7 +39,7 @@
         - One direction was abstract art
             - Painters tried to capture the essence of an idea
             - Let everything else fall away
-- Image Showcase: show progression of images that go from realistic to very abstract
+- Image showcase: show progression of images that go from realistic to very abstract
     - Abstract portraits
         - Self-Portrait with a Harp by Rose-Adélaïde Ducreux
         - Lydia Leaning on Her Arms by Mary Cassatt
@@ -44,7 +52,7 @@
         - Mountains at Collioure by Andre Derain
         - Lake George Reflection by Georgia O’Keefe
         - Night Sea by Agnes Martin
-    - Still Life
+    - Still life
         - Still Life with Fruits in Porcelain by Jacob Van Es
         - Still Life with Skull by Paul Cezanne
         - Rendered Impressions by Catherine J. Martzloff
@@ -74,6 +82,6 @@
     - Have students leave them if they'd like me to hang them up
     - Put away pencils
 
-## Resources
+### Resources
 
 - https://www.youtube.com/watch?v=JnfrWTzxFbs
