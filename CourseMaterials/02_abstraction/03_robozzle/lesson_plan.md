@@ -32,7 +32,7 @@
 - Today going to play some logic puzzles
     - Show Robozzle and explain how the program works
         - **Just like scratch**
-            - Mn -> "when green flag clicked"
+            - `Mn` -> "when green flag clicked"
             - Program runs block 
     - Walk through two levels
         - https://alexanderson1993.github.io/robozzle-react/?level=-1
@@ -40,8 +40,8 @@
             - Explain how interface works
             - Make sure to explain have to click through "intro" code
         - https://alexanderson1993.github.io/robozzle-react/?level=-2
-            - Explain how Mn runs first
-            - Can call F1 from Mn
+            - Explain how `Mn` runs first
+            - Can call `F1` from `Mn`
             - How is this like functions?
 - Explain process
     - Go down sheet puzzle by puzzle
@@ -54,13 +54,14 @@
         - Repeat patterns
         - Programming is like origami: folding!
     - Explain a level as if it was an "abstraction tree chart"
-        - Mn is "high level"
-        - F1 is "broken out" lower level details
-        - What's a better name for F1?
+        - `Mn` is "high level"
+        - `F1` is "broken out" lower level details
+        - What's a better name for `F1`?
 
 ### Homework
 
-- None
+- Finish up to `Loops/Recursion` for a 95
+    - One bonus point for each level after that
 
 ### Possible Extensions
 
