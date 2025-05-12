@@ -14,10 +14,20 @@ adding numbers that is modeled in Scratch. Finally, students start working on a
 
 ### Setup
 
+- Headphones
+    - Last seen in a box in C224
 - `Variables Music Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1osWJ4-gcEh9dyIKa-A2U5FLPZoC5V5XDkvYmPy8KBM8
 - Review examples will be making/using in class:
     - https://scratch.mit.edu/projects/945191863/editor/
+
+### Pacing
+
+- Review (5m)
+- Human Variables (5m)
+- Scratch Variables (5m)
+- Tempo Changed (5m)
+- Music Worksheet (20m)
 
 ### Actual Lesson
 
@@ -40,17 +50,17 @@ adding numbers that is modeled in Scratch. Finally, students start working on a
     - Lots of math stuff in CS
 - Human example
     - Variables can basically do three things
-        - set, change, read
+        - Set, change, read
     - Demonstrate all of them using people
-        - Call up Matt and Nick
-        - Matt remember 3, Nick remember 5, Matt + Nick
+        - Call up Abby and Nick
+        - Abby remember 3, Nick remember 5, Abby + Nick
 - Why are variables useful?
     - Allow more general programs
     - Don't have to write program that multiplies every possible number together
     - Instead, just one where plug in variables
 - Show variables in Scratch
     - Make own
-        - Name them `Nick` and `Matt` or whatever participants names were
+        - Name them `Abby` and `Nick` or whatever participants names were
         - Replicate actions from in human example
         - See `AddVariables` in https://scratch.mit.edu/projects/945191863/editor/
             - See `variables_1_example.sb3` if link is down
@@ -69,9 +79,9 @@ adding numbers that is modeled in Scratch. Finally, students start working on a
 - Direct to worksheet in Schoology
     - Give 3m to read through it then summarize as class
     - Stress importance of headphones
-    - Go!
-        - For 40m block, they should get through the first two sections
+- Go!
+    - For 40m block, they should get through the first two sections
 
 ### Homework
 
-- None
+- Finish up to and including Problem 2 of worksheet
