@@ -12,11 +12,20 @@
     - Pencils/markers
     - Rulers
 - YouTube videos ready to go
-    - Siphon effect: https://youtube.com/shorts/V510005jDug?si=j-XjEA3gdYGTvD5p
+    - Siphon effect: https://www.youtube.com/shorts/gcBnwFCrb5o
     - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
 - `Homework: Thinking with Abstraction` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
+
+### Pacing
+
+- Review (7m)
+- Bake a Cake (5m)
+- Get to Bathroom (8m)
+- Setup Activity (3m)
+- Group Activity (12)
+- Debrief (3m)
 
 ### Actual Lesson
 
