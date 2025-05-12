@@ -7,8 +7,14 @@
 
 ### Setup
 
-- `02_01_ms_robozzle_functions_worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ/edit
+- `Robozzle and Functions Worksheet` loaded into Schoology
+    - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ
+
+### Pacing
+
+- Review (5m)
+- Robozzle Walkthrough (5m)
+- Robozzle (30m)
 
 ### Actual Lesson
 
@@ -55,3 +61,7 @@
 ### Homework
 
 - None
+
+### Possible Extensions
+
+- https://play.animogames.org/
