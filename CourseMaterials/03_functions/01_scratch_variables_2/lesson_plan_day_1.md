@@ -7,11 +7,8 @@
 
 ### Setup
 
-- Scratch PRIMM programs
-    - Preprogrammed scratch program that plays every instrument
-        - https://scratch.mit.edu/projects/1079717972/editor/
-    - `escalating_scales.sb` scales Loaded in Scratch
-        - https://scratch.mit.edu/projects/1142193764/
+- Scratch PRIMM/demo programs
+    - https://scratch.mit.edu/projects/1079717972/editor/
 - `Variables Input Worksheet` loaded into Schoology
     - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
 - `Recursion Worksheet` loaded into Schoology for advanced students
@@ -19,6 +16,12 @@
 - `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`
     - Allowed to take assessment up to two times
+
+### Pacing
+
+- Review (10m)
+- User Input (7m)
+- Variables Worksheet (23m)
 
 ### Actual Lesson
 
@@ -53,21 +56,21 @@
         - Program it together
             - Give them hint that 2.2 lbs per kg
             - See `PoundsToKgs` function in accompanying Scratch program
-    - Password program (if necessary/have attention)
-        - See `Password` function in accompanying Scratch program
 - Why is `ask and wait` useful?
     - Interaction with user
-- Start `variables_2_worksheet.docx`
+- Start `Variables Input Worksheet`
     - Give 3m to read through it then summarize as class
     - Go!
+        - Allow certain students to work individually if like
+            - Enables teacher to monitor weaker students (likely in pairs)
         - 7th graders get to ~question 6 in a 85m period
         - 9th graders get to ~question 9 in a 85m period
         - Both are starting to lose focus in last 15m (understandably)
 
 ### Homework
 
+- In short block
+    - None
 - If long block
     - Finish up to problem X in worksheet
     - Schoology assessment: `Homework: Scratch Variables`
-- In short block
-    - None
