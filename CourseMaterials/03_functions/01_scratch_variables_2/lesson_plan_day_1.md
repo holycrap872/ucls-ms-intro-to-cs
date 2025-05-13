@@ -56,16 +56,17 @@
         - Program it together
             - Give them hint that 2.2 lbs per kg
             - See `PoundsToKgs` function in accompanying Scratch program
+        - Add `if kgs < 0` -> `say "how is this possible"?`
 - Why is `ask and wait` useful?
     - Interaction with user
 - Start `Variables Input Worksheet`
     - Give 3m to read through it then summarize as class
-    - Go!
-        - Allow certain students to work individually if like
-            - Enables teacher to monitor weaker students (likely in pairs)
-        - 7th graders get to ~question 6 in a 85m period
-        - 9th graders get to ~question 9 in a 85m period
-        - Both are starting to lose focus in last 15m (understandably)
+- Go!
+    - Allow certain students to work individually if like
+        - Enables teacher to monitor weaker students (likely in pairs)
+    - 7th graders get to ~question 6 in a 85m period
+    - 9th graders get to ~question 9 in a 85m period
+    - Both are starting to lose focus in last 15m (understandably)
 
 ### Homework
 
