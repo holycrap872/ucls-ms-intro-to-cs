@@ -19,6 +19,14 @@ partners throughout the previous lessons.
 - `arena_rumble_final.sb` loaded up with the code hidden
     - https://scratch.mit.edu/projects/1134844443/editor/
 
+### Pacing
+
+- Review (5m)
+- PRIMM Click Game (5m)
+- Review Arena Rumble (5m)
+- Arena Rumble (20m)
+- Arena Rumble Debrief (5m)
+
 ### Actual Lesson
 
 - Review
@@ -27,9 +35,10 @@ partners throughout the previous lessons.
     - Video games and variables
 - Continue with Arena Rumble game, but first... PRIMM
     - Game where sprite jumps to new area every time clicked on
-        - `scratch_demos/click_game.sb`
+        - `click_game.sb`
     - What do you think this does?
     - Where could we add a variable?
+    - How could we make it randomly disappear
 - Review Arena Rumble
     - Two players
     - Show game and challenge someone
@@ -41,6 +50,10 @@ partners throughout the previous lessons.
     - Then duplicate player sprite
 - Go!
     - Do **individually**!
+- Debrief
+    - Play 2-3 other peoples' games
+    - Constructive criticism!
+        - Anyone can say "that sucks"
 
 ### Homework
 
