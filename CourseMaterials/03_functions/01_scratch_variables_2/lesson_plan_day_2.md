@@ -18,6 +18,12 @@
     - See `assessment.md`
     - Allowed to take assessment up to two times
 
+### Pacing
+
+- Review (10m)
+- Classwork (28m)
+- Reflect (2m)
+
 ### Actual Lesson
 
 - Review
@@ -44,5 +50,7 @@
 
 ### Homework
 
-- Finish up to problem X in worksheet
+- Finish up to an including problem X in worksheet
+   - Usually finish "blast off" problem -> 95
+   - 3 bonus points for each one after that
 - Schoology assessment: `Homework: Scratch Variables`
