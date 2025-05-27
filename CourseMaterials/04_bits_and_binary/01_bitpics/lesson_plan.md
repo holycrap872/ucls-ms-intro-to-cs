@@ -83,7 +83,7 @@
             - https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
 - What is difference between what we did and real pictures?
 
-#### Homework
+### Homework
 
 - Schoology assessment: `Homework: Binary Information`
 

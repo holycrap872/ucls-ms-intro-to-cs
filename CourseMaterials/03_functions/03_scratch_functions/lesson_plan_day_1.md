@@ -15,6 +15,13 @@
         - Asks users for number of iterations
         - Draws hexagons with increasing size of sides
 
+### Pacing
+
+- Review (7m)
+- Function Defintions (3m)
+- Class Coding (7m)
+- Begin Worksheet
+
 ### Actual Lesson
 
 - Review
@@ -45,14 +52,15 @@
         - Output: Hexagon of that size
         - Note: DO NOT do anything fancy with loops (that's next class)
 - Explain/talk through worksheet
-    - Work in pairs
+    - Ask if anyone would like to work individually
+    - Everyone else work in pairs
 - Go!
 
-#### Homework
+### Homework
 
 - None
 
-#### Possible Extensions
+### Possible Extensions
 
 - `real_life_functions.docx` printed out for homework
 - Slot machine that draws a bunch of different shapes at random

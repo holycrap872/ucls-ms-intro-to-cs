@@ -32,11 +32,11 @@
     - Work in pairs
 - Go!
 
-#### Homework
+### Homework
 
 - None
 
-#### Possible Extensions
+### Possible Extensions
 
 - `real_life_functions.docx` printed out for homework
 - Slot machine that draws a bunch of different shapes at random

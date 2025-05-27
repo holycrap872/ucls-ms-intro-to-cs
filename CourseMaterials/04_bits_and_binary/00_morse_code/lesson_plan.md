@@ -76,11 +76,11 @@
 - Introduce homework
     - Explain first problem
 
-#### Homework
+### Homework
 
 - Finish `Morse Code Worksheet`
 
-### Extensions
+### Possible Extensions
 
 - Watch "American Experience: The Great Transatlantic Cable"
 - As a class, encode in scratch a Morse code encoder that uses the tree (nested if/else)

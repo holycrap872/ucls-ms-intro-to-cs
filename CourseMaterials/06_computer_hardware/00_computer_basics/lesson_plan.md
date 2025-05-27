@@ -72,7 +72,7 @@
     - If I have a 4Ghz process, how fast is it?
 - Start homework
 
-#### Homework
+### Homework
 
 - Schoology assessment: `Homework: Computer Basics`
 

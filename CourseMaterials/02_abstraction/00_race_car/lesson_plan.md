@@ -65,6 +65,6 @@
         - Prepares for future lessons where high-level on left details on right
 - Go!
 
-#### Homework
+### Homework
 
 - Schoology assessment: `Homework: Scratch Functions`
