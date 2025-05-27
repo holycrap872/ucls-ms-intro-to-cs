@@ -19,6 +19,12 @@ partners throughout the previous lessons.
 
 ### Pacing
 
+- Review (5)
+- PRIMM Exercises (10m)
+- Explain Arena Rumble (5m)
+- Quick Design (5m)
+- Arena Rumble (15m)
+
 ### Actual Lesson
 
 - Review
