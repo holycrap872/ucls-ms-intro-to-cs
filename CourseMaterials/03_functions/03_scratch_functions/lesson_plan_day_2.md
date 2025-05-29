@@ -12,6 +12,13 @@
     - Money calculator
     - "ah one ah" program
 
+### Pacing
+
+- Review (5m)
+- Class Programming (5m)
+- Finish Worksheet (25m)
+- Wrap Uo (5m)
+
 ### Actual Lesson
 
 - Review
@@ -20,17 +27,18 @@
     - PRIMM "ah one ah" program
 - What is a function?
     - Input/output
-- Why functions?
-    - Abstraction
-    - Easier to reason
-    - Decompose a problem into pieces
-    - Functions **are a way of thinking**
 - Do an example together:
     - Student creates function that makes a square
     - I put it in a loop
 - Any questions about worksheet?
-    - Work in pairs
+    - Continue working (either individually or in pairs)
 - Go!
+- Reflection
+    - Why functions?
+        - Abstraction
+        - Easier to reason
+        - Decompose a problem into pieces
+    - Functions **are a way of thinking**
 
 ### Homework
 
