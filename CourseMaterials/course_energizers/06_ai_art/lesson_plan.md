@@ -15,9 +15,15 @@ there's a good discussion/reflection).
 
 - Get everyone in class access to firefly.adobe.com
     - Ask IT
-- YouTube video loaded up
-    - https://www.instagram.com/reel/DJB38xDOknd/
-- Article to seed conversation (TODO)
+
+### Pacing
+
+- What Do You Know About AI (5m)
+- AI Art Background (5m)
+- Recreate Dog Image (5m)
+- Class Recreate Georgia O'Keefe (5m)
+- Individually Recreate Image (8m)
+- Reflect (5m)
 
 ### Actual Lesson
 
@@ -25,13 +31,15 @@ there's a good discussion/reflection).
     - Have you used AI?
     - What do you know about AI art?
     - Iteratively using AI to improve
-- Article on AI art (TODO)
-    - 5m to read
-    - 5m to discuss
+- AI Art
+    - AI requires data to work
+    - Firefly uses licensed images
+    - Many ChatBots do not
 - Explain goal
     - See if can create AI image that matches a real image
-        - Reverse abstraction... getting more and more details
+        - Reverse abstraction... getting more and more details right
     - Show 4-5 prompts of me attempting to get closer to target image
+        - Trying to recreate a picture of my dog
     - What type of "art class" words can we use to describe things?
         - Be specific about what you see
         - "Light green triangular shapes in the foreground"
@@ -45,9 +53,14 @@ there's a good discussion/reflection).
     - Picture of kids sneaking out of house
     - Give around 7-10 minutes
 - Reflect
-    - What was easy?
-    - What was hard?
-    - Why did AI struggle to produce certain types of images
+    - How is this an example of a function?
+        - Text input, picture output
+        - Don't need to understand the details of what's going on inside function
+    - Why did AI struggle to produce certain types of images?
+        - Always pull coversation back to "data"
+            - Lots of people smiling because lots of "data"
+            - Difficult to get people behind couch because not much "data"
+    - How should we compensate artists?
     - Discuss how easy it is to make disinformation of people sneaking **into** house
 
 ### Extensions
