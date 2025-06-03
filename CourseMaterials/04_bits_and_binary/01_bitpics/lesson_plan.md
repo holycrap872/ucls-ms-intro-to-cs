@@ -14,7 +14,7 @@
 
 - Supplies for activity
     - 4 grids from `blank_grid.docx` (2 papers front/back) per student
-        - Print on "flip horizontal"
+        - **Print on "flip horizontal"**
     - Pencils
 - YouTube videos loaded up:
     - Morse code race: https://www.youtube.com/watch?v=pRuRE-Bwk1U
