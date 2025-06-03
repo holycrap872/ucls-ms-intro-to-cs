@@ -47,6 +47,6 @@
     ```
 0. Why are functions so powerful (select the **three** that apply)?
     - They let you reuse code without copying and pasting
-    - They make programs more general by using variables
+    - They make programs use fewer loops
     - They help organize code into logical pieces
     - They hide complicated details behind simple names
