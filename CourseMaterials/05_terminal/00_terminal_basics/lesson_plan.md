@@ -14,8 +14,12 @@
         - Enough docker images up and running
         ```
         docker pull erizzi/hp_terminal_tutorial
-        docker run -e IDENTIFIER=0 -it erizzi/hp_terminal_tutorial
+        docker run -e IDENTIFIER=0 HARD_MODE=0 -it erizzi/hp_terminal_tutorial
         ```
+    - Make sure to change `IDENTIFIER=0` to `IDENTIFIER=1`, `IDENTIFIER=2`, `IDENTIFIER=...`
+        - Each computer should get a new identifier
+        - Goes from 0 - 11
+        - For more advanced kids, can set `HARD_MODE=1`
     - All clues hidden in proper locations
     - Terminals in "Pro mode" (need white text) with dimensions 120x50
     - Demo with Apple's terminal (for consistency)
