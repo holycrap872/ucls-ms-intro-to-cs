@@ -1,22 +1,25 @@
 # What TODO at the Start of the Term
 
-- [ ] Reorder classes in Schoology so new ones at front
-- [ ] Set "class banner" in Schoology (see `resources/favicons`)
-- [ ] Copy over first three units (`Administration`, `Unit 0`, `Unit 1`)
 - [ ] Create new slideshow(s) and save in proper spot in GoogleDrive
-    - [ ] Move into correct folder in GoogleDrive (`ms_cs/administration/slides`)
-    - [ ] Create slide show
-    - [ ] Give proper theme and name
-- [ ] Link to new slideshow(s) in `Administration` folder
-    - [ ] Share with `Laboratory Schools`
-- [ ] Verify that assessments are enabled but not published
-    - [ ] `Homework: Hello World!` Schoology assessment
-    - [ ] `Homework: What's a Computer?` Schoology assessment
-- [ ] Create grade categories in `Grade Setup`
-    - [ ] Classwork: 70 (percent)
-    - [ ] Homework: 30 (percent)
+    - `Shared drives/Computer Science Department/Curriculum/ms_cs_2/202X/class_slides`
+    - Give proper theme and name
+- [ ] In Schoology, reorder classes so new ones at front
+- [ ] In Schoology, set "class banner" (see `resources/favicons/ms_cs_favicon.jpg`)
+- [ ] In Schoology, create `Administration` folder containing:
+    - `syllabus.pdf`
+    - `course_overview.pdf`
+    - `cs_office_location.pdf`
+    - Appointment Calendar
+    - Link to class's slideshow(s)
+- [ ] Copy over first three units (`Administration`, `Unit 0`, `Unit 1`)
+- [ ] In Schoology, verify that assessments are enabled but not published
+    - `Homework: Hello World!` Schoology assessment
+    - `Homework: What's a Computer?` Schoology assessment
+- [ ] In Schoology, create grade categories in `Grade Setup`
+    - Classwork: 70%
+    - Homework: 30%
 - [ ] Set up students in Scratch
-    - [ ] Create new class in Scratch
-    - [ ] Upload students (format of names: `2025-01-27-secX-fl`)
-    - [ ] For each student, fill out initial survey upon login (see `resources/scratch_filler`)
-- [ ] Print two copies of student roster (attendance and emergency book)
+    - Create new class in Scratch
+    - Upload students (format of names: `2025-01-27-secX-fl`)
+    - For each student, fill out initial survey upon login (see `resources/scratch_filler`)
+- [ ] Print two copies of student roster (attendance, and emergency book)
