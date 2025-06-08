@@ -25,9 +25,7 @@
     - Scratch
     - Programming
     - Done with programming
-        - What was easy?
-        - What was hard?
-        - Lessons
+        - Things to remember for 9th grade?
 - Now going to go lower on the abstraction tower (more details)
 - Who knows how computers store information?
     - Only thing computers understand: 1's and 0's
@@ -53,11 +51,10 @@
     - Can use anything that can send "two signals"
         - Blink out the word torture
         - https://www.youtube.com/watch?v=rufnWLVQcKg
-- Have students encode their own message use "flashers"
+- Have students encode their own message using "flashers"
     - Once done encoding, have them send it to a student across the room
     - Then switch and send it the other way
     - "I know all the swear words in Morse Code, so don't even try"
-    - Morse code race
 - How did Morse code change the world?
     - Sped up everything
     - Finance: could buy/sell stock before anyone else
