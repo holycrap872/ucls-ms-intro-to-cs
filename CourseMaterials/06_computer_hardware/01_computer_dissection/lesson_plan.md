@@ -12,9 +12,9 @@
     - Desktops to disassemble
     - Screw drivers
     - Paper towels (!!!!) for thermal paste
-- Copies of `computer_dissection.docx` printed out
-    - Also at https://docs.google.com/document/d/1v7W61-teY7z-Q2m_IeTFA9WUbAYAlF-9lcSjzYS1se8
-    - TODO: Which one to use?
+- `Computer Dissection Worksheet` GoogleDoc printed out
+    - https://docs.google.com/document/d/1v7W61-teY7z-Q2m_IeTFA9WUbAYAlF-9lcSjzYS1se8
+    - Printed out because students drawing sketches of computer parts
 
 ### Actual Lesson
 
@@ -45,7 +45,7 @@
     - Show Moore's law chart again
     - Periods of Kilo, Mega, Giga
 - Storage
-    - Take apart floppy disk
+    - Rip apart floppy disk
     - What do you see?
     - How do you think it works?
         - Where are the 1's and 0's?
