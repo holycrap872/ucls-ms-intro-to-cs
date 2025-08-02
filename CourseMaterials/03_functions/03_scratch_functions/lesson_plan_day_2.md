@@ -17,7 +17,7 @@
 - Review (5m)
 - Class Programming (5m)
 - Finish Worksheet (25m)
-- Wrap Uo (5m)
+- Wrap Up (5m)
 
 ### Actual Lesson
 
@@ -25,6 +25,7 @@
     - Functions
     - PRIMM money calculator
     - PRIMM "ah one ah" program
+    - FIXME: I don't really like these problems
 - What is a function?
     - Input/output
 - Do an example together:

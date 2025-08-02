@@ -64,6 +64,7 @@
             - two 1's, nine 0's, one 1
             - three 1's, seven 0's, two 1's
 - Encode a 4x4 checkerboard as a class
+    - Same way a camera works
 - Now going to make our own art
     - Going to make your own black and white design on this paper
     - Encode it
