@@ -10,7 +10,7 @@
 - Morse Code cheat sheets printed out
     - `morse_code_cheat_sheet.docx`
 - `Morse Code Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/16BgMv3VFcVysdXP0dQPrWidaMj7GvRP4sBnFuQGp8gU
+    - https://docs.google.com/document/d/1fLWpAcyPFnjr731VmXvxi7Db2wzQ-3r9f66lR68AyHk
 - The Morse Code "flashers" that are in the CS office
     - From https://usgamesinc.com
 - YouTube videos loaded up:

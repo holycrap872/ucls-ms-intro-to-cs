@@ -12,10 +12,11 @@
 - Scratch PRIMM programs
     - https://scratch.mit.edu/projects/1079717972/editor/
 - If coming back from long break
-    - https://docs.google.com/document/d/1P1v-A37LMQxyRIuo7QWFtNspdkV085uA-aTQwqFVzyc
+    - https://docs.google.com/document/d/1CQ4dmSCiIPzwQ_NRX7yymrMM3PCgJGBI76EAWY0mC8k
         - Similar problems as previous variable worksheet but assumes they forgot stuff
 - `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1CnWvyQ7vhZ6GJ1uOmyLygp7olNiNXHGs
     - Allowed to take assessment up to two times
 
 ### Pacing

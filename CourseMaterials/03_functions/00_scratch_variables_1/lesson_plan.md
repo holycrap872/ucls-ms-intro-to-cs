@@ -17,7 +17,7 @@ adding numbers that is modeled in Scratch. Finally, students start working on a
 - Headphones
     - Last seen in a box in C224
 - `Variables Music Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1osWJ4-gcEh9dyIKa-A2U5FLPZoC5V5XDkvYmPy8KBM8
+    - https://docs.google.com/document/d/1sdcnIp1QbvNLAOHwg4fybzU5h4vHhBBoN9iIyrXfsRA
 - Review examples will be making/using in class:
     - https://scratch.mit.edu/projects/945191863/editor/
 

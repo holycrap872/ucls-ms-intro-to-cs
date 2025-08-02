@@ -13,7 +13,7 @@
     - Screw drivers
     - Paper towels (!!!!) for thermal paste
 - `Computer Dissection Worksheet` GoogleDoc printed out
-    - https://docs.google.com/document/d/1v7W61-teY7z-Q2m_IeTFA9WUbAYAlF-9lcSjzYS1se8
+    - https://docs.google.com/document/d/1D3gu_QYjxwSZJmgyBi2fHKnpkdV7u90BxJWcr__FW6M
     - Printed out because students drawing sketches of computer parts
 
 ### Actual Lesson

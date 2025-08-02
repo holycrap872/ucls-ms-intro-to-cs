@@ -23,6 +23,7 @@ with minimal hints and then appreciate how engaging it can be.
     - Tron: https://youtu.be/hMT8tRrEMC4?t=84s
 - `Homework: The Game Loop Algorithm` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1Tn70Iq6blfAieHS5eL4Z7w5Eq8pGLelu
     - Allowed to take assessment up to two times
 
 ### Pacing

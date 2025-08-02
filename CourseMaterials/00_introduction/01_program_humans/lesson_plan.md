@@ -21,6 +21,7 @@ creating the program.
     - Ruler
 - `Homework: What's a Computer?` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1O0bRXyriKBctS6YIBW1Y8zryP_JGbrK5
     - Allowed to take assessment up to two times
 
 ### Pacing

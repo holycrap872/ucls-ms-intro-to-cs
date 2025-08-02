@@ -15,6 +15,7 @@
     - Students will "remix" it
 - `Homework: Scratch Functions` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1MzZBmk6M06A6yHXjlbPpsJXSP1A2-O_C
     - Allowed to take assessment up to two times
 
 ### Pacing

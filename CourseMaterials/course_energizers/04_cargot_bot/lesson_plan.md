@@ -9,7 +9,7 @@
 
 - `CargoBots Worksheet`
     - **TODO**
-    - https://docs.google.com/document/d/1CAsUpe_LYLCy8yzWb8I9U2i-VweMCExqkDYdQ7ek36Q
+    - https://docs.google.com/document/d/15Bk61fWhfiaj8f26zY-cPmVEvCM018fAT4_WJvV5ILw
         - Reflection on conditionals
         - Reflection on function names: "instead of p0, what's a better name"?
 

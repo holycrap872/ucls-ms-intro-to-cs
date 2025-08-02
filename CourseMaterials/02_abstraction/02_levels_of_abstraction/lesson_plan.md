@@ -16,6 +16,7 @@
     - How a toilet works: https://www.youtube.com/watch?v=vqcYXeJ02U8
 - `Homework: Thinking with Abstraction` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1GKuHizJr65Zeo5tLqStHJAvQ5UOnSahC
     - Allowed to take assessment up to two times
 
 ### Pacing

@@ -12,6 +12,7 @@
 - Computer parts: CPU, hard drive, memory
 - `Homework: Computer Basics` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1OIURzrBURnedYYjo0AWRhqZXA48WN-ra
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

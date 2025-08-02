@@ -22,6 +22,7 @@
     - Paintball GPU: https://youtu.be/fKK933KK6Gg?si=jQGR5mB67w9hWcOW&t=68
 - `Homework: Binary Information` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1Lx6UEngZPpjWwvvtM4D98pmAMn82Atki
     - Allowed to take assessment up to two times
 
 ### Actual Lesson

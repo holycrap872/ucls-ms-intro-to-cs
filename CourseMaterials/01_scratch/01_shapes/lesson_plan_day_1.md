@@ -7,7 +7,7 @@
 ### Setup
 
 - `Loops Worksheet` loaded into Schoology and ready to go
-    - https://docs.google.com/document/d/1QJ3Ye5Kob1owHJ9wxTG5fqtDNp6qh0nCd-ofXPj5gpg
+    - https://docs.google.com/document/d/17BLXGS58ZSL1-VxRcaDlKEDBKvvm6JHM1tnZ86lJn8U
 
 ### Pacing
 

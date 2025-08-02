@@ -8,7 +8,7 @@
 ### Setup
 
 - `Robozzle and Functions Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/19ykHJGduw7yxD03pZB4NkRHkpnK3uXweUoH8B4Z4ncQ
+    - https://docs.google.com/document/d/17-yCuMjUrcgstQtD6V-N7thjrwhJpbCLlrbYX9Z75WM
 
 ### Pacing
 

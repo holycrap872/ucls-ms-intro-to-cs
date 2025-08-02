@@ -14,14 +14,16 @@ abstractions that give computers their power.
 
 ## Navigation
 
-To understand the course, there are three places to look:
+To understand the course, there are four places to look:
 
 - The [Course Syllabus](./CourseDocuments/syllabus.md) document for 
   the general expectations of the course handed out at the beginning of the class.
 - The [Course Overview](./CourseDocuments/course_overview.md)
   document for and understanding of the units of covered in during the class.
-- The [Course Material](./CourseMaterial/) folder for the full set of lesson plans
-  and activities.
+- The [Course Slides](https://docs.google.com/presentation/d/1LZ9qW63k0Hhun7w6vYURNxZx-x9BmftrO0Ew-m6Dhyk)
+  that anchor each lesson.
+- The [Course Material](./CourseMaterial/) folder for the detail lesson plans
+  and activities that pair with the slides.
 
 ## Contributions
 

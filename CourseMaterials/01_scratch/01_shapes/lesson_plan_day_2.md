@@ -9,6 +9,7 @@
 - Have PRIMM triangle with squares at edges example up and ready to run in Scratch
 - `Homework: Scratch Loops` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1f2l1NWO_hWyToEGJoyHEh1Wa3DerZxq0
     - Allowed to take assessment up to two times
     - **Note**: One question has to do with parallel algorithms
         - Remove if haven't done that activity yet

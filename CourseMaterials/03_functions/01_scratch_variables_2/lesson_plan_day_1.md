@@ -10,11 +10,12 @@
 - Scratch PRIMM/demo programs
     - https://scratch.mit.edu/projects/1079717972/editor/
 - `Variables Input Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/1tpRePZyBDLDmE60vuD1WU4mthaM9E24hCT64WeBaptY
+    - https://docs.google.com/document/d/1cHjDVwejj73EAJD5KT3gSracBu60fSOyq0j7eEg90vo
 - `Recursion Worksheet` loaded into Schoology for advanced students
-    - https://docs.google.com/document/d/1VGcj9t_fHj2L0QG3CZi2lPPBK9K_qTAvZU6bS8G279M
+    - https://docs.google.com/document/d/1PwQBM1mcXMUavSEubQyCmljTlRxt_H7T67P3E__4NR0
 - `Homework: Scratch Variables` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1bo7wlrHStbkM13n1qt5T0ByxVXSpdhIY
     - Allowed to take assessment up to two times
 
 ### Pacing

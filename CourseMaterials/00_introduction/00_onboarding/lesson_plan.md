@@ -17,10 +17,11 @@ class field trip, and fill out the questionnaire.
     - One for attendance
     - One for "emergency book"
 - `Onboarding Questionnaire` GoogleDoc printed out
-    - https://docs.google.com/document/d/1jLx6iJktfbAsRTwGddn9544vgy5wNVRpV5TQ9ce3qrw
+    - https://docs.google.com/document/d/1ABoxhEScIJAWIpjhdIkHp4nMfjJSY_HW9yLSrTehhqQ
 - Logged into `console.aws.amazon.com`
 - `Homework: Hello World!` Schoology assessment posted
     - See `assessment.md`
+        - https://drive.google.com/file/d/1xXL7XR5TkpIX8-WRymO_9-c7QYb6fJGH
     - Allowed to take assessment up to two times
 
 ### Pacing

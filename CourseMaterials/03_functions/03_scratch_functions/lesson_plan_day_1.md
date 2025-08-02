@@ -9,7 +9,7 @@
 ### Setup
 
 - `Functions Worksheet` loaded into Schoology
-    - https://docs.google.com/document/d/14DGE2J2VyYLiN56obziLHPD10CooBt-Mu0_r10rxeCg
+    - https://docs.google.com/document/d/1dB_wVEuVe8m9_eM1GdfIlqaG4KdIrgTtWmJ1WGKxObQ
 - "Hexagon program" loaded up and ready to go
     - https://scratch.mit.edu/projects/1079719228
         - Asks users for number of iterations
