@@ -14,7 +14,7 @@
         - Enough docker images up and running
         ```
         docker pull erizzi/hp_terminal_tutorial
-        docker run -e IDENTIFIER=0 HARD_MODE=0 -it erizzi/hp_terminal_tutorial
+        docker run -e IDENTIFIER=0 -e HARD_MODE=0 -it erizzi/hp_terminal_tutorial
         ```
     - Make sure to change `IDENTIFIER=0` to `IDENTIFIER=1`, `IDENTIFIER=2`, `IDENTIFIER=...`
         - Each computer should get a new identifier
